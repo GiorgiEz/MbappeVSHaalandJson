@@ -1,0 +1,54 @@
+{
+    "Kylian Mbappe": {
+        "career": {
+            "apps": 577,
+            "goals": 435,
+            "assists": 158,
+            "minutes": 44489,
+            "minutes_per_goal": 102.27,
+            "minutes_per_goal_contribution": 75.02
+        },
+        "club": {
+            "apps": 471,
+            "goals": 369,
+            "assists": 120,
+            "minutes": 36299,
+            "minutes_per_goal": 98.37,
+            "minutes_per_goal_contribution": 74.23
+        },
+        "country": {
+            "apps": 106,
+            "goals": 66,
+            "assists": 38,
+            "minutes": 8190,
+            "minutes_per_goal": 124.09,
+            "minutes_per_goal_contribution": 78.75
+        }
+    },
+    "Erling Haaland": {
+        "career": {
+            "apps": 435,
+            "goals": 359,
+            "assists": 68,
+            "minutes": 32399,
+            "minutes_per_goal": 90.25,
+            "minutes_per_goal_contribution": 75.88
+        },
+        "club": {
+            "apps": 380,
+            "goals": 297,
+            "assists": 60,
+            "minutes": 27901,
+            "minutes_per_goal": 93.94,
+            "minutes_per_goal_contribution": 78.15
+        },
+        "country": {
+            "apps": 55,
+            "goals": 62,
+            "assists": 8,
+            "minutes": 4498,
+            "minutes_per_goal": 72.55,
+            "minutes_per_goal_contribution": 64.26
+        }
+    }
+}

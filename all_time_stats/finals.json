@@ -1,0 +1,196 @@
+{
+    "Kylian Mbappe": {
+        "overall": {
+            "apps": 20,
+            "goals": 12,
+            "assists": 5,
+            "minutes": 1647,
+            "minutes_per_goal": 137.25,
+            "minutes_per_goal_contribution": 96.88
+        },
+        "competitions": {
+            "Champions Lg": {
+                "stats": {
+                    "apps": 1,
+                    "goals": 0,
+                    "assists": 0,
+                    "minutes": 90,
+                    "minutes_per_goal": null,
+                    "minutes_per_goal_contribution": null
+                }
+            },
+            "Copa del Rey": {
+                "stats": {
+                    "apps": 1,
+                    "goals": 1,
+                    "assists": 0,
+                    "minutes": 75,
+                    "minutes_per_goal": 75.0,
+                    "minutes_per_goal_contribution": 75.0
+                }
+            },
+            "Coupe de France": {
+                "stats": {
+                    "apps": 5,
+                    "goals": 1,
+                    "assists": 1,
+                    "minutes": 413,
+                    "minutes_per_goal": 413.0,
+                    "minutes_per_goal_contribution": 206.5
+                }
+            },
+            "Coupe de la Ligue": {
+                "stats": {
+                    "apps": 2,
+                    "goals": 0,
+                    "assists": 2,
+                    "minutes": 180,
+                    "minutes_per_goal": null,
+                    "minutes_per_goal_contribution": 90.0
+                }
+            },
+            "Intercontinental Cup": {
+                "stats": {
+                    "apps": 1,
+                    "goals": 1,
+                    "assists": 1,
+                    "minutes": 62,
+                    "minutes_per_goal": 62.0,
+                    "minutes_per_goal_contribution": 31.0
+                }
+            },
+            "Super Cup": {
+                "stats": {
+                    "apps": 1,
+                    "goals": 1,
+                    "assists": 0,
+                    "minutes": 82,
+                    "minutes_per_goal": 82.0,
+                    "minutes_per_goal_contribution": 82.0
+                }
+            },
+            "Supercopa de España": {
+                "stats": {
+                    "apps": 2,
+                    "goals": 1,
+                    "assists": 0,
+                    "minutes": 105,
+                    "minutes_per_goal": 105.0,
+                    "minutes_per_goal_contribution": 105.0
+                }
+            },
+            "Trophée des Champions": {
+                "stats": {
+                    "apps": 4,
+                    "goals": 2,
+                    "assists": 0,
+                    "minutes": 340,
+                    "minutes_per_goal": 170.0,
+                    "minutes_per_goal_contribution": 170.0
+                }
+            },
+            "UEFA Nations League": {
+                "stats": {
+                    "apps": 1,
+                    "goals": 1,
+                    "assists": 1,
+                    "minutes": 90,
+                    "minutes_per_goal": 90.0,
+                    "minutes_per_goal_contribution": 45.0
+                }
+            },
+            "World Cup": {
+                "stats": {
+                    "apps": 2,
+                    "goals": 4,
+                    "assists": 0,
+                    "minutes": 210,
+                    "minutes_per_goal": 52.5,
+                    "minutes_per_goal_contribution": 52.5
+                }
+            }
+        }
+    },
+    "Erling Haaland": {
+        "overall": {
+            "apps": 13,
+            "goals": 3,
+            "assists": 2,
+            "minutes": 1119,
+            "minutes_per_goal": 373.0,
+            "minutes_per_goal_contribution": 223.8
+        },
+        "competitions": {
+            "Champions Lg": {
+                "stats": {
+                    "apps": 1,
+                    "goals": 0,
+                    "assists": 0,
+                    "minutes": 90,
+                    "minutes_per_goal": null,
+                    "minutes_per_goal_contribution": null
+                }
+            },
+            "Community Shield": {
+                "stats": {
+                    "apps": 3,
+                    "goals": 0,
+                    "assists": 0,
+                    "minutes": 243,
+                    "minutes_per_goal": null,
+                    "minutes_per_goal_contribution": null
+                }
+            },
+            "DFB-Pokal": {
+                "stats": {
+                    "apps": 1,
+                    "goals": 2,
+                    "assists": 0,
+                    "minutes": 89,
+                    "minutes_per_goal": 44.5,
+                    "minutes_per_goal_contribution": 44.5
+                }
+            },
+            "DFL-Supercup": {
+                "stats": {
+                    "apps": 2,
+                    "goals": 1,
+                    "assists": 1,
+                    "minutes": 157,
+                    "minutes_per_goal": 157.0,
+                    "minutes_per_goal_contribution": 78.5
+                }
+            },
+            "EFL Cup": {
+                "stats": {
+                    "apps": 1,
+                    "goals": 0,
+                    "assists": 0,
+                    "minutes": 90,
+                    "minutes_per_goal": null,
+                    "minutes_per_goal_contribution": null
+                }
+            },
+            "FA Cup": {
+                "stats": {
+                    "apps": 4,
+                    "goals": 0,
+                    "assists": 1,
+                    "minutes": 360,
+                    "minutes_per_goal": null,
+                    "minutes_per_goal_contribution": 360.0
+                }
+            },
+            "Super Cup": {
+                "stats": {
+                    "apps": 1,
+                    "goals": 0,
+                    "assists": 0,
+                    "minutes": 90,
+                    "minutes_per_goal": null,
+                    "minutes_per_goal_contribution": null
+                }
+            }
+        }
+    }
+}

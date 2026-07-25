@@ -1,0 +1,1842 @@
+{
+    "Kylian Mbappe": [
+        {
+            "opponent": "Montpellier",
+            "apps": 15,
+            "goals": 15,
+            "assists": 6
+        },
+        {
+            "opponent": "Lyon",
+            "apps": 16,
+            "goals": 13,
+            "assists": 1
+        },
+        {
+            "opponent": "Monaco",
+            "apps": 15,
+            "goals": 13,
+            "assists": 4
+        },
+        {
+            "opponent": "Marseille",
+            "apps": 17,
+            "goals": 12,
+            "assists": 3
+        },
+        {
+            "opponent": "Dijon",
+            "apps": 11,
+            "goals": 12,
+            "assists": 3
+        },
+        {
+            "opponent": "Barcelona",
+            "apps": 10,
+            "goals": 12,
+            "assists": 0
+        },
+        {
+            "opponent": "Metz",
+            "apps": 8,
+            "goals": 12,
+            "assists": 2
+        },
+        {
+            "opponent": "Lille",
+            "apps": 15,
+            "goals": 11,
+            "assists": 6
+        },
+        {
+            "opponent": "Nantes",
+            "apps": 15,
+            "goals": 11,
+            "assists": 3
+        },
+        {
+            "opponent": "Rennes",
+            "apps": 17,
+            "goals": 10,
+            "assists": 5
+        },
+        {
+            "opponent": "Angers",
+            "apps": 8,
+            "goals": 10,
+            "assists": 4
+        },
+        {
+            "opponent": "Saint-Étienne",
+            "apps": 13,
+            "goals": 9,
+            "assists": 3
+        },
+        {
+            "opponent": "Brest",
+            "apps": 11,
+            "goals": 9,
+            "assists": 1
+        },
+        {
+            "opponent": "Strasbourg",
+            "apps": 12,
+            "goals": 8,
+            "assists": 6
+        },
+        {
+            "opponent": "Reims",
+            "apps": 11,
+            "goals": 7,
+            "assists": 3
+        },
+        {
+            "opponent": "Caen",
+            "apps": 8,
+            "goals": 7,
+            "assists": 2
+        },
+        {
+            "opponent": "Manchester City",
+            "apps": 8,
+            "goals": 7,
+            "assists": 1
+        },
+        {
+            "opponent": "Real Sociedad",
+            "apps": 6,
+            "goals": 7,
+            "assists": 1
+        },
+        {
+            "opponent": "Nîmes",
+            "apps": 5,
+            "goals": 7,
+            "assists": 2
+        },
+        {
+            "opponent": "Bordeaux",
+            "apps": 13,
+            "goals": 6,
+            "assists": 4
+        },
+        {
+            "opponent": "Nice",
+            "apps": 13,
+            "goals": 6,
+            "assists": 2
+        },
+        {
+            "opponent": "Toulouse",
+            "apps": 10,
+            "goals": 6,
+            "assists": 0
+        },
+        {
+            "opponent": "Lorient",
+            "apps": 8,
+            "goals": 6,
+            "assists": 4
+        },
+        {
+            "opponent": "Netherlands",
+            "apps": 5,
+            "goals": 6,
+            "assists": 1
+        },
+        {
+            "opponent": "Dortmund",
+            "apps": 10,
+            "goals": 5,
+            "assists": 2
+        },
+        {
+            "opponent": "Bayern Munich",
+            "apps": 9,
+            "goals": 5,
+            "assists": 1
+        },
+        {
+            "opponent": "Guingamp",
+            "apps": 6,
+            "goals": 5,
+            "assists": 1
+        },
+        {
+            "opponent": "Clermont Foot",
+            "apps": 5,
+            "goals": 5,
+            "assists": 2
+        },
+        {
+            "opponent": "Club Brugge",
+            "apps": 4,
+            "goals": 5,
+            "assists": 3
+        },
+        {
+            "opponent": "Villarreal",
+            "apps": 4,
+            "goals": 5,
+            "assists": 1
+        },
+        {
+            "opponent": "Argentina",
+            "apps": 2,
+            "goals": 5,
+            "assists": 0
+        },
+        {
+            "opponent": "US Pays de Cassel",
+            "apps": 1,
+            "goals": 5,
+            "assists": 1
+        },
+        {
+            "opponent": "Juventus",
+            "apps": 6,
+            "goals": 4,
+            "assists": 1
+        },
+        {
+            "opponent": "Lens",
+            "apps": 6,
+            "goals": 4,
+            "assists": 3
+        },
+        {
+            "opponent": "Amiens",
+            "apps": 5,
+            "goals": 4,
+            "assists": 0
+        },
+        {
+            "opponent": "Celta Vigo",
+            "apps": 4,
+            "goals": 4,
+            "assists": 0
+        },
+        {
+            "opponent": "Ukraine",
+            "apps": 4,
+            "goals": 4,
+            "assists": 2
+        },
+        {
+            "opponent": "Ajaccio",
+            "apps": 2,
+            "goals": 4,
+            "assists": 1
+        },
+        {
+            "opponent": "Gibraltar",
+            "apps": 2,
+            "goals": 4,
+            "assists": 2
+        },
+        {
+            "opponent": "Kazakhstan",
+            "apps": 2,
+            "goals": 4,
+            "assists": 1
+        },
+        {
+            "opponent": "Olympiacos",
+            "apps": 1,
+            "goals": 4,
+            "assists": 0
+        },
+        {
+            "opponent": "Troyes",
+            "apps": 6,
+            "goals": 3,
+            "assists": 1
+        },
+        {
+            "opponent": "Real Madrid",
+            "apps": 5,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "Alavés",
+            "apps": 4,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "Benfica",
+            "apps": 4,
+            "goals": 3,
+            "assists": 1
+        },
+        {
+            "opponent": "Sevilla",
+            "apps": 4,
+            "goals": 3,
+            "assists": 1
+        },
+        {
+            "opponent": "Sweden",
+            "apps": 4,
+            "goals": 3,
+            "assists": 1
+        },
+        {
+            "opponent": "Valencia",
+            "apps": 4,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "Athletic Club",
+            "apps": 3,
+            "goals": 3,
+            "assists": 1
+        },
+        {
+            "opponent": "Iceland",
+            "apps": 3,
+            "goals": 3,
+            "assists": 3
+        },
+        {
+            "opponent": "Auxerre",
+            "apps": 2,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "Leganés",
+            "apps": 2,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "Levante",
+            "apps": 2,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "Maccabi Haifa",
+            "apps": 2,
+            "goals": 3,
+            "assists": 2
+        },
+        {
+            "opponent": "Poland",
+            "apps": 2,
+            "goals": 3,
+            "assists": 1
+        },
+        {
+            "opponent": "Valladolid",
+            "apps": 2,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "FC Kairat",
+            "apps": 1,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "US Revel",
+            "apps": 1,
+            "goals": 3,
+            "assists": 1
+        },
+        {
+            "opponent": "Vannes",
+            "apps": 1,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "Atlético Madrid",
+            "apps": 5,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Croatia",
+            "apps": 5,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Spain",
+            "apps": 5,
+            "goals": 2,
+            "assists": 3
+        },
+        {
+            "opponent": "Denmark",
+            "apps": 4,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Girona",
+            "apps": 4,
+            "goals": 2,
+            "assists": 1
+        },
+        {
+            "opponent": "Osasuna",
+            "apps": 4,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Atalanta",
+            "apps": 3,
+            "goals": 2,
+            "assists": 1
+        },
+        {
+            "opponent": "Austria",
+            "apps": 3,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "England",
+            "apps": 3,
+            "goals": 2,
+            "assists": 2
+        },
+        {
+            "opponent": "Espanyol",
+            "apps": 3,
+            "goals": 2,
+            "assists": 1
+        },
+        {
+            "opponent": "Rayo Vallecano",
+            "apps": 3,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Real Betis",
+            "apps": 3,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Başakşehir",
+            "apps": 2,
+            "goals": 2,
+            "assists": 3
+        },
+        {
+            "opponent": "Celtic",
+            "apps": 2,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Getafe",
+            "apps": 2,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Las Palmas",
+            "apps": 2,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Orléans",
+            "apps": 2,
+            "goals": 2,
+            "assists": 2
+        },
+        {
+            "opponent": "Oviedo",
+            "apps": 2,
+            "goals": 2,
+            "assists": 1
+        },
+        {
+            "opponent": "Red Star",
+            "apps": 2,
+            "goals": 2,
+            "assists": 3
+        },
+        {
+            "opponent": "CF Talavera de la Reina",
+            "apps": 1,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Iraq",
+            "apps": 1,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Russia",
+            "apps": 1,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "SC Feignies",
+            "apps": 1,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Senegal",
+            "apps": 1,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "South Africa",
+            "apps": 1,
+            "goals": 2,
+            "assists": 1
+        },
+        {
+            "opponent": "Germany",
+            "apps": 6,
+            "goals": 1,
+            "assists": 2
+        },
+        {
+            "opponent": "Mallorca",
+            "apps": 5,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Belgium",
+            "apps": 4,
+            "goals": 1,
+            "assists": 1
+        },
+        {
+            "opponent": "Liverpool",
+            "apps": 4,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Manchester Utd",
+            "apps": 4,
+            "goals": 1,
+            "assists": 1
+        },
+        {
+            "opponent": "RB Leipzig",
+            "apps": 4,
+            "goals": 1,
+            "assists": 1
+        },
+        {
+            "opponent": "Luxembourg",
+            "apps": 3,
+            "goals": 1,
+            "assists": 2
+        },
+        {
+            "opponent": "Milan",
+            "apps": 3,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Nancy",
+            "apps": 3,
+            "goals": 1,
+            "assists": 2
+        },
+        {
+            "opponent": "Anderlecht",
+            "apps": 2,
+            "goals": 1,
+            "assists": 2
+        },
+        {
+            "opponent": "Australia",
+            "apps": 2,
+            "goals": 1,
+            "assists": 1
+        },
+        {
+            "opponent": "Bastia",
+            "apps": 2,
+            "goals": 1,
+            "assists": 1
+        },
+        {
+            "opponent": "Galatasaray",
+            "apps": 2,
+            "goals": 1,
+            "assists": 2
+        },
+        {
+            "opponent": "Greece",
+            "apps": 2,
+            "goals": 1,
+            "assists": 1
+        },
+        {
+            "opponent": "Le Havre",
+            "apps": 2,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Moldova",
+            "apps": 2,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Morocco",
+            "apps": 2,
+            "goals": 1,
+            "assists": 1
+        },
+        {
+            "opponent": "Newcastle",
+            "apps": 2,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Wales",
+            "apps": 2,
+            "goals": 1,
+            "assists": 2
+        },
+        {
+            "opponent": "Andorra",
+            "apps": 1,
+            "goals": 1,
+            "assists": 1
+        },
+        {
+            "opponent": "Azerbaijan",
+            "apps": 1,
+            "goals": 1,
+            "assists": 1
+        },
+        {
+            "opponent": "Brazil",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "FC Chambly Oise",
+            "apps": 1,
+            "goals": 1,
+            "assists": 1
+        },
+        {
+            "opponent": "Finland",
+            "apps": 1,
+            "goals": 1,
+            "assists": 1
+        },
+        {
+            "opponent": "GSI Pontivy",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Le Mans",
+            "apps": 1,
+            "goals": 1,
+            "assists": 1
+        },
+        {
+            "opponent": "Pachuca",
+            "apps": 1,
+            "goals": 1,
+            "assists": 1
+        },
+        {
+            "opponent": "Paraguay",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Peru",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "RB Salzburg",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Scotland",
+            "apps": 1,
+            "goals": 1,
+            "assists": 1
+        },
+        {
+            "opponent": "Stuttgart",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "United States",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "PSG",
+            "apps": 5,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Portugal",
+            "apps": 3,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Rep. of Ireland",
+            "apps": 3,
+            "goals": 0,
+            "assists": 2
+        },
+        {
+            "opponent": "Arsenal",
+            "apps": 2,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Bosnia–Herz",
+            "apps": 2,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Bulgaria",
+            "apps": 2,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "CSKA Moscow",
+            "apps": 2,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Colombia",
+            "apps": 2,
+            "goals": 0,
+            "assists": 1
+        },
+        {
+            "opponent": "Italy",
+            "apps": 2,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Napoli",
+            "apps": 2,
+            "goals": 0,
+            "assists": 1
+        },
+        {
+            "opponent": "Uruguay",
+            "apps": 2,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "AC Ajaccio",
+            "apps": 1,
+            "goals": 0,
+            "assists": 1
+        },
+        {
+            "opponent": "Belarus",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Bolivia",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "CD Minera",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Canada",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Chile",
+            "apps": 1,
+            "goals": 0,
+            "assists": 1
+        },
+        {
+            "opponent": "Côte d'Ivoire",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Elche",
+            "apps": 1,
+            "goals": 0,
+            "assists": 1
+        },
+        {
+            "opponent": "FC Villefranche",
+            "apps": 1,
+            "goals": 0,
+            "assists": 2
+        },
+        {
+            "opponent": "Hungary",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Les Herbiers VF",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Leverkusen",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Northern Ireland",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Norway",
+            "apps": 1,
+            "goals": 0,
+            "assists": 2
+        },
+        {
+            "opponent": "Sochaux",
+            "apps": 1,
+            "goals": 0,
+            "assists": 1
+        },
+        {
+            "opponent": "Switzerland",
+            "apps": 1,
+            "goals": 0,
+            "assists": 1
+        },
+        {
+            "opponent": "Tottenham",
+            "apps": 1,
+            "goals": 0,
+            "assists": 1
+        },
+        {
+            "opponent": "Tunisia",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Türkiye",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Évian",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        }
+    ],
+    "Erling Haaland": [
+        {
+            "opponent": "RB Leipzig",
+            "apps": 8,
+            "goals": 12,
+            "assists": 0
+        },
+        {
+            "opponent": "West Ham",
+            "apps": 8,
+            "goals": 11,
+            "assists": 1
+        },
+        {
+            "opponent": "Wolves",
+            "apps": 7,
+            "goals": 10,
+            "assists": 0
+        },
+        {
+            "opponent": "Liverpool",
+            "apps": 11,
+            "goals": 8,
+            "assists": 1
+        },
+        {
+            "opponent": "Manchester Utd",
+            "apps": 10,
+            "goals": 8,
+            "assists": 3
+        },
+        {
+            "opponent": "Fulham",
+            "apps": 8,
+            "goals": 8,
+            "assists": 3
+        },
+        {
+            "opponent": "Crystal Palace",
+            "apps": 6,
+            "goals": 8,
+            "assists": 0
+        },
+        {
+            "opponent": "Burnley",
+            "apps": 5,
+            "goals": 8,
+            "assists": 1
+        },
+        {
+            "opponent": "Bayern Munich",
+            "apps": 9,
+            "goals": 7,
+            "assists": 2
+        },
+        {
+            "opponent": "Brighton",
+            "apps": 7,
+            "goals": 7,
+            "assists": 1
+        },
+        {
+            "opponent": "Everton",
+            "apps": 6,
+            "goals": 7,
+            "assists": 0
+        },
+        {
+            "opponent": "Arsenal",
+            "apps": 11,
+            "goals": 6,
+            "assists": 2
+        },
+        {
+            "opponent": "Sevilla",
+            "apps": 4,
+            "goals": 6,
+            "assists": 1
+        },
+        {
+            "opponent": "Luton Town",
+            "apps": 2,
+            "goals": 6,
+            "assists": 0
+        },
+        {
+            "opponent": "Moldova",
+            "apps": 2,
+            "goals": 6,
+            "assists": 3
+        },
+        {
+            "opponent": "RZ Pellets WAC",
+            "apps": 2,
+            "goals": 6,
+            "assists": 0
+        },
+        {
+            "opponent": "Bournemouth",
+            "apps": 9,
+            "goals": 5,
+            "assists": 1
+        },
+        {
+            "opponent": "Nottingham",
+            "apps": 8,
+            "goals": 5,
+            "assists": 1
+        },
+        {
+            "opponent": "Brentford",
+            "apps": 7,
+            "goals": 5,
+            "assists": 2
+        },
+        {
+            "opponent": "Wolfsburg",
+            "apps": 5,
+            "goals": 5,
+            "assists": 1
+        },
+        {
+            "opponent": "Hertha BSC",
+            "apps": 4,
+            "goals": 5,
+            "assists": 0
+        },
+        {
+            "opponent": "Brann",
+            "apps": 3,
+            "goals": 5,
+            "assists": 1
+        },
+        {
+            "opponent": "Chelsea",
+            "apps": 9,
+            "goals": 4,
+            "assists": 3
+        },
+        {
+            "opponent": "Real Madrid",
+            "apps": 8,
+            "goals": 4,
+            "assists": 0
+        },
+        {
+            "opponent": "Tottenham",
+            "apps": 8,
+            "goals": 4,
+            "assists": 2
+        },
+        {
+            "opponent": "Southampton",
+            "apps": 6,
+            "goals": 4,
+            "assists": 0
+        },
+        {
+            "opponent": "Freiburg",
+            "apps": 5,
+            "goals": 4,
+            "assists": 2
+        },
+        {
+            "opponent": "Leverkusen",
+            "apps": 5,
+            "goals": 4,
+            "assists": 1
+        },
+        {
+            "opponent": "Gladbach",
+            "apps": 4,
+            "goals": 4,
+            "assists": 1
+        },
+        {
+            "opponent": "Köln",
+            "apps": 4,
+            "goals": 4,
+            "assists": 0
+        },
+        {
+            "opponent": "Napoli",
+            "apps": 4,
+            "goals": 4,
+            "assists": 0
+        },
+        {
+            "opponent": "Slovenia",
+            "apps": 4,
+            "goals": 4,
+            "assists": 1
+        },
+        {
+            "opponent": "Club Brugge",
+            "apps": 3,
+            "goals": 4,
+            "assists": 0
+        },
+        {
+            "opponent": "Schalke 04",
+            "apps": 3,
+            "goals": 4,
+            "assists": 1
+        },
+        {
+            "opponent": "Sweden",
+            "apps": 3,
+            "goals": 4,
+            "assists": 1
+        },
+        {
+            "opponent": "Union Berlin",
+            "apps": 3,
+            "goals": 4,
+            "assists": 0
+        },
+        {
+            "opponent": "Werder Bremen",
+            "apps": 3,
+            "goals": 4,
+            "assists": 0
+        },
+        {
+            "opponent": "Cyprus",
+            "apps": 2,
+            "goals": 4,
+            "assists": 1
+        },
+        {
+            "opponent": "Genk",
+            "apps": 2,
+            "goals": 4,
+            "assists": 1
+        },
+        {
+            "opponent": "Ipswich Town",
+            "apps": 2,
+            "goals": 4,
+            "assists": 0
+        },
+        {
+            "opponent": "Israel",
+            "apps": 2,
+            "goals": 4,
+            "assists": 0
+        },
+        {
+            "opponent": "Young Boys",
+            "apps": 2,
+            "goals": 4,
+            "assists": 0
+        },
+        {
+            "opponent": "Hoffenheim",
+            "apps": 5,
+            "goals": 3,
+            "assists": 1
+        },
+        {
+            "opponent": "Frankfurt",
+            "apps": 4,
+            "goals": 3,
+            "assists": 4
+        },
+        {
+            "opponent": "Augsburg",
+            "apps": 3,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "FC Copenhagen",
+            "apps": 3,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "PSG",
+            "apps": 3,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "Beşiktaş",
+            "apps": 2,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "Bochum",
+            "apps": 2,
+            "goals": 3,
+            "assists": 1
+        },
+        {
+            "opponent": "Estonia",
+            "apps": 2,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "Gibraltar",
+            "apps": 2,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "Italy",
+            "apps": 2,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "Kazakhstan",
+            "apps": 2,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "Leicester City",
+            "apps": 2,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "Hartberg",
+            "apps": 1,
+            "goals": 3,
+            "assists": 2
+        },
+        {
+            "opponent": "Kosovo",
+            "apps": 1,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "Romania",
+            "apps": 1,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "SC/ESV Parndorf",
+            "apps": 1,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "Wiesbaden",
+            "apps": 1,
+            "goals": 3,
+            "assists": 0
+        },
+        {
+            "opponent": "Mainz 05",
+            "apps": 5,
+            "goals": 2,
+            "assists": 1
+        },
+        {
+            "opponent": "Sarpsborg 08",
+            "apps": 4,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Austria",
+            "apps": 3,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Dortmund",
+            "apps": 3,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Leeds United",
+            "apps": 3,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Vålerenga",
+            "apps": 3,
+            "goals": 2,
+            "assists": 1
+        },
+        {
+            "opponent": "Zenit",
+            "apps": 3,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Greuther Fürth",
+            "apps": 2,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Northern Ireland",
+            "apps": 2,
+            "goals": 2,
+            "assists": 1
+        },
+        {
+            "opponent": "WSG Tirol",
+            "apps": 2,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Armenia",
+            "apps": 1,
+            "goals": 2,
+            "assists": 1
+        },
+        {
+            "opponent": "Brazil",
+            "apps": 1,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Feyenoord",
+            "apps": 1,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Hibernian",
+            "apps": 1,
+            "goals": 2,
+            "assists": 1
+        },
+        {
+            "opponent": "Iraq",
+            "apps": 1,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Monaco",
+            "apps": 1,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Senegal",
+            "apps": 1,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "Sparta Prague",
+            "apps": 1,
+            "goals": 2,
+            "assists": 0
+        },
+        {
+            "opponent": "St. Pölten",
+            "apps": 1,
+            "goals": 2,
+            "assists": 1
+        },
+        {
+            "opponent": "Newcastle",
+            "apps": 10,
+            "goals": 1,
+            "assists": 3
+        },
+        {
+            "opponent": "Aston Villa",
+            "apps": 5,
+            "goals": 1,
+            "assists": 1
+        },
+        {
+            "opponent": "Bodø/Glimt",
+            "apps": 3,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Kristiansund BK",
+            "apps": 3,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Rapid Wien",
+            "apps": 3,
+            "goals": 1,
+            "assists": 1
+        },
+        {
+            "opponent": "Serbia",
+            "apps": 3,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Strømsgodset",
+            "apps": 3,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Admira Wacker",
+            "apps": 2,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Juventus",
+            "apps": 2,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "LASK",
+            "apps": 2,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Lillestrøm",
+            "apps": 2,
+            "goals": 1,
+            "assists": 1
+        },
+        {
+            "opponent": "Mattersburg",
+            "apps": 2,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Sheffield United",
+            "apps": 2,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Slovakia",
+            "apps": 2,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Tromsø",
+            "apps": 2,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Al Ain",
+            "apps": 1,
+            "goals": 1,
+            "assists": 1
+        },
+        {
+            "opponent": "Al-Hilal",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Côte d'Ivoire",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Denmark",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Düsseldorf",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Ebreichsdorf",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Finland",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Galatasaray",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Georgia",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Latvia",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Lazio",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Laçi",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Luxembourg",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Netherlands",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Paderborn 07",
+            "apps": 1,
+            "goals": 1,
+            "assists": 1
+        },
+        {
+            "opponent": "Scotland",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Slovan Bratislava",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "St Pauli",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Viking",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Villarreal",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Volda TI",
+            "apps": 1,
+            "goals": 1,
+            "assists": 0
+        },
+        {
+            "opponent": "Ranheim",
+            "apps": 4,
+            "goals": 0,
+            "assists": 1
+        },
+        {
+            "opponent": "Sandefjord",
+            "apps": 4,
+            "goals": 0,
+            "assists": 1
+        },
+        {
+            "opponent": "Haugesund",
+            "apps": 3,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Kristiansund",
+            "apps": 3,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Odd",
+            "apps": 3,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Stabæk",
+            "apps": 3,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Arminia",
+            "apps": 2,
+            "goals": 0,
+            "assists": 1
+        },
+        {
+            "opponent": "Fredrikstad FK",
+            "apps": 2,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Hødd",
+            "apps": 2,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Inter",
+            "apps": 2,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "KFUM Oslo",
+            "apps": 2,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Manchester City",
+            "apps": 2,
+            "goals": 0,
+            "assists": 1
+        },
+        {
+            "opponent": "Rosenborg",
+            "apps": 2,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Strømmen",
+            "apps": 2,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Stuttgart",
+            "apps": 2,
+            "goals": 0,
+            "assists": 2
+        },
+        {
+            "opponent": "Sunderland",
+            "apps": 2,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Aalesund",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Ajax",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Czechia",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "England",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Exeter City",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Faroe Islands",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Glenavon FC",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Grazer AK 1902",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Greece",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Jerv",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Kongsvinger",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Lillestrøm SK",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "MSV Duisburg",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Malta",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Montenegro",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Morocco",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Plymouth Argyle",
+            "apps": 1,
+            "goals": 0,
+            "assists": 1
+        },
+        {
+            "opponent": "Red Star",
+            "apps": 1,
+            "goals": 0,
+            "assists": 1
+        },
+        {
+            "opponent": "Sandnes Ulf",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Spain",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Sporting CP",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Start",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Sturm Graz",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Switzerland",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Türkiye",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Ullensaker/Kisa",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Wiener Neustadt",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "opponent": "Wydad AC",
+            "apps": 1,
+            "goals": 0,
+            "assists": 0
+        }
+    ]
+}

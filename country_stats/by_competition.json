@@ -1,0 +1,114 @@
+{
+    "Kylian Mbappe": {
+        "overall": {
+            "apps": 106,
+            "goals": 66,
+            "assists": 38,
+            "minutes": 8190,
+            "minutes_per_goal": 124.09,
+            "minutes_per_goal_contribution": 78.75
+        },
+        "competitions": {
+            "Friendlies (M)": {
+                "apps": 25,
+                "goals": 11,
+                "assists": 12,
+                "minutes": 1709,
+                "minutes_per_goal": 155.36,
+                "minutes_per_goal_contribution": 74.3
+            },
+            "UEFA Euro": {
+                "apps": 9,
+                "goals": 1,
+                "assists": 2,
+                "minutes": 854,
+                "minutes_per_goal": 854.0,
+                "minutes_per_goal_contribution": 284.67
+            },
+            "UEFA Euro qual.": {
+                "apps": 13,
+                "goals": 12,
+                "assists": 8,
+                "minutes": 1107,
+                "minutes_per_goal": 92.25,
+                "minutes_per_goal_contribution": 55.35
+            },
+            "UEFA Nations League": {
+                "apps": 21,
+                "goals": 9,
+                "assists": 5,
+                "minutes": 1664,
+                "minutes_per_goal": 184.89,
+                "minutes_per_goal_contribution": 118.86
+            },
+            "WCQ": {
+                "apps": 16,
+                "goals": 11,
+                "assists": 5,
+                "minutes": 1031,
+                "minutes_per_goal": 93.73,
+                "minutes_per_goal_contribution": 64.44
+            },
+            "World Cup": {
+                "apps": 22,
+                "goals": 22,
+                "assists": 6,
+                "minutes": 1825,
+                "minutes_per_goal": 82.95,
+                "minutes_per_goal_contribution": 65.18
+            }
+        }
+    },
+    "Erling Haaland": {
+        "overall": {
+            "apps": 55,
+            "goals": 62,
+            "assists": 8,
+            "minutes": 4498,
+            "minutes_per_goal": 72.55,
+            "minutes_per_goal_contribution": 64.26
+        },
+        "competitions": {
+            "Friendlies (M)": {
+                "apps": 12,
+                "goals": 9,
+                "assists": 1,
+                "minutes": 841,
+                "minutes_per_goal": 93.44,
+                "minutes_per_goal_contribution": 84.1
+            },
+            "UEFA Euro qual.": {
+                "apps": 8,
+                "goals": 6,
+                "assists": 1,
+                "minutes": 626,
+                "minutes_per_goal": 104.33,
+                "minutes_per_goal_contribution": 89.43
+            },
+            "UEFA Nations League": {
+                "apps": 16,
+                "goals": 19,
+                "assists": 3,
+                "minutes": 1373,
+                "minutes_per_goal": 72.26,
+                "minutes_per_goal_contribution": 62.41
+            },
+            "WCQ": {
+                "apps": 14,
+                "goals": 21,
+                "assists": 3,
+                "minutes": 1193,
+                "minutes_per_goal": 56.81,
+                "minutes_per_goal_contribution": 49.71
+            },
+            "World Cup": {
+                "apps": 5,
+                "goals": 7,
+                "assists": 0,
+                "minutes": 465,
+                "minutes_per_goal": 66.43,
+                "minutes_per_goal_contribution": 66.43
+            }
+        }
+    }
+}
