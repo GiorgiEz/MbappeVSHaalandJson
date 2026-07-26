@@ -1,7 +1,7 @@
 {
     "Kylian Mbappe": {
         "Club World Cup": {
-            "total": {
+            "overall": {
                 "apps": 3,
                 "goals": 1,
                 "assists": 0,
@@ -21,7 +21,7 @@
             }
         },
         "Continental Club Cup": {
-            "total": {
+            "overall": {
                 "apps": 99,
                 "goals": 70,
                 "assists": 26,
@@ -49,7 +49,7 @@
             }
         },
         "Domestic Cup": {
-            "total": {
+            "overall": {
                 "apps": 49,
                 "goals": 46,
                 "assists": 20,
@@ -85,7 +85,7 @@
             }
         },
         "Domestic League": {
-            "total": {
+            "overall": {
                 "apps": 311,
                 "goals": 247,
                 "assists": 73,
@@ -113,7 +113,7 @@
             }
         },
         "Domestic Super Cup": {
-            "total": {
+            "overall": {
                 "apps": 7,
                 "goals": 3,
                 "assists": 0,
@@ -141,7 +141,7 @@
             }
         },
         "Friendly": {
-            "total": {
+            "overall": {
                 "apps": 25,
                 "goals": 11,
                 "assists": 12,
@@ -161,7 +161,7 @@
             }
         },
         "Intercontinental Super Cup": {
-            "total": {
+            "overall": {
                 "apps": 2,
                 "goals": 2,
                 "assists": 1,
@@ -189,7 +189,7 @@
             }
         },
         "International Qualifying": {
-            "total": {
+            "overall": {
                 "apps": 29,
                 "goals": 23,
                 "assists": 13,
@@ -217,7 +217,7 @@
             }
         },
         "International Tournament": {
-            "total": {
+            "overall": {
                 "apps": 52,
                 "goals": 32,
                 "assists": 13,
@@ -255,7 +255,7 @@
     },
     "Erling Haaland": {
         "Club World Cup": {
-            "total": {
+            "overall": {
                 "apps": 4,
                 "goals": 3,
                 "assists": 1,
@@ -275,7 +275,7 @@
             }
         },
         "Continental Club Cup": {
-            "total": {
+            "overall": {
                 "apps": 64,
                 "goals": 61,
                 "assists": 6,
@@ -303,7 +303,7 @@
             }
         },
         "Domestic Cup": {
-            "total": {
+            "overall": {
                 "apps": 36,
                 "goals": 27,
                 "assists": 3,
@@ -355,7 +355,7 @@
             }
         },
         "Domestic League": {
-            "total": {
+            "overall": {
                 "apps": 270,
                 "goals": 205,
                 "assists": 49,
@@ -399,7 +399,7 @@
             }
         },
         "Domestic Super Cup": {
-            "total": {
+            "overall": {
                 "apps": 5,
                 "goals": 1,
                 "assists": 1,
@@ -427,7 +427,7 @@
             }
         },
         "Friendly": {
-            "total": {
+            "overall": {
                 "apps": 12,
                 "goals": 9,
                 "assists": 1,
@@ -447,7 +447,7 @@
             }
         },
         "Intercontinental Super Cup": {
-            "total": {
+            "overall": {
                 "apps": 1,
                 "goals": 0,
                 "assists": 0,
@@ -467,7 +467,7 @@
             }
         },
         "International Qualifying": {
-            "total": {
+            "overall": {
                 "apps": 22,
                 "goals": 27,
                 "assists": 4,
@@ -495,7 +495,7 @@
             }
         },
         "International Tournament": {
-            "total": {
+            "overall": {
                 "apps": 21,
                 "goals": 26,
                 "assists": 3,
