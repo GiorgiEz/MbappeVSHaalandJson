@@ -1,7 +1,6 @@
 {
-  "players": [
+  "Kylian Mbappe":
     {
-      "player": "Kylian Mbappe",
       "team_trophies": [
         {
           "title": "FIFA World Cup",
@@ -336,8 +335,7 @@
         }
       ]
     },
-    {
-      "player": "Erling Haaland",
+    "Erling Haaland": {
       "team_trophies": [
         {
           "title": "UEFA Champions League",
@@ -607,5 +605,4 @@
         }
       ]
     }
-  ]
 }
