@@ -9,7 +9,7 @@
             "minutes_per_goal_contribution": 78.75
         },
         "competitions": {
-            "Friendlies (M)": {
+            "Friendlies": {
                 "apps": 25,
                 "goals": 11,
                 "assists": 12,
@@ -25,7 +25,7 @@
                 "minutes_per_goal": 854.0,
                 "minutes_per_goal_contribution": 284.67
             },
-            "UEFA Euro qual.": {
+            "UEFA Euro Qualifying": {
                 "apps": 13,
                 "goals": 12,
                 "assists": 8,
@@ -41,14 +41,6 @@
                 "minutes_per_goal": 184.89,
                 "minutes_per_goal_contribution": 118.86
             },
-            "WCQ": {
-                "apps": 16,
-                "goals": 11,
-                "assists": 5,
-                "minutes": 1031,
-                "minutes_per_goal": 93.73,
-                "minutes_per_goal_contribution": 64.44
-            },
             "World Cup": {
                 "apps": 22,
                 "goals": 22,
@@ -56,6 +48,14 @@
                 "minutes": 1825,
                 "minutes_per_goal": 82.95,
                 "minutes_per_goal_contribution": 65.18
+            },
+            "World Cup Qualifying": {
+                "apps": 16,
+                "goals": 11,
+                "assists": 5,
+                "minutes": 1031,
+                "minutes_per_goal": 93.73,
+                "minutes_per_goal_contribution": 64.44
             }
         }
     },
@@ -69,7 +69,7 @@
             "minutes_per_goal_contribution": 64.26
         },
         "competitions": {
-            "Friendlies (M)": {
+            "Friendlies": {
                 "apps": 12,
                 "goals": 9,
                 "assists": 1,
@@ -77,7 +77,7 @@
                 "minutes_per_goal": 93.44,
                 "minutes_per_goal_contribution": 84.1
             },
-            "UEFA Euro qual.": {
+            "UEFA Euro Qualifying": {
                 "apps": 8,
                 "goals": 6,
                 "assists": 1,
@@ -93,14 +93,6 @@
                 "minutes_per_goal": 72.26,
                 "minutes_per_goal_contribution": 62.41
             },
-            "WCQ": {
-                "apps": 14,
-                "goals": 21,
-                "assists": 3,
-                "minutes": 1193,
-                "minutes_per_goal": 56.81,
-                "minutes_per_goal_contribution": 49.71
-            },
             "World Cup": {
                 "apps": 5,
                 "goals": 7,
@@ -108,6 +100,14 @@
                 "minutes": 465,
                 "minutes_per_goal": 66.43,
                 "minutes_per_goal_contribution": 66.43
+            },
+            "World Cup Qualifying": {
+                "apps": 14,
+                "goals": 21,
+                "assists": 3,
+                "minutes": 1193,
+                "minutes_per_goal": 56.81,
+                "minutes_per_goal_contribution": 49.71
             }
         }
     }

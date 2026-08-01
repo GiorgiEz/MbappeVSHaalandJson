@@ -26,14 +26,6 @@
                     "minutes_per_goal": null,
                     "minutes_per_goal_contribution": null
                 },
-                "Europa Lg": {
-                    "apps": 1,
-                    "goals": 0,
-                    "assists": 1,
-                    "minutes": 35,
-                    "minutes_per_goal": null,
-                    "minutes_per_goal_contribution": 35.0
-                },
                 "Ligue 1": {
                     "apps": 11,
                     "goals": 1,
@@ -41,27 +33,27 @@
                     "minutes": 295,
                     "minutes_per_goal": 295.0,
                     "minutes_per_goal_contribution": 147.5
+                },
+                "UEFA Europa League": {
+                    "apps": 1,
+                    "goals": 0,
+                    "assists": 1,
+                    "minutes": 35,
+                    "minutes_per_goal": null,
+                    "minutes_per_goal_contribution": 35.0
                 }
             }
         },
         "16/17": {
             "overall": {
-                "apps": 45,
+                "apps": 49,
                 "goals": 26,
-                "assists": 11,
-                "minutes": 2701,
-                "minutes_per_goal": 103.88,
-                "minutes_per_goal_contribution": 73.0
+                "assists": 12,
+                "minutes": 2883,
+                "minutes_per_goal": 110.88,
+                "minutes_per_goal_contribution": 75.87
             },
             "competitions": {
-                "Champions Lg": {
-                    "apps": 9,
-                    "goals": 6,
-                    "assists": 0,
-                    "minutes": 536,
-                    "minutes_per_goal": 89.33,
-                    "minutes_per_goal_contribution": 89.33
-                },
                 "Coupe de France": {
                     "apps": 3,
                     "goals": 2,
@@ -78,6 +70,14 @@
                     "minutes_per_goal": 88.67,
                     "minutes_per_goal_contribution": 88.67
                 },
+                "Friendlies": {
+                    "apps": 2,
+                    "goals": 0,
+                    "assists": 1,
+                    "minutes": 154,
+                    "minutes_per_goal": null,
+                    "minutes_per_goal_contribution": 154.0
+                },
                 "Ligue 1": {
                     "apps": 29,
                     "goals": 15,
@@ -93,27 +93,35 @@
                     "minutes": 70,
                     "minutes_per_goal": null,
                     "minutes_per_goal_contribution": null
+                },
+                "UEFA Champions League": {
+                    "apps": 9,
+                    "goals": 6,
+                    "assists": 0,
+                    "minutes": 536,
+                    "minutes_per_goal": 89.33,
+                    "minutes_per_goal_contribution": 89.33
+                },
+                "World Cup Qualifying": {
+                    "apps": 2,
+                    "goals": 0,
+                    "assists": 0,
+                    "minutes": 28,
+                    "minutes_per_goal": null,
+                    "minutes_per_goal_contribution": null
                 }
             }
         },
         "17/18": {
             "overall": {
-                "apps": 45,
-                "goals": 21,
-                "assists": 16,
-                "minutes": 3471,
-                "minutes_per_goal": 165.29,
-                "minutes_per_goal_contribution": 93.81
+                "apps": 63,
+                "goals": 29,
+                "assists": 20,
+                "minutes": 4758,
+                "minutes_per_goal": 164.07,
+                "minutes_per_goal_contribution": 97.1
             },
             "competitions": {
-                "Champions Lg": {
-                    "apps": 8,
-                    "goals": 4,
-                    "assists": 3,
-                    "minutes": 653,
-                    "minutes_per_goal": 163.25,
-                    "minutes_per_goal_contribution": 93.29
-                },
                 "Coupe de France": {
                     "apps": 5,
                     "goals": 4,
@@ -130,6 +138,14 @@
                     "minutes_per_goal": null,
                     "minutes_per_goal_contribution": 127.0
                 },
+                "Friendlies": {
+                    "apps": 7,
+                    "goals": 3,
+                    "assists": 4,
+                    "minutes": 568,
+                    "minutes_per_goal": 189.33,
+                    "minutes_per_goal_contribution": 81.14
+                },
                 "Ligue 1": {
                     "apps": 28,
                     "goals": 13,
@@ -137,27 +153,43 @@
                     "minutes": 2168,
                     "minutes_per_goal": 166.77,
                     "minutes_per_goal_contribution": 103.24
+                },
+                "UEFA Champions League": {
+                    "apps": 8,
+                    "goals": 4,
+                    "assists": 3,
+                    "minutes": 653,
+                    "minutes_per_goal": 163.25,
+                    "minutes_per_goal_contribution": 93.29
+                },
+                "World Cup": {
+                    "apps": 7,
+                    "goals": 4,
+                    "assists": 0,
+                    "minutes": 532,
+                    "minutes_per_goal": 133.0,
+                    "minutes_per_goal_contribution": 133.0
+                },
+                "World Cup Qualifying": {
+                    "apps": 4,
+                    "goals": 1,
+                    "assists": 0,
+                    "minutes": 187,
+                    "minutes_per_goal": 187.0,
+                    "minutes_per_goal_contribution": 187.0
                 }
             }
         },
         "18/19": {
             "overall": {
-                "apps": 43,
-                "goals": 39,
-                "assists": 15,
-                "minutes": 3520,
-                "minutes_per_goal": 90.26,
-                "minutes_per_goal_contribution": 65.19
+                "apps": 54,
+                "goals": 44,
+                "assists": 18,
+                "minutes": 4346,
+                "minutes_per_goal": 98.77,
+                "minutes_per_goal_contribution": 70.1
             },
             "competitions": {
-                "Champions Lg": {
-                    "apps": 8,
-                    "goals": 4,
-                    "assists": 5,
-                    "minutes": 699,
-                    "minutes_per_goal": 174.75,
-                    "minutes_per_goal_contribution": 77.67
-                },
                 "Coupe de France": {
                     "apps": 4,
                     "goals": 2,
@@ -174,6 +206,14 @@
                     "minutes_per_goal": null,
                     "minutes_per_goal_contribution": null
                 },
+                "Friendlies": {
+                    "apps": 3,
+                    "goals": 1,
+                    "assists": 0,
+                    "minutes": 111,
+                    "minutes_per_goal": 111.0,
+                    "minutes_per_goal_contribution": 111.0
+                },
                 "Ligue 1": {
                     "apps": 29,
                     "goals": 33,
@@ -181,27 +221,43 @@
                     "minutes": 2343,
                     "minutes_per_goal": 71.0,
                     "minutes_per_goal_contribution": 58.58
+                },
+                "UEFA Champions League": {
+                    "apps": 8,
+                    "goals": 4,
+                    "assists": 5,
+                    "minutes": 699,
+                    "minutes_per_goal": 174.75,
+                    "minutes_per_goal_contribution": 77.67
+                },
+                "UEFA Euro Qualifying": {
+                    "apps": 4,
+                    "goals": 3,
+                    "assists": 3,
+                    "minutes": 360,
+                    "minutes_per_goal": 120.0,
+                    "minutes_per_goal_contribution": 60.0
+                },
+                "UEFA Nations League": {
+                    "apps": 4,
+                    "goals": 1,
+                    "assists": 0,
+                    "minutes": 355,
+                    "minutes_per_goal": 355.0,
+                    "minutes_per_goal_contribution": 355.0
                 }
             }
         },
         "19/20": {
             "overall": {
-                "apps": 34,
+                "apps": 35,
                 "goals": 30,
                 "assists": 13,
-                "minutes": 2510,
-                "minutes_per_goal": 83.67,
-                "minutes_per_goal_contribution": 58.37
+                "minutes": 2600,
+                "minutes_per_goal": 86.67,
+                "minutes_per_goal_contribution": 60.47
             },
             "competitions": {
-                "Champions Lg": {
-                    "apps": 7,
-                    "goals": 5,
-                    "assists": 4,
-                    "minutes": 448,
-                    "minutes_per_goal": 89.6,
-                    "minutes_per_goal_contribution": 49.78
-                },
                 "Coupe de France": {
                     "apps": 3,
                     "goals": 4,
@@ -233,27 +289,35 @@
                     "minutes": 90,
                     "minutes_per_goal": 90.0,
                     "minutes_per_goal_contribution": 90.0
+                },
+                "UEFA Champions League": {
+                    "apps": 7,
+                    "goals": 5,
+                    "assists": 4,
+                    "minutes": 448,
+                    "minutes_per_goal": 89.6,
+                    "minutes_per_goal_contribution": 49.78
+                },
+                "UEFA Euro Qualifying": {
+                    "apps": 1,
+                    "goals": 0,
+                    "assists": 0,
+                    "minutes": 90,
+                    "minutes_per_goal": null,
+                    "minutes_per_goal_contribution": null
                 }
             }
         },
         "20/21": {
             "overall": {
-                "apps": 50,
-                "goals": 42,
-                "assists": 12,
-                "minutes": 3919,
-                "minutes_per_goal": 93.31,
-                "minutes_per_goal_contribution": 72.57
+                "apps": 64,
+                "goals": 46,
+                "assists": 16,
+                "minutes": 4990,
+                "minutes_per_goal": 108.48,
+                "minutes_per_goal_contribution": 80.48
             },
             "competitions": {
-                "Champions Lg": {
-                    "apps": 13,
-                    "goals": 8,
-                    "assists": 4,
-                    "minutes": 1105,
-                    "minutes_per_goal": 138.12,
-                    "minutes_per_goal_contribution": 92.08
-                },
                 "Coupe de France": {
                     "apps": 5,
                     "goals": 7,
@@ -261,6 +325,14 @@
                     "minutes": 344,
                     "minutes_per_goal": 49.14,
                     "minutes_per_goal_contribution": 43.0
+                },
+                "Friendlies": {
+                    "apps": 3,
+                    "goals": 2,
+                    "assists": 2,
+                    "minutes": 200,
+                    "minutes_per_goal": 100.0,
+                    "minutes_per_goal_contribution": 50.0
                 },
                 "Ligue 1": {
                     "apps": 31,
@@ -277,27 +349,51 @@
                     "minutes": 90,
                     "minutes_per_goal": null,
                     "minutes_per_goal_contribution": null
+                },
+                "UEFA Champions League": {
+                    "apps": 13,
+                    "goals": 8,
+                    "assists": 4,
+                    "minutes": 1105,
+                    "minutes_per_goal": 138.12,
+                    "minutes_per_goal_contribution": 92.08
+                },
+                "UEFA Euro": {
+                    "apps": 4,
+                    "goals": 0,
+                    "assists": 1,
+                    "minutes": 390,
+                    "minutes_per_goal": null,
+                    "minutes_per_goal_contribution": 390.0
+                },
+                "UEFA Nations League": {
+                    "apps": 4,
+                    "goals": 2,
+                    "assists": 1,
+                    "minutes": 283,
+                    "minutes_per_goal": 141.5,
+                    "minutes_per_goal_contribution": 94.33
+                },
+                "World Cup Qualifying": {
+                    "apps": 3,
+                    "goals": 0,
+                    "assists": 0,
+                    "minutes": 198,
+                    "minutes_per_goal": null,
+                    "minutes_per_goal_contribution": null
                 }
             }
         },
         "21/22": {
             "overall": {
-                "apps": 46,
-                "goals": 39,
-                "assists": 21,
-                "minutes": 3901,
-                "minutes_per_goal": 100.03,
-                "minutes_per_goal_contribution": 65.02
+                "apps": 55,
+                "goals": 49,
+                "assists": 26,
+                "minutes": 4600,
+                "minutes_per_goal": 93.88,
+                "minutes_per_goal_contribution": 61.33
             },
             "competitions": {
-                "Champions Lg": {
-                    "apps": 8,
-                    "goals": 6,
-                    "assists": 4,
-                    "minutes": 671,
-                    "minutes_per_goal": 111.83,
-                    "minutes_per_goal_contribution": 67.1
-                },
                 "Coupe de France": {
                     "apps": 3,
                     "goals": 5,
@@ -306,6 +402,14 @@
                     "minutes_per_goal": 41.4,
                     "minutes_per_goal_contribution": 41.4
                 },
+                "Friendlies": {
+                    "apps": 1,
+                    "goals": 2,
+                    "assists": 1,
+                    "minutes": 90,
+                    "minutes_per_goal": 45.0,
+                    "minutes_per_goal_contribution": 30.0
+                },
                 "Ligue 1": {
                     "apps": 35,
                     "goals": 28,
@@ -313,27 +417,43 @@
                     "minutes": 3023,
                     "minutes_per_goal": 107.96,
                     "minutes_per_goal_contribution": 67.18
+                },
+                "UEFA Champions League": {
+                    "apps": 8,
+                    "goals": 6,
+                    "assists": 4,
+                    "minutes": 671,
+                    "minutes_per_goal": 111.83,
+                    "minutes_per_goal_contribution": 67.1
+                },
+                "UEFA Nations League": {
+                    "apps": 5,
+                    "goals": 3,
+                    "assists": 2,
+                    "minutes": 343,
+                    "minutes_per_goal": 114.33,
+                    "minutes_per_goal_contribution": 68.6
+                },
+                "World Cup Qualifying": {
+                    "apps": 3,
+                    "goals": 5,
+                    "assists": 2,
+                    "minutes": 266,
+                    "minutes_per_goal": 53.2,
+                    "minutes_per_goal_contribution": 38.0
                 }
             }
         },
         "22/23": {
             "overall": {
-                "apps": 43,
-                "goals": 41,
-                "assists": 9,
-                "minutes": 3559,
-                "minutes_per_goal": 86.8,
-                "minutes_per_goal_contribution": 71.18
+                "apps": 56,
+                "goals": 54,
+                "assists": 12,
+                "minutes": 4696,
+                "minutes_per_goal": 86.96,
+                "minutes_per_goal_contribution": 71.15
             },
             "competitions": {
-                "Champions Lg": {
-                    "apps": 8,
-                    "goals": 7,
-                    "assists": 3,
-                    "minutes": 651,
-                    "minutes_per_goal": 93.0,
-                    "minutes_per_goal_contribution": 65.1
-                },
                 "Coupe de France": {
                     "apps": 1,
                     "goals": 5,
@@ -349,27 +469,51 @@
                     "minutes": 2818,
                     "minutes_per_goal": 97.17,
                     "minutes_per_goal_contribution": 82.88
+                },
+                "UEFA Champions League": {
+                    "apps": 8,
+                    "goals": 7,
+                    "assists": 3,
+                    "minutes": 651,
+                    "minutes_per_goal": 93.0,
+                    "minutes_per_goal_contribution": 65.1
+                },
+                "UEFA Euro Qualifying": {
+                    "apps": 4,
+                    "goals": 4,
+                    "assists": 1,
+                    "minutes": 360,
+                    "minutes_per_goal": 90.0,
+                    "minutes_per_goal_contribution": 72.0
+                },
+                "UEFA Nations League": {
+                    "apps": 2,
+                    "goals": 1,
+                    "assists": 0,
+                    "minutes": 179,
+                    "minutes_per_goal": 179.0,
+                    "minutes_per_goal_contribution": 179.0
+                },
+                "World Cup": {
+                    "apps": 7,
+                    "goals": 8,
+                    "assists": 2,
+                    "minutes": 598,
+                    "minutes_per_goal": 74.75,
+                    "minutes_per_goal_contribution": 59.8
                 }
             }
         },
         "23/24": {
             "overall": {
-                "apps": 48,
-                "goals": 44,
-                "assists": 10,
-                "minutes": 3868,
-                "minutes_per_goal": 87.91,
-                "minutes_per_goal_contribution": 71.63
+                "apps": 62,
+                "goals": 52,
+                "assists": 19,
+                "minutes": 5002,
+                "minutes_per_goal": 96.19,
+                "minutes_per_goal_contribution": 70.45
             },
             "competitions": {
-                "Champions Lg": {
-                    "apps": 12,
-                    "goals": 8,
-                    "assists": 0,
-                    "minutes": 1080,
-                    "minutes_per_goal": 135.0,
-                    "minutes_per_goal_contribution": 135.0
-                },
                 "Coupe de France": {
                     "apps": 6,
                     "goals": 8,
@@ -377,6 +521,14 @@
                     "minutes": 540,
                     "minutes_per_goal": 67.5,
                     "minutes_per_goal_contribution": 49.09
+                },
+                "Friendlies": {
+                    "apps": 5,
+                    "goals": 2,
+                    "assists": 4,
+                    "minutes": 373,
+                    "minutes_per_goal": 186.5,
+                    "minutes_per_goal_contribution": 62.17
                 },
                 "Ligue 1": {
                     "apps": 29,
@@ -393,27 +545,43 @@
                     "minutes": 90,
                     "minutes_per_goal": 90.0,
                     "minutes_per_goal_contribution": 90.0
+                },
+                "UEFA Champions League": {
+                    "apps": 12,
+                    "goals": 8,
+                    "assists": 0,
+                    "minutes": 1080,
+                    "minutes_per_goal": 135.0,
+                    "minutes_per_goal_contribution": 135.0
+                },
+                "UEFA Euro": {
+                    "apps": 5,
+                    "goals": 1,
+                    "assists": 1,
+                    "minutes": 464,
+                    "minutes_per_goal": 464.0,
+                    "minutes_per_goal_contribution": 232.0
+                },
+                "UEFA Euro Qualifying": {
+                    "apps": 4,
+                    "goals": 5,
+                    "assists": 4,
+                    "minutes": 297,
+                    "minutes_per_goal": 59.4,
+                    "minutes_per_goal_contribution": 33.0
                 }
             }
         },
         "24/25": {
             "overall": {
-                "apps": 59,
-                "goals": 44,
-                "assists": 5,
-                "minutes": 4731,
-                "minutes_per_goal": 107.52,
-                "minutes_per_goal_contribution": 96.55
+                "apps": 65,
+                "goals": 46,
+                "assists": 7,
+                "minutes": 5235,
+                "minutes_per_goal": 113.8,
+                "minutes_per_goal_contribution": 98.77
             },
             "competitions": {
-                "Champions Lg": {
-                    "apps": 14,
-                    "goals": 7,
-                    "assists": 1,
-                    "minutes": 1127,
-                    "minutes_per_goal": 161.0,
-                    "minutes_per_goal_contribution": 140.88
-                },
                 "Club World Cup": {
                     "apps": 3,
                     "goals": 1,
@@ -461,27 +629,35 @@
                     "minutes": 180,
                     "minutes_per_goal": 180.0,
                     "minutes_per_goal_contribution": 180.0
+                },
+                "UEFA Champions League": {
+                    "apps": 14,
+                    "goals": 7,
+                    "assists": 1,
+                    "minutes": 1127,
+                    "minutes_per_goal": 161.0,
+                    "minutes_per_goal_contribution": 140.88
+                },
+                "UEFA Nations League": {
+                    "apps": 6,
+                    "goals": 2,
+                    "assists": 2,
+                    "minutes": 504,
+                    "minutes_per_goal": 252.0,
+                    "minutes_per_goal_contribution": 126.0
                 }
             }
         },
         "25/26": {
             "overall": {
-                "apps": 44,
-                "goals": 42,
-                "assists": 6,
-                "minutes": 3616,
-                "minutes_per_goal": 86.1,
-                "minutes_per_goal_contribution": 75.33
+                "apps": 60,
+                "goals": 58,
+                "assists": 13,
+                "minutes": 4876,
+                "minutes_per_goal": 84.07,
+                "minutes_per_goal_contribution": 68.68
             },
             "competitions": {
-                "Champions Lg": {
-                    "apps": 11,
-                    "goals": 15,
-                    "assists": 1,
-                    "minutes": 912,
-                    "minutes_per_goal": 60.8,
-                    "minutes_per_goal_contribution": 57.0
-                },
                 "Copa del Rey": {
                     "apps": 1,
                     "goals": 2,
@@ -489,6 +665,14 @@
                     "minutes": 90,
                     "minutes_per_goal": 45.0,
                     "minutes_per_goal_contribution": 45.0
+                },
+                "Friendlies": {
+                    "apps": 4,
+                    "goals": 1,
+                    "assists": 0,
+                    "minutes": 213,
+                    "minutes_per_goal": 213.0,
+                    "minutes_per_goal_contribution": 213.0
                 },
                 "La Liga": {
                     "apps": 31,
@@ -505,6 +689,30 @@
                     "minutes": 15,
                     "minutes_per_goal": null,
                     "minutes_per_goal_contribution": null
+                },
+                "UEFA Champions League": {
+                    "apps": 11,
+                    "goals": 15,
+                    "assists": 1,
+                    "minutes": 912,
+                    "minutes_per_goal": 60.8,
+                    "minutes_per_goal_contribution": 57.0
+                },
+                "World Cup": {
+                    "apps": 8,
+                    "goals": 10,
+                    "assists": 4,
+                    "minutes": 695,
+                    "minutes_per_goal": 69.5,
+                    "minutes_per_goal_contribution": 49.64
+                },
+                "World Cup Qualifying": {
+                    "apps": 4,
+                    "goals": 5,
+                    "assists": 3,
+                    "minutes": 352,
+                    "minutes_per_goal": 70.4,
+                    "minutes_per_goal_contribution": 44.0
                 }
             }
         }
@@ -584,14 +792,6 @@
                     "minutes_per_goal": 113.9,
                     "minutes_per_goal_contribution": 94.92
                 },
-                "Europa Lg": {
-                    "apps": 2,
-                    "goals": 1,
-                    "assists": 0,
-                    "minutes": 153,
-                    "minutes_per_goal": 153.0,
-                    "minutes_per_goal_contribution": 153.0
-                },
                 "NM-Cup": {
                     "apps": 3,
                     "goals": 1,
@@ -599,6 +799,14 @@
                     "minutes": 99,
                     "minutes_per_goal": 99.0,
                     "minutes_per_goal_contribution": 99.0
+                },
+                "UEFA Europa League": {
+                    "apps": 2,
+                    "goals": 1,
+                    "assists": 0,
+                    "minutes": 153,
+                    "minutes_per_goal": 153.0,
+                    "minutes_per_goal_contribution": 153.0
                 }
             }
         },
@@ -628,7 +836,7 @@
                     "minutes_per_goal": 200.25,
                     "minutes_per_goal_contribution": 114.43
                 },
-                "Europa Lg": {
+                "UEFA Europa League": {
                     "apps": 4,
                     "goals": 3,
                     "assists": 1,
@@ -648,12 +856,12 @@
         },
         "19/20": {
             "overall": {
-                "apps": 38,
+                "apps": 40,
                 "goals": 41,
                 "assists": 6,
-                "minutes": 2583,
-                "minutes_per_goal": 63.0,
-                "minutes_per_goal_contribution": 54.96
+                "minutes": 2663,
+                "minutes_per_goal": 64.95,
+                "minutes_per_goal_contribution": 56.66
             },
             "competitions": {
                 "Bundesliga": {
@@ -664,14 +872,6 @@
                     "minutes_per_goal": 67.72,
                     "minutes_per_goal_contribution": 57.76
                 },
-                "Champions Lg": {
-                    "apps": 8,
-                    "goals": 10,
-                    "assists": 1,
-                    "minutes": 553,
-                    "minutes_per_goal": 55.3,
-                    "minutes_per_goal_contribution": 50.27
-                },
                 "DFB-Pokal": {
                     "apps": 1,
                     "goals": 1,
@@ -679,6 +879,22 @@
                     "minutes": 45,
                     "minutes_per_goal": 45.0,
                     "minutes_per_goal_contribution": 45.0
+                },
+                "UEFA Champions League": {
+                    "apps": 8,
+                    "goals": 10,
+                    "assists": 1,
+                    "minutes": 553,
+                    "minutes_per_goal": 55.3,
+                    "minutes_per_goal_contribution": 50.27
+                },
+                "UEFA Euro Qualifying": {
+                    "apps": 2,
+                    "goals": 0,
+                    "assists": 0,
+                    "minutes": 80,
+                    "minutes_per_goal": null,
+                    "minutes_per_goal_contribution": null
                 },
                 "ÖFB-Cup": {
                     "apps": 1,
@@ -692,12 +908,12 @@
         },
         "20/21": {
             "overall": {
-                "apps": 41,
-                "goals": 41,
-                "assists": 10,
-                "minutes": 3532,
-                "minutes_per_goal": 86.15,
-                "minutes_per_goal_contribution": 69.25
+                "apps": 51,
+                "goals": 48,
+                "assists": 11,
+                "minutes": 4398,
+                "minutes_per_goal": 91.62,
+                "minutes_per_goal_contribution": 74.54
             },
             "competitions": {
                 "Bundesliga": {
@@ -707,14 +923,6 @@
                     "minutes": 2407,
                     "minutes_per_goal": 89.15,
                     "minutes_per_goal_contribution": 72.94
-                },
-                "Champions Lg": {
-                    "apps": 8,
-                    "goals": 10,
-                    "assists": 2,
-                    "minutes": 703,
-                    "minutes_per_goal": 70.3,
-                    "minutes_per_goal_contribution": 58.58
                 },
                 "DFB-Pokal": {
                     "apps": 4,
@@ -731,17 +939,57 @@
                     "minutes": 67,
                     "minutes_per_goal": 67.0,
                     "minutes_per_goal_contribution": 33.5
+                },
+                "Friendlies": {
+                    "apps": 2,
+                    "goals": 1,
+                    "assists": 0,
+                    "minutes": 180,
+                    "minutes_per_goal": 180.0,
+                    "minutes_per_goal_contribution": 180.0
+                },
+                "UEFA Champions League": {
+                    "apps": 8,
+                    "goals": 10,
+                    "assists": 2,
+                    "minutes": 703,
+                    "minutes_per_goal": 70.3,
+                    "minutes_per_goal_contribution": 58.58
+                },
+                "UEFA Euro Qualifying": {
+                    "apps": 1,
+                    "goals": 0,
+                    "assists": 0,
+                    "minutes": 120,
+                    "minutes_per_goal": null,
+                    "minutes_per_goal_contribution": null
+                },
+                "UEFA Nations League": {
+                    "apps": 4,
+                    "goals": 6,
+                    "assists": 1,
+                    "minutes": 344,
+                    "minutes_per_goal": 57.33,
+                    "minutes_per_goal_contribution": 49.14
+                },
+                "World Cup Qualifying": {
+                    "apps": 3,
+                    "goals": 0,
+                    "assists": 0,
+                    "minutes": 222,
+                    "minutes_per_goal": null,
+                    "minutes_per_goal_contribution": null
                 }
             }
         },
         "21/22": {
             "overall": {
-                "apps": 31,
-                "goals": 29,
-                "assists": 8,
-                "minutes": 2474,
-                "minutes_per_goal": 85.31,
-                "minutes_per_goal_contribution": 66.86
+                "apps": 40,
+                "goals": 42,
+                "assists": 10,
+                "minutes": 3184,
+                "minutes_per_goal": 75.81,
+                "minutes_per_goal_contribution": 61.23
             },
             "competitions": {
                 "Bundesliga": {
@@ -751,14 +999,6 @@
                     "minutes": 1911,
                     "minutes_per_goal": 86.86,
                     "minutes_per_goal_contribution": 63.7
-                },
-                "Champions Lg": {
-                    "apps": 3,
-                    "goals": 3,
-                    "assists": 0,
-                    "minutes": 203,
-                    "minutes_per_goal": 67.67,
-                    "minutes_per_goal_contribution": 67.67
                 },
                 "Community Shield": {
                     "apps": 1,
@@ -783,27 +1023,51 @@
                     "minutes": 90,
                     "minutes_per_goal": null,
                     "minutes_per_goal_contribution": null
+                },
+                "Friendlies": {
+                    "apps": 2,
+                    "goals": 3,
+                    "assists": 1,
+                    "minutes": 125,
+                    "minutes_per_goal": 41.67,
+                    "minutes_per_goal_contribution": 31.25
+                },
+                "UEFA Champions League": {
+                    "apps": 3,
+                    "goals": 3,
+                    "assists": 0,
+                    "minutes": 203,
+                    "minutes_per_goal": 67.67,
+                    "minutes_per_goal_contribution": 67.67
+                },
+                "UEFA Nations League": {
+                    "apps": 4,
+                    "goals": 5,
+                    "assists": 1,
+                    "minutes": 318,
+                    "minutes_per_goal": 63.6,
+                    "minutes_per_goal_contribution": 53.0
+                },
+                "World Cup Qualifying": {
+                    "apps": 3,
+                    "goals": 5,
+                    "assists": 0,
+                    "minutes": 267,
+                    "minutes_per_goal": 53.4,
+                    "minutes_per_goal_contribution": 53.4
                 }
             }
         },
         "22/23": {
             "overall": {
-                "apps": 52,
-                "goals": 52,
-                "assists": 9,
-                "minutes": 4026,
-                "minutes_per_goal": 77.42,
-                "minutes_per_goal_contribution": 66.0
+                "apps": 56,
+                "goals": 56,
+                "assists": 10,
+                "minutes": 4376,
+                "minutes_per_goal": 78.14,
+                "minutes_per_goal_contribution": 66.3
             },
             "competitions": {
-                "Champions Lg": {
-                    "apps": 11,
-                    "goals": 12,
-                    "assists": 1,
-                    "minutes": 841,
-                    "minutes_per_goal": 70.08,
-                    "minutes_per_goal_contribution": 64.69
-                },
                 "EFL Cup": {
                     "apps": 2,
                     "goals": 1,
@@ -827,27 +1091,43 @@
                     "minutes": 2769,
                     "minutes_per_goal": 76.92,
                     "minutes_per_goal_contribution": 62.93
+                },
+                "UEFA Champions League": {
+                    "apps": 11,
+                    "goals": 12,
+                    "assists": 1,
+                    "minutes": 841,
+                    "minutes_per_goal": 70.08,
+                    "minutes_per_goal_contribution": 64.69
+                },
+                "UEFA Euro Qualifying": {
+                    "apps": 2,
+                    "goals": 3,
+                    "assists": 1,
+                    "minutes": 170,
+                    "minutes_per_goal": 56.67,
+                    "minutes_per_goal_contribution": 42.5
+                },
+                "UEFA Nations League": {
+                    "apps": 2,
+                    "goals": 1,
+                    "assists": 0,
+                    "minutes": 180,
+                    "minutes_per_goal": 180.0,
+                    "minutes_per_goal_contribution": 180.0
                 }
             }
         },
         "23/24": {
             "overall": {
-                "apps": 45,
-                "goals": 38,
+                "apps": 53,
+                "goals": 45,
                 "assists": 6,
-                "minutes": 3733,
-                "minutes_per_goal": 98.24,
-                "minutes_per_goal_contribution": 84.84
+                "minutes": 4347,
+                "minutes_per_goal": 96.6,
+                "minutes_per_goal_contribution": 85.24
             },
             "competitions": {
-                "Champions Lg": {
-                    "apps": 9,
-                    "goals": 6,
-                    "assists": 1,
-                    "minutes": 776,
-                    "minutes_per_goal": 129.33,
-                    "minutes_per_goal_contribution": 110.86
-                },
                 "Community Shield": {
                     "apps": 1,
                     "goals": 0,
@@ -864,6 +1144,14 @@
                     "minutes_per_goal": 50.4,
                     "minutes_per_goal_contribution": 50.4
                 },
+                "Friendlies": {
+                    "apps": 5,
+                    "goals": 4,
+                    "assists": 0,
+                    "minutes": 358,
+                    "minutes_per_goal": 89.5,
+                    "minutes_per_goal_contribution": 89.5
+                },
                 "Premier League": {
                     "apps": 31,
                     "goals": 27,
@@ -879,27 +1167,35 @@
                     "minutes": 90,
                     "minutes_per_goal": null,
                     "minutes_per_goal_contribution": null
+                },
+                "UEFA Champions League": {
+                    "apps": 9,
+                    "goals": 6,
+                    "assists": 1,
+                    "minutes": 776,
+                    "minutes_per_goal": 129.33,
+                    "minutes_per_goal_contribution": 110.86
+                },
+                "UEFA Euro Qualifying": {
+                    "apps": 3,
+                    "goals": 3,
+                    "assists": 0,
+                    "minutes": 256,
+                    "minutes_per_goal": 85.33,
+                    "minutes_per_goal_contribution": 85.33
                 }
             }
         },
         "24/25": {
             "overall": {
-                "apps": 48,
-                "goals": 34,
-                "assists": 5,
-                "minutes": 4033,
-                "minutes_per_goal": 118.62,
-                "minutes_per_goal_contribution": 103.41
+                "apps": 58,
+                "goals": 45,
+                "assists": 6,
+                "minutes": 4911,
+                "minutes_per_goal": 109.13,
+                "minutes_per_goal_contribution": 96.29
             },
             "competitions": {
-                "Champions Lg": {
-                    "apps": 9,
-                    "goals": 8,
-                    "assists": 0,
-                    "minutes": 769,
-                    "minutes_per_goal": 96.12,
-                    "minutes_per_goal_contribution": 96.12
-                },
                 "Club World Cup": {
                     "apps": 4,
                     "goals": 3,
@@ -931,27 +1227,43 @@
                     "minutes": 2736,
                     "minutes_per_goal": 124.36,
                     "minutes_per_goal_contribution": 109.44
+                },
+                "UEFA Champions League": {
+                    "apps": 9,
+                    "goals": 8,
+                    "assists": 0,
+                    "minutes": 769,
+                    "minutes_per_goal": 96.12,
+                    "minutes_per_goal_contribution": 96.12
+                },
+                "UEFA Nations League": {
+                    "apps": 6,
+                    "goals": 7,
+                    "assists": 1,
+                    "minutes": 531,
+                    "minutes_per_goal": 75.86,
+                    "minutes_per_goal_contribution": 66.38
+                },
+                "World Cup Qualifying": {
+                    "apps": 4,
+                    "goals": 4,
+                    "assists": 0,
+                    "minutes": 347,
+                    "minutes_per_goal": 86.75,
+                    "minutes_per_goal_contribution": 86.75
                 }
             }
         },
         "25/26": {
             "overall": {
-                "apps": 52,
-                "goals": 38,
-                "assists": 9,
-                "minutes": 4135,
-                "minutes_per_goal": 108.82,
-                "minutes_per_goal_contribution": 87.98
+                "apps": 64,
+                "goals": 58,
+                "assists": 12,
+                "minutes": 5135,
+                "minutes_per_goal": 88.53,
+                "minutes_per_goal_contribution": 73.36
             },
             "competitions": {
-                "Champions Lg": {
-                    "apps": 10,
-                    "goals": 8,
-                    "assists": 0,
-                    "minutes": 751,
-                    "minutes_per_goal": 93.88,
-                    "minutes_per_goal_contribution": 93.88
-                },
                 "EFL Cup": {
                     "apps": 3,
                     "goals": 0,
@@ -968,6 +1280,14 @@
                     "minutes_per_goal": 77.0,
                     "minutes_per_goal_contribution": 57.75
                 },
+                "Friendlies": {
+                    "apps": 3,
+                    "goals": 1,
+                    "assists": 0,
+                    "minutes": 178,
+                    "minutes_per_goal": 178.0,
+                    "minutes_per_goal_contribution": 178.0
+                },
                 "Premier League": {
                     "apps": 35,
                     "goals": 27,
@@ -975,6 +1295,30 @@
                     "minutes": 2953,
                     "minutes_per_goal": 109.37,
                     "minutes_per_goal_contribution": 84.37
+                },
+                "UEFA Champions League": {
+                    "apps": 10,
+                    "goals": 8,
+                    "assists": 0,
+                    "minutes": 751,
+                    "minutes_per_goal": 93.88,
+                    "minutes_per_goal_contribution": 93.88
+                },
+                "World Cup": {
+                    "apps": 5,
+                    "goals": 7,
+                    "assists": 0,
+                    "minutes": 465,
+                    "minutes_per_goal": 66.43,
+                    "minutes_per_goal_contribution": 66.43
+                },
+                "World Cup Qualifying": {
+                    "apps": 4,
+                    "goals": 12,
+                    "assists": 3,
+                    "minutes": 357,
+                    "minutes_per_goal": 29.75,
+                    "minutes_per_goal_contribution": 23.8
                 }
             }
         }

@@ -9,14 +9,6 @@
             "minutes_per_goal_contribution": 96.88
         },
         "competitions": {
-            "Champions Lg": {
-                "apps": 1,
-                "goals": 0,
-                "assists": 0,
-                "minutes": 90,
-                "minutes_per_goal": null,
-                "minutes_per_goal_contribution": null
-            },
             "Copa del Rey": {
                 "apps": 1,
                 "goals": 1,
@@ -73,6 +65,14 @@
                 "minutes_per_goal": 170.0,
                 "minutes_per_goal_contribution": 170.0
             },
+            "UEFA Champions League": {
+                "apps": 1,
+                "goals": 0,
+                "assists": 0,
+                "minutes": 90,
+                "minutes_per_goal": null,
+                "minutes_per_goal_contribution": null
+            },
             "UEFA Nations League": {
                 "apps": 1,
                 "goals": 1,
@@ -101,14 +101,6 @@
             "minutes_per_goal_contribution": 223.8
         },
         "competitions": {
-            "Champions Lg": {
-                "apps": 1,
-                "goals": 0,
-                "assists": 0,
-                "minutes": 90,
-                "minutes_per_goal": null,
-                "minutes_per_goal_contribution": null
-            },
             "Community Shield": {
                 "apps": 3,
                 "goals": 0,
@@ -150,6 +142,14 @@
                 "minutes_per_goal_contribution": 360.0
             },
             "Super Cup": {
+                "apps": 1,
+                "goals": 0,
+                "assists": 0,
+                "minutes": 90,
+                "minutes_per_goal": null,
+                "minutes_per_goal_contribution": null
+            },
+            "UEFA Champions League": {
                 "apps": 1,
                 "goals": 0,
                 "assists": 0,

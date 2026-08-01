@@ -30,7 +30,7 @@
                 "minutes_per_goal_contribution": 82.47
             },
             "competitions": {
-                "Champions Lg": {
+                "UEFA Champions League": {
                     "apps": 98,
                     "goals": 70,
                     "assists": 25,
@@ -38,7 +38,7 @@
                     "minutes_per_goal": 112.6,
                     "minutes_per_goal_contribution": 82.97
                 },
-                "Europa Lg": {
+                "UEFA Europa League": {
                     "apps": 1,
                     "goals": 0,
                     "assists": 1,
@@ -150,7 +150,7 @@
                 "minutes_per_goal_contribution": 74.3
             },
             "competitions": {
-                "Friendlies (M)": {
+                "Friendlies": {
                     "apps": 25,
                     "goals": 11,
                     "assists": 12,
@@ -198,7 +198,7 @@
                 "minutes_per_goal_contribution": 59.39
             },
             "competitions": {
-                "UEFA Euro qual.": {
+                "UEFA Euro Qualifying": {
                     "apps": 13,
                     "goals": 12,
                     "assists": 8,
@@ -206,7 +206,7 @@
                     "minutes_per_goal": 92.25,
                     "minutes_per_goal_contribution": 55.35
                 },
-                "WCQ": {
+                "World Cup Qualifying": {
                     "apps": 16,
                     "goals": 11,
                     "assists": 5,
@@ -284,7 +284,7 @@
                 "minutes_per_goal_contribution": 74.67
             },
             "competitions": {
-                "Champions Lg": {
+                "UEFA Champions League": {
                     "apps": 58,
                     "goals": 57,
                     "assists": 5,
@@ -292,7 +292,7 @@
                     "minutes_per_goal": 80.63,
                     "minutes_per_goal_contribution": 74.13
                 },
-                "Europa Lg": {
+                "UEFA Europa League": {
                     "apps": 6,
                     "goals": 4,
                     "assists": 1,
@@ -436,7 +436,7 @@
                 "minutes_per_goal_contribution": 84.1
             },
             "competitions": {
-                "Friendlies (M)": {
+                "Friendlies": {
                     "apps": 12,
                     "goals": 9,
                     "assists": 1,
@@ -476,7 +476,7 @@
                 "minutes_per_goal_contribution": 58.68
             },
             "competitions": {
-                "UEFA Euro qual.": {
+                "UEFA Euro Qualifying": {
                     "apps": 8,
                     "goals": 6,
                     "assists": 1,
@@ -484,7 +484,7 @@
                     "minutes_per_goal": 104.33,
                     "minutes_per_goal_contribution": 89.43
                 },
-                "WCQ": {
+                "World Cup Qualifying": {
                     "apps": 14,
                     "goals": 21,
                     "assists": 3,
