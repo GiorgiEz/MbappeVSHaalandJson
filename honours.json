@@ -1,7 +1,34 @@
 {
-  "Kylian Mbappe":
-    {
-      "team_trophies": [
+  "Kylian Mbappe": {
+    "team_trophies": {
+      "overall": {
+        "total": 22,
+        "club": {
+          "count": 19,
+          "breakdown": [
+            {
+              "category": "UEFA Champions League",
+              "count": 0
+            },
+            {
+              "category": "League",
+              "count": 7
+            },
+            {
+              "category": "Domestic Cups",
+              "count": 7
+            },
+            {
+              "category": "Others",
+              "count": 5
+            }
+          ]
+        },
+        "international": {
+          "count": 3
+        }
+      },
+      "breakdown": [
         {
           "title": "FIFA World Cup",
           "count": 1,
@@ -150,8 +177,27 @@
             }
           ]
         }
-      ],
-      "individual_awards": [
+      ]
+    },
+    "individual_awards": {
+      "overall": {
+        "total": 32,
+        "breakdown": [
+          {
+            "category": "Golden Boot",
+            "count": 18
+          },
+          {
+            "category": "Player of the Year",
+            "count": 13
+          },
+          {
+            "category": "Other",
+            "count": 1
+          }
+        ]
+      },
+      "breakdown": [
         {
           "title": "Golden Boy (Tuttosport)",
           "count": 1,
@@ -334,9 +380,38 @@
           ]
         }
       ]
-    },
-    "Erling Haaland": {
-      "team_trophies": [
+    }
+  },
+  "Erling Haaland": {
+    "team_trophies": {
+      "overall": {
+        "total": 14,
+        "club": {
+          "count": 14,
+          "breakdown": [
+            {
+              "category": "UEFA Champions League",
+              "count": 1
+            },
+            {
+              "category": "League",
+              "count": 4
+            },
+            {
+              "category": "Domestic Cups",
+              "count": 6
+            },
+            {
+              "category": "Others",
+              "count": 3
+            }
+          ]
+        },
+        "international": {
+          "count": 0
+        }
+      },
+      "breakdown": [
         {
           "title": "UEFA Champions League",
           "count": 1,
@@ -453,8 +528,27 @@
             }
           ]
         }
-      ],
-      "individual_awards": [
+      ]
+    },
+    "individual_awards": {
+      "overall": {
+        "total": 24,
+        "breakdown": [
+          {
+            "category": "Golden Boot",
+            "count": 11
+          },
+          {
+            "category": "Player of the Year",
+            "count": 12
+          },
+          {
+            "category": "Other",
+            "count": 1
+          }
+        ]
+      },
+      "breakdown": [
         {
           "title": "UEFA Men's Player of the Year",
           "count": 1,
@@ -605,4 +699,5 @@
         }
       ]
     }
+  }
 }
