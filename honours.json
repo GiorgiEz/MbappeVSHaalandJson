@@ -17,15 +17,25 @@
             {
               "category": "Domestic Cups",
               "count": 7
-            },
-            {
-              "category": "Others",
-              "count": 5
             }
           ]
         },
         "international": {
-          "count": 3
+          "count": 2,
+          "breakdown": [
+            {
+              "category": "FIFA World Cup",
+              "count": 1
+            },
+            {
+              "category": "UEFA EURO",
+              "count": 0
+            },
+            {
+              "category": "UEFA Nations League",
+              "count": 1
+            }
+          ]
         }
       },
       "breakdown": [
@@ -156,26 +166,6 @@
               "club": "Paris Saint-Germain"
             }
           ]
-        },
-        {
-          "title": "UEFA European U-19 Championship",
-          "count": 1,
-          "entries": [
-            {
-              "year": "2016",
-              "team": "France U19"
-            }
-          ]
-        },
-        {
-          "title": "French Youth Cup U-19",
-          "count": 1,
-          "entries": [
-            {
-              "season": "15/16",
-              "team": "AS Monaco U19"
-            }
-          ]
         }
       ]
     },
@@ -190,10 +180,6 @@
           {
             "category": "Player of the Year",
             "count": 13
-          },
-          {
-            "category": "Other",
-            "count": 1
           }
         ]
       },
@@ -319,11 +305,6 @@
               "season": "18/19",
               "competition": "Ligue 1",
               "detail": "33 goals"
-            },
-            {
-              "season": "15/16",
-              "competition": "Coupe Gambardella U-19",
-              "detail": "3 goals"
             }
           ]
         },
@@ -400,15 +381,25 @@
             {
               "category": "Domestic Cups",
               "count": 6
-            },
-            {
-              "category": "Others",
-              "count": 3
             }
           ]
         },
         "international": {
-          "count": 0
+          "count": 0,
+          "breakdown": [
+            {
+              "category": "FIFA World Cup",
+              "count": 0
+            },
+            {
+              "category": "UEFA EURO",
+              "count": 0
+            },
+            {
+              "category": "UEFA Nations League",
+              "count": 0
+            }
+          ]
         }
       },
       "breakdown": [
@@ -541,10 +532,6 @@
           {
             "category": "Player of the Year",
             "count": 12
-          },
-          {
-            "category": "Other",
-            "count": 1
           }
         ]
       },
@@ -665,11 +652,6 @@
               "season": "20/21",
               "competition": "UEFA Champions League",
               "detail": "10 goals"
-            },
-            {
-              "season": "18/19",
-              "competition": "FIFA U-20 World Cup",
-              "detail": "9 goals"
             }
           ]
         },
