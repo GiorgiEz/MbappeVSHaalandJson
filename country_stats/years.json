@@ -9,22 +9,46 @@
                 "minutes_per_goal": 542.0,
                 "minutes_per_goal_contribution": 135.5
             },
-            "competitions": {
-                "Friendlies": {
-                    "apps": 4,
-                    "goals": 0,
-                    "assists": 3,
-                    "minutes": 327,
-                    "minutes_per_goal": null,
-                    "minutes_per_goal_contribution": 109.0
+            "competition_tiers": {
+                "Friendly": {
+                    "overall": {
+                        "apps": 4,
+                        "goals": 0,
+                        "assists": 3,
+                        "minutes": 327,
+                        "minutes_per_goal": null,
+                        "minutes_per_goal_contribution": 109.0
+                    },
+                    "competitions": {
+                        "Friendlies": {
+                            "apps": 4,
+                            "goals": 0,
+                            "assists": 3,
+                            "minutes": 327,
+                            "minutes_per_goal": null,
+                            "minutes_per_goal_contribution": 109.0
+                        }
+                    }
                 },
-                "World Cup Qualifying": {
-                    "apps": 6,
-                    "goals": 1,
-                    "assists": 0,
-                    "minutes": 215,
-                    "minutes_per_goal": 215.0,
-                    "minutes_per_goal_contribution": 215.0
+                "International Qualifying": {
+                    "overall": {
+                        "apps": 6,
+                        "goals": 1,
+                        "assists": 0,
+                        "minutes": 215,
+                        "minutes_per_goal": 215.0,
+                        "minutes_per_goal_contribution": 215.0
+                    },
+                    "competitions": {
+                        "World Cup Qualifying": {
+                            "apps": 6,
+                            "goals": 1,
+                            "assists": 0,
+                            "minutes": 215,
+                            "minutes_per_goal": 215.0,
+                            "minutes_per_goal_contribution": 215.0
+                        }
+                    }
                 }
             }
         },
@@ -37,30 +61,54 @@
                 "minutes_per_goal": 149.78,
                 "minutes_per_goal_contribution": 122.55
             },
-            "competitions": {
-                "Friendlies": {
-                    "apps": 7,
-                    "goals": 4,
-                    "assists": 2,
-                    "minutes": 461,
-                    "minutes_per_goal": 115.25,
-                    "minutes_per_goal_contribution": 76.83
+            "competition_tiers": {
+                "Friendly": {
+                    "overall": {
+                        "apps": 7,
+                        "goals": 4,
+                        "assists": 2,
+                        "minutes": 461,
+                        "minutes_per_goal": 115.25,
+                        "minutes_per_goal_contribution": 76.83
+                    },
+                    "competitions": {
+                        "Friendlies": {
+                            "apps": 7,
+                            "goals": 4,
+                            "assists": 2,
+                            "minutes": 461,
+                            "minutes_per_goal": 115.25,
+                            "minutes_per_goal_contribution": 76.83
+                        }
+                    }
                 },
-                "UEFA Nations League": {
-                    "apps": 4,
-                    "goals": 1,
-                    "assists": 0,
-                    "minutes": 355,
-                    "minutes_per_goal": 355.0,
-                    "minutes_per_goal_contribution": 355.0
-                },
-                "World Cup": {
-                    "apps": 7,
-                    "goals": 4,
-                    "assists": 0,
-                    "minutes": 532,
-                    "minutes_per_goal": 133.0,
-                    "minutes_per_goal_contribution": 133.0
+                "International Tournament": {
+                    "overall": {
+                        "apps": 11,
+                        "goals": 5,
+                        "assists": 0,
+                        "minutes": 887,
+                        "minutes_per_goal": 177.4,
+                        "minutes_per_goal_contribution": 177.4
+                    },
+                    "competitions": {
+                        "UEFA Nations League": {
+                            "apps": 4,
+                            "goals": 1,
+                            "assists": 0,
+                            "minutes": 355,
+                            "minutes_per_goal": 355.0,
+                            "minutes_per_goal_contribution": 355.0
+                        },
+                        "World Cup": {
+                            "apps": 7,
+                            "goals": 4,
+                            "assists": 0,
+                            "minutes": 532,
+                            "minutes_per_goal": 133.0,
+                            "minutes_per_goal_contribution": 133.0
+                        }
+                    }
                 }
             }
         },
@@ -73,22 +121,46 @@
                 "minutes_per_goal": 165.0,
                 "minutes_per_goal_contribution": 82.5
             },
-            "competitions": {
-                "Friendlies": {
-                    "apps": 1,
-                    "goals": 0,
-                    "assists": 0,
-                    "minutes": 45,
-                    "minutes_per_goal": null,
-                    "minutes_per_goal_contribution": null
+            "competition_tiers": {
+                "Friendly": {
+                    "overall": {
+                        "apps": 1,
+                        "goals": 0,
+                        "assists": 0,
+                        "minutes": 45,
+                        "minutes_per_goal": null,
+                        "minutes_per_goal_contribution": null
+                    },
+                    "competitions": {
+                        "Friendlies": {
+                            "apps": 1,
+                            "goals": 0,
+                            "assists": 0,
+                            "minutes": 45,
+                            "minutes_per_goal": null,
+                            "minutes_per_goal_contribution": null
+                        }
+                    }
                 },
-                "UEFA Euro Qualifying": {
-                    "apps": 5,
-                    "goals": 3,
-                    "assists": 3,
-                    "minutes": 450,
-                    "minutes_per_goal": 150.0,
-                    "minutes_per_goal_contribution": 75.0
+                "International Qualifying": {
+                    "overall": {
+                        "apps": 5,
+                        "goals": 3,
+                        "assists": 3,
+                        "minutes": 450,
+                        "minutes_per_goal": 150.0,
+                        "minutes_per_goal_contribution": 75.0
+                    },
+                    "competitions": {
+                        "UEFA Euro Qualifying": {
+                            "apps": 5,
+                            "goals": 3,
+                            "assists": 3,
+                            "minutes": 450,
+                            "minutes_per_goal": 150.0,
+                            "minutes_per_goal_contribution": 75.0
+                        }
+                    }
                 }
             }
         },
@@ -101,22 +173,46 @@
                 "minutes_per_goal": 109.33,
                 "minutes_per_goal_contribution": 65.6
             },
-            "competitions": {
-                "Friendlies": {
-                    "apps": 1,
-                    "goals": 1,
-                    "assists": 1,
-                    "minutes": 45,
-                    "minutes_per_goal": 45.0,
-                    "minutes_per_goal_contribution": 22.5
+            "competition_tiers": {
+                "Friendly": {
+                    "overall": {
+                        "apps": 1,
+                        "goals": 1,
+                        "assists": 1,
+                        "minutes": 45,
+                        "minutes_per_goal": 45.0,
+                        "minutes_per_goal_contribution": 22.5
+                    },
+                    "competitions": {
+                        "Friendlies": {
+                            "apps": 1,
+                            "goals": 1,
+                            "assists": 1,
+                            "minutes": 45,
+                            "minutes_per_goal": 45.0,
+                            "minutes_per_goal_contribution": 22.5
+                        }
+                    }
                 },
-                "UEFA Nations League": {
-                    "apps": 4,
-                    "goals": 2,
-                    "assists": 1,
-                    "minutes": 283,
-                    "minutes_per_goal": 141.5,
-                    "minutes_per_goal_contribution": 94.33
+                "International Tournament": {
+                    "overall": {
+                        "apps": 4,
+                        "goals": 2,
+                        "assists": 1,
+                        "minutes": 283,
+                        "minutes_per_goal": 141.5,
+                        "minutes_per_goal_contribution": 94.33
+                    },
+                    "competitions": {
+                        "UEFA Nations League": {
+                            "apps": 4,
+                            "goals": 2,
+                            "assists": 1,
+                            "minutes": 283,
+                            "minutes_per_goal": 141.5,
+                            "minutes_per_goal_contribution": 94.33
+                        }
+                    }
                 }
             }
         },
@@ -129,38 +225,74 @@
                 "minutes_per_goal": 148.62,
                 "minutes_per_goal_contribution": 84.93
             },
-            "competitions": {
-                "Friendlies": {
-                    "apps": 2,
-                    "goals": 1,
-                    "assists": 1,
-                    "minutes": 155,
-                    "minutes_per_goal": 155.0,
-                    "minutes_per_goal_contribution": 77.5
+            "competition_tiers": {
+                "Friendly": {
+                    "overall": {
+                        "apps": 2,
+                        "goals": 1,
+                        "assists": 1,
+                        "minutes": 155,
+                        "minutes_per_goal": 155.0,
+                        "minutes_per_goal_contribution": 77.5
+                    },
+                    "competitions": {
+                        "Friendlies": {
+                            "apps": 2,
+                            "goals": 1,
+                            "assists": 1,
+                            "minutes": 155,
+                            "minutes_per_goal": 155.0,
+                            "minutes_per_goal_contribution": 77.5
+                        }
+                    }
                 },
-                "UEFA Euro": {
-                    "apps": 4,
-                    "goals": 0,
-                    "assists": 1,
-                    "minutes": 390,
-                    "minutes_per_goal": null,
-                    "minutes_per_goal_contribution": 390.0
+                "International Qualifying": {
+                    "overall": {
+                        "apps": 6,
+                        "goals": 5,
+                        "assists": 2,
+                        "minutes": 464,
+                        "minutes_per_goal": 92.8,
+                        "minutes_per_goal_contribution": 66.29
+                    },
+                    "competitions": {
+                        "World Cup Qualifying": {
+                            "apps": 6,
+                            "goals": 5,
+                            "assists": 2,
+                            "minutes": 464,
+                            "minutes_per_goal": 92.8,
+                            "minutes_per_goal_contribution": 66.29
+                        }
+                    }
                 },
-                "UEFA Nations League": {
-                    "apps": 2,
-                    "goals": 2,
-                    "assists": 2,
-                    "minutes": 180,
-                    "minutes_per_goal": 90.0,
-                    "minutes_per_goal_contribution": 45.0
-                },
-                "World Cup Qualifying": {
-                    "apps": 6,
-                    "goals": 5,
-                    "assists": 2,
-                    "minutes": 464,
-                    "minutes_per_goal": 92.8,
-                    "minutes_per_goal_contribution": 66.29
+                "International Tournament": {
+                    "overall": {
+                        "apps": 6,
+                        "goals": 2,
+                        "assists": 3,
+                        "minutes": 570,
+                        "minutes_per_goal": 285.0,
+                        "minutes_per_goal_contribution": 114.0
+                    },
+                    "competitions": {
+                        "UEFA Euro": {
+                            "apps": 4,
+                            "goals": 0,
+                            "assists": 1,
+                            "minutes": 390,
+                            "minutes_per_goal": null,
+                            "minutes_per_goal_contribution": 390.0
+                        },
+                        "UEFA Nations League": {
+                            "apps": 2,
+                            "goals": 2,
+                            "assists": 2,
+                            "minutes": 180,
+                            "minutes_per_goal": 90.0,
+                            "minutes_per_goal_contribution": 45.0
+                        }
+                    }
                 }
             }
         },
@@ -173,30 +305,54 @@
                 "minutes_per_goal": 85.83,
                 "minutes_per_goal_contribution": 68.67
             },
-            "competitions": {
-                "Friendlies": {
-                    "apps": 1,
-                    "goals": 2,
-                    "assists": 1,
-                    "minutes": 90,
-                    "minutes_per_goal": 45.0,
-                    "minutes_per_goal_contribution": 30.0
+            "competition_tiers": {
+                "Friendly": {
+                    "overall": {
+                        "apps": 1,
+                        "goals": 2,
+                        "assists": 1,
+                        "minutes": 90,
+                        "minutes_per_goal": 45.0,
+                        "minutes_per_goal_contribution": 30.0
+                    },
+                    "competitions": {
+                        "Friendlies": {
+                            "apps": 1,
+                            "goals": 2,
+                            "assists": 1,
+                            "minutes": 90,
+                            "minutes_per_goal": 45.0,
+                            "minutes_per_goal_contribution": 30.0
+                        }
+                    }
                 },
-                "UEFA Nations League": {
-                    "apps": 5,
-                    "goals": 2,
-                    "assists": 0,
-                    "minutes": 342,
-                    "minutes_per_goal": 171.0,
-                    "minutes_per_goal_contribution": 171.0
-                },
-                "World Cup": {
-                    "apps": 7,
-                    "goals": 8,
-                    "assists": 2,
-                    "minutes": 598,
-                    "minutes_per_goal": 74.75,
-                    "minutes_per_goal_contribution": 59.8
+                "International Tournament": {
+                    "overall": {
+                        "apps": 12,
+                        "goals": 10,
+                        "assists": 2,
+                        "minutes": 940,
+                        "minutes_per_goal": 94.0,
+                        "minutes_per_goal_contribution": 78.33
+                    },
+                    "competitions": {
+                        "UEFA Nations League": {
+                            "apps": 5,
+                            "goals": 2,
+                            "assists": 0,
+                            "minutes": 342,
+                            "minutes_per_goal": 171.0,
+                            "minutes_per_goal_contribution": 171.0
+                        },
+                        "World Cup": {
+                            "apps": 7,
+                            "goals": 8,
+                            "assists": 2,
+                            "minutes": 598,
+                            "minutes_per_goal": 74.75,
+                            "minutes_per_goal_contribution": 59.8
+                        }
+                    }
                 }
             }
         },
@@ -209,22 +365,46 @@
                 "minutes_per_goal": 74.3,
                 "minutes_per_goal_contribution": 46.44
             },
-            "competitions": {
-                "Friendlies": {
-                    "apps": 1,
-                    "goals": 1,
-                    "assists": 1,
-                    "minutes": 86,
-                    "minutes_per_goal": 86.0,
-                    "minutes_per_goal_contribution": 43.0
+            "competition_tiers": {
+                "Friendly": {
+                    "overall": {
+                        "apps": 1,
+                        "goals": 1,
+                        "assists": 1,
+                        "minutes": 86,
+                        "minutes_per_goal": 86.0,
+                        "minutes_per_goal_contribution": 43.0
+                    },
+                    "competitions": {
+                        "Friendlies": {
+                            "apps": 1,
+                            "goals": 1,
+                            "assists": 1,
+                            "minutes": 86,
+                            "minutes_per_goal": 86.0,
+                            "minutes_per_goal_contribution": 43.0
+                        }
+                    }
                 },
-                "UEFA Euro Qualifying": {
-                    "apps": 8,
-                    "goals": 9,
-                    "assists": 5,
-                    "minutes": 657,
-                    "minutes_per_goal": 73.0,
-                    "minutes_per_goal_contribution": 46.93
+                "International Qualifying": {
+                    "overall": {
+                        "apps": 8,
+                        "goals": 9,
+                        "assists": 5,
+                        "minutes": 657,
+                        "minutes_per_goal": 73.0,
+                        "minutes_per_goal_contribution": 46.93
+                    },
+                    "competitions": {
+                        "UEFA Euro Qualifying": {
+                            "apps": 8,
+                            "goals": 9,
+                            "assists": 5,
+                            "minutes": 657,
+                            "minutes_per_goal": 73.0,
+                            "minutes_per_goal_contribution": 46.93
+                        }
+                    }
                 }
             }
         },
@@ -237,30 +417,54 @@
                 "minutes_per_goal": 432.5,
                 "minutes_per_goal_contribution": 144.17
             },
-            "competitions": {
-                "Friendlies": {
-                    "apps": 4,
-                    "goals": 1,
-                    "assists": 3,
-                    "minutes": 287,
-                    "minutes_per_goal": 287.0,
-                    "minutes_per_goal_contribution": 71.75
+            "competition_tiers": {
+                "Friendly": {
+                    "overall": {
+                        "apps": 4,
+                        "goals": 1,
+                        "assists": 3,
+                        "minutes": 287,
+                        "minutes_per_goal": 287.0,
+                        "minutes_per_goal_contribution": 71.75
+                    },
+                    "competitions": {
+                        "Friendlies": {
+                            "apps": 4,
+                            "goals": 1,
+                            "assists": 3,
+                            "minutes": 287,
+                            "minutes_per_goal": 287.0,
+                            "minutes_per_goal_contribution": 71.75
+                        }
+                    }
                 },
-                "UEFA Euro": {
-                    "apps": 5,
-                    "goals": 1,
-                    "assists": 1,
-                    "minutes": 464,
-                    "minutes_per_goal": 464.0,
-                    "minutes_per_goal_contribution": 232.0
-                },
-                "UEFA Nations League": {
-                    "apps": 2,
-                    "goals": 0,
-                    "assists": 0,
-                    "minutes": 114,
-                    "minutes_per_goal": null,
-                    "minutes_per_goal_contribution": null
+                "International Tournament": {
+                    "overall": {
+                        "apps": 7,
+                        "goals": 1,
+                        "assists": 1,
+                        "minutes": 578,
+                        "minutes_per_goal": 578.0,
+                        "minutes_per_goal_contribution": 289.0
+                    },
+                    "competitions": {
+                        "UEFA Euro": {
+                            "apps": 5,
+                            "goals": 1,
+                            "assists": 1,
+                            "minutes": 464,
+                            "minutes_per_goal": 464.0,
+                            "minutes_per_goal_contribution": 232.0
+                        },
+                        "UEFA Nations League": {
+                            "apps": 2,
+                            "goals": 0,
+                            "assists": 0,
+                            "minutes": 114,
+                            "minutes_per_goal": null,
+                            "minutes_per_goal_contribution": null
+                        }
+                    }
                 }
             }
         },
@@ -273,22 +477,46 @@
                 "minutes_per_goal": 106.0,
                 "minutes_per_goal_contribution": 61.83
             },
-            "competitions": {
-                "UEFA Nations League": {
-                    "apps": 4,
-                    "goals": 2,
-                    "assists": 2,
-                    "minutes": 390,
-                    "minutes_per_goal": 195.0,
-                    "minutes_per_goal_contribution": 97.5
+            "competition_tiers": {
+                "International Qualifying": {
+                    "overall": {
+                        "apps": 4,
+                        "goals": 5,
+                        "assists": 3,
+                        "minutes": 352,
+                        "minutes_per_goal": 70.4,
+                        "minutes_per_goal_contribution": 44.0
+                    },
+                    "competitions": {
+                        "World Cup Qualifying": {
+                            "apps": 4,
+                            "goals": 5,
+                            "assists": 3,
+                            "minutes": 352,
+                            "minutes_per_goal": 70.4,
+                            "minutes_per_goal_contribution": 44.0
+                        }
+                    }
                 },
-                "World Cup Qualifying": {
-                    "apps": 4,
-                    "goals": 5,
-                    "assists": 3,
-                    "minutes": 352,
-                    "minutes_per_goal": 70.4,
-                    "minutes_per_goal_contribution": 44.0
+                "International Tournament": {
+                    "overall": {
+                        "apps": 4,
+                        "goals": 2,
+                        "assists": 2,
+                        "minutes": 390,
+                        "minutes_per_goal": 195.0,
+                        "minutes_per_goal_contribution": 97.5
+                    },
+                    "competitions": {
+                        "UEFA Nations League": {
+                            "apps": 4,
+                            "goals": 2,
+                            "assists": 2,
+                            "minutes": 390,
+                            "minutes_per_goal": 195.0,
+                            "minutes_per_goal_contribution": 97.5
+                        }
+                    }
                 }
             }
         },
@@ -301,22 +529,46 @@
                 "minutes_per_goal": 82.55,
                 "minutes_per_goal_contribution": 60.53
             },
-            "competitions": {
-                "Friendlies": {
-                    "apps": 4,
-                    "goals": 1,
-                    "assists": 0,
-                    "minutes": 213,
-                    "minutes_per_goal": 213.0,
-                    "minutes_per_goal_contribution": 213.0
+            "competition_tiers": {
+                "Friendly": {
+                    "overall": {
+                        "apps": 4,
+                        "goals": 1,
+                        "assists": 0,
+                        "minutes": 213,
+                        "minutes_per_goal": 213.0,
+                        "minutes_per_goal_contribution": 213.0
+                    },
+                    "competitions": {
+                        "Friendlies": {
+                            "apps": 4,
+                            "goals": 1,
+                            "assists": 0,
+                            "minutes": 213,
+                            "minutes_per_goal": 213.0,
+                            "minutes_per_goal_contribution": 213.0
+                        }
+                    }
                 },
-                "World Cup": {
-                    "apps": 8,
-                    "goals": 10,
-                    "assists": 4,
-                    "minutes": 695,
-                    "minutes_per_goal": 69.5,
-                    "minutes_per_goal_contribution": 49.64
+                "International Tournament": {
+                    "overall": {
+                        "apps": 8,
+                        "goals": 10,
+                        "assists": 4,
+                        "minutes": 695,
+                        "minutes_per_goal": 69.5,
+                        "minutes_per_goal_contribution": 49.64
+                    },
+                    "competitions": {
+                        "World Cup": {
+                            "apps": 8,
+                            "goals": 10,
+                            "assists": 4,
+                            "minutes": 695,
+                            "minutes_per_goal": 69.5,
+                            "minutes_per_goal_contribution": 49.64
+                        }
+                    }
                 }
             }
         }
@@ -331,14 +583,26 @@
                 "minutes_per_goal": null,
                 "minutes_per_goal_contribution": null
             },
-            "competitions": {
-                "UEFA Euro Qualifying": {
-                    "apps": 2,
-                    "goals": 0,
-                    "assists": 0,
-                    "minutes": 80,
-                    "minutes_per_goal": null,
-                    "minutes_per_goal_contribution": null
+            "competition_tiers": {
+                "International Qualifying": {
+                    "overall": {
+                        "apps": 2,
+                        "goals": 0,
+                        "assists": 0,
+                        "minutes": 80,
+                        "minutes_per_goal": null,
+                        "minutes_per_goal_contribution": null
+                    },
+                    "competitions": {
+                        "UEFA Euro Qualifying": {
+                            "apps": 2,
+                            "goals": 0,
+                            "assists": 0,
+                            "minutes": 80,
+                            "minutes_per_goal": null,
+                            "minutes_per_goal_contribution": null
+                        }
+                    }
                 }
             }
         },
@@ -351,22 +615,46 @@
                 "minutes_per_goal": 77.33,
                 "minutes_per_goal_contribution": 66.29
             },
-            "competitions": {
-                "UEFA Euro Qualifying": {
-                    "apps": 1,
-                    "goals": 0,
-                    "assists": 0,
-                    "minutes": 120,
-                    "minutes_per_goal": null,
-                    "minutes_per_goal_contribution": null
+            "competition_tiers": {
+                "International Qualifying": {
+                    "overall": {
+                        "apps": 1,
+                        "goals": 0,
+                        "assists": 0,
+                        "minutes": 120,
+                        "minutes_per_goal": null,
+                        "minutes_per_goal_contribution": null
+                    },
+                    "competitions": {
+                        "UEFA Euro Qualifying": {
+                            "apps": 1,
+                            "goals": 0,
+                            "assists": 0,
+                            "minutes": 120,
+                            "minutes_per_goal": null,
+                            "minutes_per_goal_contribution": null
+                        }
+                    }
                 },
-                "UEFA Nations League": {
-                    "apps": 4,
-                    "goals": 6,
-                    "assists": 1,
-                    "minutes": 344,
-                    "minutes_per_goal": 57.33,
-                    "minutes_per_goal_contribution": 49.14
+                "International Tournament": {
+                    "overall": {
+                        "apps": 4,
+                        "goals": 6,
+                        "assists": 1,
+                        "minutes": 344,
+                        "minutes_per_goal": 57.33,
+                        "minutes_per_goal_contribution": 49.14
+                    },
+                    "competitions": {
+                        "UEFA Nations League": {
+                            "apps": 4,
+                            "goals": 6,
+                            "assists": 1,
+                            "minutes": 344,
+                            "minutes_per_goal": 57.33,
+                            "minutes_per_goal_contribution": 49.14
+                        }
+                    }
                 }
             }
         },
@@ -379,22 +667,46 @@
                 "minutes_per_goal": 111.5,
                 "minutes_per_goal_contribution": 111.5
             },
-            "competitions": {
-                "Friendlies": {
-                    "apps": 2,
-                    "goals": 1,
-                    "assists": 0,
-                    "minutes": 180,
-                    "minutes_per_goal": 180.0,
-                    "minutes_per_goal_contribution": 180.0
+            "competition_tiers": {
+                "Friendly": {
+                    "overall": {
+                        "apps": 2,
+                        "goals": 1,
+                        "assists": 0,
+                        "minutes": 180,
+                        "minutes_per_goal": 180.0,
+                        "minutes_per_goal_contribution": 180.0
+                    },
+                    "competitions": {
+                        "Friendlies": {
+                            "apps": 2,
+                            "goals": 1,
+                            "assists": 0,
+                            "minutes": 180,
+                            "minutes_per_goal": 180.0,
+                            "minutes_per_goal_contribution": 180.0
+                        }
+                    }
                 },
-                "World Cup Qualifying": {
-                    "apps": 6,
-                    "goals": 5,
-                    "assists": 0,
-                    "minutes": 489,
-                    "minutes_per_goal": 97.8,
-                    "minutes_per_goal_contribution": 97.8
+                "International Qualifying": {
+                    "overall": {
+                        "apps": 6,
+                        "goals": 5,
+                        "assists": 0,
+                        "minutes": 489,
+                        "minutes_per_goal": 97.8,
+                        "minutes_per_goal_contribution": 97.8
+                    },
+                    "competitions": {
+                        "World Cup Qualifying": {
+                            "apps": 6,
+                            "goals": 5,
+                            "assists": 0,
+                            "minutes": 489,
+                            "minutes_per_goal": 97.8,
+                            "minutes_per_goal_contribution": 97.8
+                        }
+                    }
                 }
             }
         },
@@ -407,22 +719,46 @@
                 "minutes_per_goal": 69.22,
                 "minutes_per_goal_contribution": 56.64
             },
-            "competitions": {
-                "Friendlies": {
-                    "apps": 2,
-                    "goals": 3,
-                    "assists": 1,
-                    "minutes": 125,
-                    "minutes_per_goal": 41.67,
-                    "minutes_per_goal_contribution": 31.25
+            "competition_tiers": {
+                "Friendly": {
+                    "overall": {
+                        "apps": 2,
+                        "goals": 3,
+                        "assists": 1,
+                        "minutes": 125,
+                        "minutes_per_goal": 41.67,
+                        "minutes_per_goal_contribution": 31.25
+                    },
+                    "competitions": {
+                        "Friendlies": {
+                            "apps": 2,
+                            "goals": 3,
+                            "assists": 1,
+                            "minutes": 125,
+                            "minutes_per_goal": 41.67,
+                            "minutes_per_goal_contribution": 31.25
+                        }
+                    }
                 },
-                "UEFA Nations League": {
-                    "apps": 6,
-                    "goals": 6,
-                    "assists": 1,
-                    "minutes": 498,
-                    "minutes_per_goal": 83.0,
-                    "minutes_per_goal_contribution": 71.14
+                "International Tournament": {
+                    "overall": {
+                        "apps": 6,
+                        "goals": 6,
+                        "assists": 1,
+                        "minutes": 498,
+                        "minutes_per_goal": 83.0,
+                        "minutes_per_goal_contribution": 71.14
+                    },
+                    "competitions": {
+                        "UEFA Nations League": {
+                            "apps": 6,
+                            "goals": 6,
+                            "assists": 1,
+                            "minutes": 498,
+                            "minutes_per_goal": 83.0,
+                            "minutes_per_goal_contribution": 71.14
+                        }
+                    }
                 }
             }
         },
@@ -435,22 +771,46 @@
                 "minutes_per_goal": 78.5,
                 "minutes_per_goal_contribution": 67.29
             },
-            "competitions": {
-                "Friendlies": {
-                    "apps": 1,
-                    "goals": 0,
-                    "assists": 0,
-                    "minutes": 45,
-                    "minutes_per_goal": null,
-                    "minutes_per_goal_contribution": null
+            "competition_tiers": {
+                "Friendly": {
+                    "overall": {
+                        "apps": 1,
+                        "goals": 0,
+                        "assists": 0,
+                        "minutes": 45,
+                        "minutes_per_goal": null,
+                        "minutes_per_goal_contribution": null
+                    },
+                    "competitions": {
+                        "Friendlies": {
+                            "apps": 1,
+                            "goals": 0,
+                            "assists": 0,
+                            "minutes": 45,
+                            "minutes_per_goal": null,
+                            "minutes_per_goal_contribution": null
+                        }
+                    }
                 },
-                "UEFA Euro Qualifying": {
-                    "apps": 5,
-                    "goals": 6,
-                    "assists": 1,
-                    "minutes": 426,
-                    "minutes_per_goal": 71.0,
-                    "minutes_per_goal_contribution": 60.86
+                "International Qualifying": {
+                    "overall": {
+                        "apps": 5,
+                        "goals": 6,
+                        "assists": 1,
+                        "minutes": 426,
+                        "minutes_per_goal": 71.0,
+                        "minutes_per_goal_contribution": 60.86
+                    },
+                    "competitions": {
+                        "UEFA Euro Qualifying": {
+                            "apps": 5,
+                            "goals": 6,
+                            "assists": 1,
+                            "minutes": 426,
+                            "minutes_per_goal": 71.0,
+                            "minutes_per_goal_contribution": 60.86
+                        }
+                    }
                 }
             }
         },
@@ -463,22 +823,46 @@
                 "minutes_per_goal": 76.73,
                 "minutes_per_goal_contribution": 70.33
             },
-            "competitions": {
-                "Friendlies": {
-                    "apps": 4,
-                    "goals": 4,
-                    "assists": 0,
-                    "minutes": 313,
-                    "minutes_per_goal": 78.25,
-                    "minutes_per_goal_contribution": 78.25
+            "competition_tiers": {
+                "Friendly": {
+                    "overall": {
+                        "apps": 4,
+                        "goals": 4,
+                        "assists": 0,
+                        "minutes": 313,
+                        "minutes_per_goal": 78.25,
+                        "minutes_per_goal_contribution": 78.25
+                    },
+                    "competitions": {
+                        "Friendlies": {
+                            "apps": 4,
+                            "goals": 4,
+                            "assists": 0,
+                            "minutes": 313,
+                            "minutes_per_goal": 78.25,
+                            "minutes_per_goal_contribution": 78.25
+                        }
+                    }
                 },
-                "UEFA Nations League": {
-                    "apps": 6,
-                    "goals": 7,
-                    "assists": 1,
-                    "minutes": 531,
-                    "minutes_per_goal": 75.86,
-                    "minutes_per_goal_contribution": 66.38
+                "International Tournament": {
+                    "overall": {
+                        "apps": 6,
+                        "goals": 7,
+                        "assists": 1,
+                        "minutes": 531,
+                        "minutes_per_goal": 75.86,
+                        "minutes_per_goal_contribution": 66.38
+                    },
+                    "competitions": {
+                        "UEFA Nations League": {
+                            "apps": 6,
+                            "goals": 7,
+                            "assists": 1,
+                            "minutes": 531,
+                            "minutes_per_goal": 75.86,
+                            "minutes_per_goal_contribution": 66.38
+                        }
+                    }
                 }
             }
         },
@@ -491,22 +875,46 @@
                 "minutes_per_goal": 44.06,
                 "minutes_per_goal_contribution": 37.45
             },
-            "competitions": {
-                "Friendlies": {
-                    "apps": 1,
-                    "goals": 1,
-                    "assists": 0,
-                    "minutes": 45,
-                    "minutes_per_goal": 45.0,
-                    "minutes_per_goal_contribution": 45.0
+            "competition_tiers": {
+                "Friendly": {
+                    "overall": {
+                        "apps": 1,
+                        "goals": 1,
+                        "assists": 0,
+                        "minutes": 45,
+                        "minutes_per_goal": 45.0,
+                        "minutes_per_goal_contribution": 45.0
+                    },
+                    "competitions": {
+                        "Friendlies": {
+                            "apps": 1,
+                            "goals": 1,
+                            "assists": 0,
+                            "minutes": 45,
+                            "minutes_per_goal": 45.0,
+                            "minutes_per_goal_contribution": 45.0
+                        }
+                    }
                 },
-                "World Cup Qualifying": {
-                    "apps": 8,
-                    "goals": 16,
-                    "assists": 3,
-                    "minutes": 704,
-                    "minutes_per_goal": 44.0,
-                    "minutes_per_goal_contribution": 37.05
+                "International Qualifying": {
+                    "overall": {
+                        "apps": 8,
+                        "goals": 16,
+                        "assists": 3,
+                        "minutes": 704,
+                        "minutes_per_goal": 44.0,
+                        "minutes_per_goal_contribution": 37.05
+                    },
+                    "competitions": {
+                        "World Cup Qualifying": {
+                            "apps": 8,
+                            "goals": 16,
+                            "assists": 3,
+                            "minutes": 704,
+                            "minutes_per_goal": 44.0,
+                            "minutes_per_goal_contribution": 37.05
+                        }
+                    }
                 }
             }
         },
@@ -519,22 +927,46 @@
                 "minutes_per_goal": 85.43,
                 "minutes_per_goal_contribution": 85.43
             },
-            "competitions": {
-                "Friendlies": {
-                    "apps": 2,
-                    "goals": 0,
-                    "assists": 0,
-                    "minutes": 133,
-                    "minutes_per_goal": null,
-                    "minutes_per_goal_contribution": null
+            "competition_tiers": {
+                "Friendly": {
+                    "overall": {
+                        "apps": 2,
+                        "goals": 0,
+                        "assists": 0,
+                        "minutes": 133,
+                        "minutes_per_goal": null,
+                        "minutes_per_goal_contribution": null
+                    },
+                    "competitions": {
+                        "Friendlies": {
+                            "apps": 2,
+                            "goals": 0,
+                            "assists": 0,
+                            "minutes": 133,
+                            "minutes_per_goal": null,
+                            "minutes_per_goal_contribution": null
+                        }
+                    }
                 },
-                "World Cup": {
-                    "apps": 5,
-                    "goals": 7,
-                    "assists": 0,
-                    "minutes": 465,
-                    "minutes_per_goal": 66.43,
-                    "minutes_per_goal_contribution": 66.43
+                "International Tournament": {
+                    "overall": {
+                        "apps": 5,
+                        "goals": 7,
+                        "assists": 0,
+                        "minutes": 465,
+                        "minutes_per_goal": 66.43,
+                        "minutes_per_goal_contribution": 66.43
+                    },
+                    "competitions": {
+                        "World Cup": {
+                            "apps": 5,
+                            "goals": 7,
+                            "assists": 0,
+                            "minutes": 465,
+                            "minutes_per_goal": 66.43,
+                            "minutes_per_goal_contribution": 66.43
+                        }
+                    }
                 }
             }
         }

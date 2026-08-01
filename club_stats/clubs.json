@@ -9,54 +9,102 @@
                 "minutes_per_goal": 121.41,
                 "minutes_per_goal_contribution": 81.95
             },
-            "competitions": {
-                "Coupe de France": {
-                    "apps": 4,
-                    "goals": 2,
-                    "assists": 3,
-                    "minutes": 413,
-                    "minutes_per_goal": 206.5,
-                    "minutes_per_goal_contribution": 82.6
+            "competition_tiers": {
+                "Continental Club Cup": {
+                    "overall": {
+                        "apps": 10,
+                        "goals": 6,
+                        "assists": 1,
+                        "minutes": 571,
+                        "minutes_per_goal": 95.17,
+                        "minutes_per_goal_contribution": 81.57
+                    },
+                    "competitions": {
+                        "UEFA Champions League": {
+                            "apps": 9,
+                            "goals": 6,
+                            "assists": 0,
+                            "minutes": 536,
+                            "minutes_per_goal": 89.33,
+                            "minutes_per_goal_contribution": 89.33
+                        },
+                        "UEFA Europa League": {
+                            "apps": 1,
+                            "goals": 0,
+                            "assists": 1,
+                            "minutes": 35,
+                            "minutes_per_goal": null,
+                            "minutes_per_goal_contribution": 35.0
+                        }
+                    }
                 },
-                "Coupe de la Ligue": {
-                    "apps": 4,
-                    "goals": 3,
-                    "assists": 0,
-                    "minutes": 356,
-                    "minutes_per_goal": 118.67,
-                    "minutes_per_goal_contribution": 118.67
+                "Domestic Cup": {
+                    "overall": {
+                        "apps": 8,
+                        "goals": 5,
+                        "assists": 3,
+                        "minutes": 769,
+                        "minutes_per_goal": 153.8,
+                        "minutes_per_goal_contribution": 96.12
+                    },
+                    "competitions": {
+                        "Coupe de France": {
+                            "apps": 4,
+                            "goals": 2,
+                            "assists": 3,
+                            "minutes": 413,
+                            "minutes_per_goal": 206.5,
+                            "minutes_per_goal_contribution": 82.6
+                        },
+                        "Coupe de la Ligue": {
+                            "apps": 4,
+                            "goals": 3,
+                            "assists": 0,
+                            "minutes": 356,
+                            "minutes_per_goal": 118.67,
+                            "minutes_per_goal_contribution": 118.67
+                        }
+                    }
                 },
-                "Ligue 1": {
-                    "apps": 41,
-                    "goals": 16,
-                    "assists": 9,
-                    "minutes": 1868,
-                    "minutes_per_goal": 116.75,
-                    "minutes_per_goal_contribution": 74.72
+                "Domestic League": {
+                    "overall": {
+                        "apps": 41,
+                        "goals": 16,
+                        "assists": 9,
+                        "minutes": 1868,
+                        "minutes_per_goal": 116.75,
+                        "minutes_per_goal_contribution": 74.72
+                    },
+                    "competitions": {
+                        "Ligue 1": {
+                            "apps": 41,
+                            "goals": 16,
+                            "assists": 9,
+                            "minutes": 1868,
+                            "minutes_per_goal": 116.75,
+                            "minutes_per_goal_contribution": 74.72
+                        }
+                    }
                 },
-                "Trophée des Champions": {
-                    "apps": 1,
-                    "goals": 0,
-                    "assists": 0,
-                    "minutes": 70,
-                    "minutes_per_goal": null,
-                    "minutes_per_goal_contribution": null
-                },
-                "UEFA Champions League": {
-                    "apps": 9,
-                    "goals": 6,
-                    "assists": 0,
-                    "minutes": 536,
-                    "minutes_per_goal": 89.33,
-                    "minutes_per_goal_contribution": 89.33
-                },
-                "UEFA Europa League": {
-                    "apps": 1,
-                    "goals": 0,
-                    "assists": 1,
-                    "minutes": 35,
-                    "minutes_per_goal": null,
-                    "minutes_per_goal_contribution": 35.0
+                "Domestic Super Cup": {
+                    "overall": {
+                        "apps": 1,
+                        "goals": 0,
+                        "assists": 0,
+                        "minutes": 70,
+                        "minutes_per_goal": null,
+                        "minutes_per_goal_contribution": null
+                    },
+                    "competitions": {
+                        "Trophée des Champions": {
+                            "apps": 1,
+                            "goals": 0,
+                            "assists": 0,
+                            "minutes": 70,
+                            "minutes_per_goal": null,
+                            "minutes_per_goal_contribution": null
+                        }
+                    }
                 }
             }
         },
@@ -69,46 +117,94 @@
                 "minutes_per_goal": 96.38,
                 "minutes_per_goal_contribution": 70.1
             },
-            "competitions": {
-                "Coupe de France": {
-                    "apps": 27,
-                    "goals": 35,
-                    "assists": 12,
-                    "minutes": 2145,
-                    "minutes_per_goal": 61.29,
-                    "minutes_per_goal_contribution": 45.64
+            "competition_tiers": {
+                "Continental Club Cup": {
+                    "overall": {
+                        "apps": 64,
+                        "goals": 42,
+                        "assists": 23,
+                        "minutes": 5307,
+                        "minutes_per_goal": 126.36,
+                        "minutes_per_goal_contribution": 81.65
+                    },
+                    "competitions": {
+                        "UEFA Champions League": {
+                            "apps": 64,
+                            "goals": 42,
+                            "assists": 23,
+                            "minutes": 5307,
+                            "minutes_per_goal": 126.36,
+                            "minutes_per_goal_contribution": 81.65
+                        }
+                    }
                 },
-                "Coupe de la Ligue": {
-                    "apps": 9,
-                    "goals": 2,
-                    "assists": 5,
-                    "minutes": 623,
-                    "minutes_per_goal": 311.5,
-                    "minutes_per_goal_contribution": 89.0
+                "Domestic Cup": {
+                    "overall": {
+                        "apps": 36,
+                        "goals": 37,
+                        "assists": 17,
+                        "minutes": 2768,
+                        "minutes_per_goal": 74.81,
+                        "minutes_per_goal_contribution": 51.26
+                    },
+                    "competitions": {
+                        "Coupe de France": {
+                            "apps": 27,
+                            "goals": 35,
+                            "assists": 12,
+                            "minutes": 2145,
+                            "minutes_per_goal": 61.29,
+                            "minutes_per_goal_contribution": 45.64
+                        },
+                        "Coupe de la Ligue": {
+                            "apps": 9,
+                            "goals": 2,
+                            "assists": 5,
+                            "minutes": 623,
+                            "minutes_per_goal": 311.5,
+                            "minutes_per_goal_contribution": 89.0
+                        }
+                    }
                 },
-                "Ligue 1": {
-                    "apps": 205,
-                    "goals": 175,
-                    "assists": 56,
-                    "minutes": 16329,
-                    "minutes_per_goal": 93.31,
-                    "minutes_per_goal_contribution": 70.69
+                "Domestic League": {
+                    "overall": {
+                        "apps": 205,
+                        "goals": 175,
+                        "assists": 56,
+                        "minutes": 16329,
+                        "minutes_per_goal": 93.31,
+                        "minutes_per_goal_contribution": 70.69
+                    },
+                    "competitions": {
+                        "Ligue 1": {
+                            "apps": 205,
+                            "goals": 175,
+                            "assists": 56,
+                            "minutes": 16329,
+                            "minutes_per_goal": 93.31,
+                            "minutes_per_goal_contribution": 70.69
+                        }
+                    }
                 },
-                "Trophée des Champions": {
-                    "apps": 3,
-                    "goals": 2,
-                    "assists": 0,
-                    "minutes": 270,
-                    "minutes_per_goal": 135.0,
-                    "minutes_per_goal_contribution": 135.0
-                },
-                "UEFA Champions League": {
-                    "apps": 64,
-                    "goals": 42,
-                    "assists": 23,
-                    "minutes": 5307,
-                    "minutes_per_goal": 126.36,
-                    "minutes_per_goal_contribution": 81.65
+                "Domestic Super Cup": {
+                    "overall": {
+                        "apps": 3,
+                        "goals": 2,
+                        "assists": 0,
+                        "minutes": 270,
+                        "minutes_per_goal": 135.0,
+                        "minutes_per_goal_contribution": 135.0
+                    },
+                    "competitions": {
+                        "Trophée des Champions": {
+                            "apps": 3,
+                            "goals": 2,
+                            "assists": 0,
+                            "minutes": 270,
+                            "minutes_per_goal": 135.0,
+                            "minutes_per_goal_contribution": 135.0
+                        }
+                    }
                 }
             }
         },
@@ -121,62 +217,134 @@
                 "minutes_per_goal": 97.06,
                 "minutes_per_goal_contribution": 86.05
             },
-            "competitions": {
+            "competition_tiers": {
                 "Club World Cup": {
-                    "apps": 3,
-                    "goals": 1,
-                    "assists": 0,
-                    "minutes": 137,
-                    "minutes_per_goal": 137.0,
-                    "minutes_per_goal_contribution": 137.0
+                    "overall": {
+                        "apps": 3,
+                        "goals": 1,
+                        "assists": 0,
+                        "minutes": 137,
+                        "minutes_per_goal": 137.0,
+                        "minutes_per_goal_contribution": 137.0
+                    },
+                    "competitions": {
+                        "Club World Cup": {
+                            "apps": 3,
+                            "goals": 1,
+                            "assists": 0,
+                            "minutes": 137,
+                            "minutes_per_goal": 137.0,
+                            "minutes_per_goal_contribution": 137.0
+                        }
+                    }
                 },
-                "Copa del Rey": {
-                    "apps": 5,
-                    "goals": 4,
-                    "assists": 0,
-                    "minutes": 326,
-                    "minutes_per_goal": 81.5,
-                    "minutes_per_goal_contribution": 81.5
+                "Continental Club Cup": {
+                    "overall": {
+                        "apps": 25,
+                        "goals": 22,
+                        "assists": 2,
+                        "minutes": 2039,
+                        "minutes_per_goal": 92.68,
+                        "minutes_per_goal_contribution": 84.96
+                    },
+                    "competitions": {
+                        "UEFA Champions League": {
+                            "apps": 25,
+                            "goals": 22,
+                            "assists": 2,
+                            "minutes": 2039,
+                            "minutes_per_goal": 92.68,
+                            "minutes_per_goal_contribution": 84.96
+                        }
+                    }
                 },
-                "Intercontinental Cup": {
-                    "apps": 1,
-                    "goals": 1,
-                    "assists": 1,
-                    "minutes": 62,
-                    "minutes_per_goal": 62.0,
-                    "minutes_per_goal_contribution": 31.0
+                "Domestic Cup": {
+                    "overall": {
+                        "apps": 5,
+                        "goals": 4,
+                        "assists": 0,
+                        "minutes": 326,
+                        "minutes_per_goal": 81.5,
+                        "minutes_per_goal_contribution": 81.5
+                    },
+                    "competitions": {
+                        "Copa del Rey": {
+                            "apps": 5,
+                            "goals": 4,
+                            "assists": 0,
+                            "minutes": 326,
+                            "minutes_per_goal": 81.5,
+                            "minutes_per_goal_contribution": 81.5
+                        }
+                    }
                 },
-                "La Liga": {
-                    "apps": 65,
-                    "goals": 56,
-                    "assists": 8,
-                    "minutes": 5506,
-                    "minutes_per_goal": 98.32,
-                    "minutes_per_goal_contribution": 86.03
+                "Domestic League": {
+                    "overall": {
+                        "apps": 65,
+                        "goals": 56,
+                        "assists": 8,
+                        "minutes": 5506,
+                        "minutes_per_goal": 98.32,
+                        "minutes_per_goal_contribution": 86.03
+                    },
+                    "competitions": {
+                        "La Liga": {
+                            "apps": 65,
+                            "goals": 56,
+                            "assists": 8,
+                            "minutes": 5506,
+                            "minutes_per_goal": 98.32,
+                            "minutes_per_goal_contribution": 86.03
+                        }
+                    }
                 },
-                "Super Cup": {
-                    "apps": 1,
-                    "goals": 1,
-                    "assists": 0,
-                    "minutes": 82,
-                    "minutes_per_goal": 82.0,
-                    "minutes_per_goal_contribution": 82.0
+                "Domestic Super Cup": {
+                    "overall": {
+                        "apps": 3,
+                        "goals": 1,
+                        "assists": 0,
+                        "minutes": 195,
+                        "minutes_per_goal": 195.0,
+                        "minutes_per_goal_contribution": 195.0
+                    },
+                    "competitions": {
+                        "Supercopa de España": {
+                            "apps": 3,
+                            "goals": 1,
+                            "assists": 0,
+                            "minutes": 195,
+                            "minutes_per_goal": 195.0,
+                            "minutes_per_goal_contribution": 195.0
+                        }
+                    }
                 },
-                "Supercopa de España": {
-                    "apps": 3,
-                    "goals": 1,
-                    "assists": 0,
-                    "minutes": 195,
-                    "minutes_per_goal": 195.0,
-                    "minutes_per_goal_contribution": 195.0
-                },
-                "UEFA Champions League": {
-                    "apps": 25,
-                    "goals": 22,
-                    "assists": 2,
-                    "minutes": 2039,
-                    "minutes_per_goal": 92.68,
-                    "minutes_per_goal_contribution": 84.96
+                "Intercontinental Super Cup": {
+                    "overall": {
+                        "apps": 2,
+                        "goals": 2,
+                        "assists": 1,
+                        "minutes": 144,
+                        "minutes_per_goal": 72.0,
+                        "minutes_per_goal_contribution": 48.0
+                    },
+                    "competitions": {
+                        "Intercontinental Cup": {
+                            "apps": 1,
+                            "goals": 1,
+                            "assists": 1,
+                            "minutes": 62,
+                            "minutes_per_goal": 62.0,
+                            "minutes_per_goal_contribution": 31.0
+                        },
+                        "Super Cup": {
+                            "apps": 1,
+                            "goals": 1,
+                            "assists": 0,
+                            "minutes": 82,
+                            "minutes_per_goal": 82.0,
+                            "minutes_per_goal_contribution": 82.0
+                        }
+                    }
                 }
             }
         }
@@ -191,14 +359,26 @@
                 "minutes_per_goal": null,
                 "minutes_per_goal_contribution": null
             },
-            "competitions": {
-                "1. Divisjon": {
-                    "apps": 16,
-                    "goals": 0,
-                    "assists": 0,
-                    "minutes": 423,
-                    "minutes_per_goal": null,
-                    "minutes_per_goal_contribution": null
+            "competition_tiers": {
+                "Domestic League": {
+                    "overall": {
+                        "apps": 16,
+                        "goals": 0,
+                        "assists": 0,
+                        "minutes": 423,
+                        "minutes_per_goal": null,
+                        "minutes_per_goal_contribution": null
+                    },
+                    "competitions": {
+                        "1. Divisjon": {
+                            "apps": 16,
+                            "goals": 0,
+                            "assists": 0,
+                            "minutes": 423,
+                            "minutes_per_goal": null,
+                            "minutes_per_goal_contribution": null
+                        }
+                    }
                 }
             }
         },
@@ -211,38 +391,86 @@
                 "minutes_per_goal": 83.77,
                 "minutes_per_goal_contribution": 67.96
             },
-            "competitions": {
-                "Bundesliga": {
-                    "apps": 67,
-                    "goals": 62,
-                    "assists": 16,
-                    "minutes": 5381,
-                    "minutes_per_goal": 86.79,
-                    "minutes_per_goal_contribution": 68.99
+            "competition_tiers": {
+                "Continental Club Cup": {
+                    "overall": {
+                        "apps": 13,
+                        "goals": 15,
+                        "assists": 2,
+                        "minutes": 1086,
+                        "minutes_per_goal": 72.4,
+                        "minutes_per_goal_contribution": 63.88
+                    },
+                    "competitions": {
+                        "UEFA Champions League": {
+                            "apps": 13,
+                            "goals": 15,
+                            "assists": 2,
+                            "minutes": 1086,
+                            "minutes_per_goal": 72.4,
+                            "minutes_per_goal_contribution": 63.88
+                        }
+                    }
                 },
-                "DFB-Pokal": {
-                    "apps": 7,
-                    "goals": 8,
-                    "assists": 1,
-                    "minutes": 580,
-                    "minutes_per_goal": 72.5,
-                    "minutes_per_goal_contribution": 64.44
+                "Domestic Cup": {
+                    "overall": {
+                        "apps": 7,
+                        "goals": 8,
+                        "assists": 1,
+                        "minutes": 580,
+                        "minutes_per_goal": 72.5,
+                        "minutes_per_goal_contribution": 64.44
+                    },
+                    "competitions": {
+                        "DFB-Pokal": {
+                            "apps": 7,
+                            "goals": 8,
+                            "assists": 1,
+                            "minutes": 580,
+                            "minutes_per_goal": 72.5,
+                            "minutes_per_goal_contribution": 64.44
+                        }
+                    }
                 },
-                "DFL-Supercup": {
-                    "apps": 2,
-                    "goals": 1,
-                    "assists": 1,
-                    "minutes": 157,
-                    "minutes_per_goal": 157.0,
-                    "minutes_per_goal_contribution": 78.5
+                "Domestic League": {
+                    "overall": {
+                        "apps": 67,
+                        "goals": 62,
+                        "assists": 16,
+                        "minutes": 5381,
+                        "minutes_per_goal": 86.79,
+                        "minutes_per_goal_contribution": 68.99
+                    },
+                    "competitions": {
+                        "Bundesliga": {
+                            "apps": 67,
+                            "goals": 62,
+                            "assists": 16,
+                            "minutes": 5381,
+                            "minutes_per_goal": 86.79,
+                            "minutes_per_goal_contribution": 68.99
+                        }
+                    }
                 },
-                "UEFA Champions League": {
-                    "apps": 13,
-                    "goals": 15,
-                    "assists": 2,
-                    "minutes": 1086,
-                    "minutes_per_goal": 72.4,
-                    "minutes_per_goal_contribution": 63.88
+                "Domestic Super Cup": {
+                    "overall": {
+                        "apps": 2,
+                        "goals": 1,
+                        "assists": 1,
+                        "minutes": 157,
+                        "minutes_per_goal": 157.0,
+                        "minutes_per_goal_contribution": 78.5
+                    },
+                    "competitions": {
+                        "DFL-Supercup": {
+                            "apps": 2,
+                            "goals": 1,
+                            "assists": 1,
+                            "minutes": 157,
+                            "minutes_per_goal": 157.0,
+                            "minutes_per_goal_contribution": 78.5
+                        }
+                    }
                 }
             }
         },
@@ -255,62 +483,134 @@
                 "minutes_per_goal": 98.87,
                 "minutes_per_goal_contribution": 83.86
             },
-            "competitions": {
+            "competition_tiers": {
                 "Club World Cup": {
-                    "apps": 4,
-                    "goals": 3,
-                    "assists": 1,
-                    "minutes": 256,
-                    "minutes_per_goal": 85.33,
-                    "minutes_per_goal_contribution": 64.0
+                    "overall": {
+                        "apps": 4,
+                        "goals": 3,
+                        "assists": 1,
+                        "minutes": 256,
+                        "minutes_per_goal": 85.33,
+                        "minutes_per_goal_contribution": 64.0
+                    },
+                    "competitions": {
+                        "Club World Cup": {
+                            "apps": 4,
+                            "goals": 3,
+                            "assists": 1,
+                            "minutes": 256,
+                            "minutes_per_goal": 85.33,
+                            "minutes_per_goal_contribution": 64.0
+                        }
+                    }
                 },
-                "Community Shield": {
-                    "apps": 3,
-                    "goals": 0,
-                    "assists": 0,
-                    "minutes": 243,
-                    "minutes_per_goal": null,
-                    "minutes_per_goal_contribution": null
+                "Continental Club Cup": {
+                    "overall": {
+                        "apps": 39,
+                        "goals": 34,
+                        "assists": 2,
+                        "minutes": 3137,
+                        "minutes_per_goal": 92.26,
+                        "minutes_per_goal_contribution": 87.14
+                    },
+                    "competitions": {
+                        "UEFA Champions League": {
+                            "apps": 39,
+                            "goals": 34,
+                            "assists": 2,
+                            "minutes": 3137,
+                            "minutes_per_goal": 92.26,
+                            "minutes_per_goal_contribution": 87.14
+                        }
+                    }
                 },
-                "EFL Cup": {
-                    "apps": 5,
-                    "goals": 1,
-                    "assists": 0,
-                    "minutes": 307,
-                    "minutes_per_goal": 307.0,
-                    "minutes_per_goal_contribution": 307.0
+                "Domestic Cup": {
+                    "overall": {
+                        "apps": 19,
+                        "goals": 13,
+                        "assists": 2,
+                        "minutes": 1281,
+                        "minutes_per_goal": 98.54,
+                        "minutes_per_goal_contribution": 85.4
+                    },
+                    "competitions": {
+                        "EFL Cup": {
+                            "apps": 5,
+                            "goals": 1,
+                            "assists": 0,
+                            "minutes": 307,
+                            "minutes_per_goal": 307.0,
+                            "minutes_per_goal_contribution": 307.0
+                        },
+                        "FA Cup": {
+                            "apps": 14,
+                            "goals": 12,
+                            "assists": 2,
+                            "minutes": 974,
+                            "minutes_per_goal": 81.17,
+                            "minutes_per_goal_contribution": 69.57
+                        }
+                    }
                 },
-                "FA Cup": {
-                    "apps": 14,
-                    "goals": 12,
-                    "assists": 2,
-                    "minutes": 974,
-                    "minutes_per_goal": 81.17,
-                    "minutes_per_goal_contribution": 69.57
+                "Domestic League": {
+                    "overall": {
+                        "apps": 132,
+                        "goals": 112,
+                        "assists": 24,
+                        "minutes": 11010,
+                        "minutes_per_goal": 98.3,
+                        "minutes_per_goal_contribution": 80.96
+                    },
+                    "competitions": {
+                        "Premier League": {
+                            "apps": 132,
+                            "goals": 112,
+                            "assists": 24,
+                            "minutes": 11010,
+                            "minutes_per_goal": 98.3,
+                            "minutes_per_goal_contribution": 80.96
+                        }
+                    }
                 },
-                "Premier League": {
-                    "apps": 132,
-                    "goals": 112,
-                    "assists": 24,
-                    "minutes": 11010,
-                    "minutes_per_goal": 98.3,
-                    "minutes_per_goal_contribution": 80.96
+                "Domestic Super Cup": {
+                    "overall": {
+                        "apps": 3,
+                        "goals": 0,
+                        "assists": 0,
+                        "minutes": 243,
+                        "minutes_per_goal": null,
+                        "minutes_per_goal_contribution": null
+                    },
+                    "competitions": {
+                        "Community Shield": {
+                            "apps": 3,
+                            "goals": 0,
+                            "assists": 0,
+                            "minutes": 243,
+                            "minutes_per_goal": null,
+                            "minutes_per_goal_contribution": null
+                        }
+                    }
                 },
-                "Super Cup": {
-                    "apps": 1,
-                    "goals": 0,
-                    "assists": 0,
-                    "minutes": 90,
-                    "minutes_per_goal": null,
-                    "minutes_per_goal_contribution": null
-                },
-                "UEFA Champions League": {
-                    "apps": 39,
-                    "goals": 34,
-                    "assists": 2,
-                    "minutes": 3137,
-                    "minutes_per_goal": 92.26,
-                    "minutes_per_goal_contribution": 87.14
+                "Intercontinental Super Cup": {
+                    "overall": {
+                        "apps": 1,
+                        "goals": 0,
+                        "assists": 0,
+                        "minutes": 90,
+                        "minutes_per_goal": null,
+                        "minutes_per_goal_contribution": null
+                    },
+                    "competitions": {
+                        "Super Cup": {
+                            "apps": 1,
+                            "goals": 0,
+                            "assists": 0,
+                            "minutes": 90,
+                            "minutes_per_goal": null,
+                            "minutes_per_goal_contribution": null
+                        }
+                    }
                 }
             }
         },
@@ -323,30 +623,66 @@
                 "minutes_per_goal": 132.05,
                 "minutes_per_goal_contribution": 101.58
             },
-            "competitions": {
-                "Eliteserien": {
-                    "apps": 39,
-                    "goals": 14,
-                    "assists": 5,
-                    "minutes": 1980,
-                    "minutes_per_goal": 141.43,
-                    "minutes_per_goal_contribution": 104.21
+            "competition_tiers": {
+                "Continental Club Cup": {
+                    "overall": {
+                        "apps": 5,
+                        "goals": 4,
+                        "assists": 1,
+                        "minutes": 402,
+                        "minutes_per_goal": 100.5,
+                        "minutes_per_goal_contribution": 80.4
+                    },
+                    "competitions": {
+                        "UEFA Europa League": {
+                            "apps": 5,
+                            "goals": 4,
+                            "assists": 1,
+                            "minutes": 402,
+                            "minutes_per_goal": 100.5,
+                            "minutes_per_goal_contribution": 80.4
+                        }
+                    }
                 },
-                "NM-Cup": {
-                    "apps": 6,
-                    "goals": 2,
-                    "assists": 0,
-                    "minutes": 259,
-                    "minutes_per_goal": 129.5,
-                    "minutes_per_goal_contribution": 129.5
+                "Domestic Cup": {
+                    "overall": {
+                        "apps": 6,
+                        "goals": 2,
+                        "assists": 0,
+                        "minutes": 259,
+                        "minutes_per_goal": 129.5,
+                        "minutes_per_goal_contribution": 129.5
+                    },
+                    "competitions": {
+                        "NM-Cup": {
+                            "apps": 6,
+                            "goals": 2,
+                            "assists": 0,
+                            "minutes": 259,
+                            "minutes_per_goal": 129.5,
+                            "minutes_per_goal_contribution": 129.5
+                        }
+                    }
                 },
-                "UEFA Europa League": {
-                    "apps": 5,
-                    "goals": 4,
-                    "assists": 1,
-                    "minutes": 402,
-                    "minutes_per_goal": 100.5,
-                    "minutes_per_goal_contribution": 80.4
+                "Domestic League": {
+                    "overall": {
+                        "apps": 39,
+                        "goals": 14,
+                        "assists": 5,
+                        "minutes": 1980,
+                        "minutes_per_goal": 141.43,
+                        "minutes_per_goal_contribution": 104.21
+                    },
+                    "competitions": {
+                        "Eliteserien": {
+                            "apps": 39,
+                            "goals": 14,
+                            "assists": 5,
+                            "minutes": 1980,
+                            "minutes_per_goal": 141.43,
+                            "minutes_per_goal_contribution": 104.21
+                        }
+                    }
                 }
             }
         },
@@ -359,30 +695,54 @@
                 "minutes_per_goal": 57.64,
                 "minutes_per_goal_contribution": 48.03
             },
-            "competitions": {
-                "Bundesliga": {
-                    "apps": 16,
-                    "goals": 17,
-                    "assists": 4,
-                    "minutes": 1063,
-                    "minutes_per_goal": 62.53,
-                    "minutes_per_goal_contribution": 50.62
+            "competition_tiers": {
+                "Continental Club Cup": {
+                    "overall": {
+                        "apps": 7,
+                        "goals": 8,
+                        "assists": 1,
+                        "minutes": 378,
+                        "minutes_per_goal": 47.25,
+                        "minutes_per_goal_contribution": 42.0
+                    },
+                    "competitions": {
+                        "UEFA Champions League": {
+                            "apps": 6,
+                            "goals": 8,
+                            "assists": 1,
+                            "minutes": 373,
+                            "minutes_per_goal": 46.62,
+                            "minutes_per_goal_contribution": 41.44
+                        },
+                        "UEFA Europa League": {
+                            "apps": 1,
+                            "goals": 0,
+                            "assists": 0,
+                            "minutes": 5,
+                            "minutes_per_goal": null,
+                            "minutes_per_goal_contribution": null
+                        }
+                    }
                 },
-                "UEFA Champions League": {
-                    "apps": 6,
-                    "goals": 8,
-                    "assists": 1,
-                    "minutes": 373,
-                    "minutes_per_goal": 46.62,
-                    "minutes_per_goal_contribution": 41.44
-                },
-                "UEFA Europa League": {
-                    "apps": 1,
-                    "goals": 0,
-                    "assists": 0,
-                    "minutes": 5,
-                    "minutes_per_goal": null,
-                    "minutes_per_goal_contribution": null
+                "Domestic League": {
+                    "overall": {
+                        "apps": 16,
+                        "goals": 17,
+                        "assists": 4,
+                        "minutes": 1063,
+                        "minutes_per_goal": 62.53,
+                        "minutes_per_goal_contribution": 50.62
+                    },
+                    "competitions": {
+                        "Bundesliga": {
+                            "apps": 16,
+                            "goals": 17,
+                            "assists": 4,
+                            "minutes": 1063,
+                            "minutes_per_goal": 62.53,
+                            "minutes_per_goal_contribution": 50.62
+                        }
+                    }
                 }
             }
         },
@@ -395,14 +755,26 @@
                 "minutes_per_goal": 43.75,
                 "minutes_per_goal_contribution": 43.75
             },
-            "competitions": {
-                "ÖFB-Cup": {
-                    "apps": 4,
-                    "goals": 4,
-                    "assists": 0,
-                    "minutes": 175,
-                    "minutes_per_goal": 43.75,
-                    "minutes_per_goal_contribution": 43.75
+            "competition_tiers": {
+                "Domestic Cup": {
+                    "overall": {
+                        "apps": 4,
+                        "goals": 4,
+                        "assists": 0,
+                        "minutes": 175,
+                        "minutes_per_goal": 43.75,
+                        "minutes_per_goal_contribution": 43.75
+                    },
+                    "competitions": {
+                        "ÖFB-Cup": {
+                            "apps": 4,
+                            "goals": 4,
+                            "assists": 0,
+                            "minutes": 175,
+                            "minutes_per_goal": 43.75,
+                            "minutes_per_goal_contribution": 43.75
+                        }
+                    }
                 }
             }
         }
