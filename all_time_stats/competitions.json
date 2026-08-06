@@ -7,7 +7,50 @@
                 "assists": 120,
                 "minutes": 36299,
                 "minutes_per_goal": 98.37,
-                "minutes_per_goal_contribution": 74.23
+                "minutes_per_goal_contribution": 74.23,
+                "details": {
+                    "scoring": {
+                        "goals_per_game": 0.78,
+                        "hat_tricks": 21
+                    },
+                    "appearances": {
+                        "games_started": {
+                            "count": 402,
+                            "total": 471,
+                            "starting_percentage": 85.35
+                        },
+                        "captain": {
+                            "count": 20,
+                            "total": 471,
+                            "captain_percentage": 4.25
+                        }
+                    },
+                    "penalties": {
+                        "scored": 50,
+                        "attempted": 61,
+                        "conversion_percentage": 81.97,
+                        "won": 10
+                    },
+                    "shooting": {
+                        "shots": 1674,
+                        "shots_on_target": 866,
+                        "shots_on_target_percentage": 51.73
+                    },
+                    "discipline": {
+                        "yellow_cards": 55,
+                        "red_cards": 4
+                    },
+                    "general": {
+                        "fouls_committed": 246,
+                        "fouls_drawn": 546,
+                        "offsides": 410,
+                        "crosses": 579
+                    },
+                    "defending": {
+                        "tackles_won": 73,
+                        "interceptions": 58
+                    }
+                }
             },
             "competition_tiers": {
                 "Club World Cup": {
@@ -17,7 +60,50 @@
                         "assists": 0,
                         "minutes": 137,
                         "minutes_per_goal": 137.0,
-                        "minutes_per_goal_contribution": 137.0
+                        "minutes_per_goal_contribution": 137.0,
+                        "details": {
+                            "scoring": {
+                                "goals_per_game": 0.33,
+                                "hat_tricks": 0
+                            },
+                            "appearances": {
+                                "games_started": {
+                                    "count": 1,
+                                    "total": 3,
+                                    "starting_percentage": 33.33
+                                },
+                                "captain": {
+                                    "count": 0,
+                                    "total": 3,
+                                    "captain_percentage": 0.0
+                                }
+                            },
+                            "penalties": {
+                                "scored": 0,
+                                "attempted": 0,
+                                "conversion_percentage": null,
+                                "won": 0
+                            },
+                            "shooting": {
+                                "shots": 6,
+                                "shots_on_target": 3,
+                                "shots_on_target_percentage": 50.0
+                            },
+                            "discipline": {
+                                "yellow_cards": 1,
+                                "red_cards": 0
+                            },
+                            "general": {
+                                "fouls_committed": 1,
+                                "fouls_drawn": 0,
+                                "offsides": 0,
+                                "crosses": 1
+                            },
+                            "defending": {
+                                "tackles_won": 0,
+                                "interceptions": 1
+                            }
+                        }
                     },
                     "competitions": {
                         "Club World Cup": {
@@ -26,7 +112,50 @@
                             "assists": 0,
                             "minutes": 137,
                             "minutes_per_goal": 137.0,
-                            "minutes_per_goal_contribution": 137.0
+                            "minutes_per_goal_contribution": 137.0,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.33,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 1,
+                                        "total": 3,
+                                        "starting_percentage": 33.33
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 3,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 0,
+                                    "attempted": 0,
+                                    "conversion_percentage": null,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 6,
+                                    "shots_on_target": 3,
+                                    "shots_on_target_percentage": 50.0
+                                },
+                                "discipline": {
+                                    "yellow_cards": 1,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 1,
+                                    "fouls_drawn": 0,
+                                    "offsides": 0,
+                                    "crosses": 1
+                                },
+                                "defending": {
+                                    "tackles_won": 0,
+                                    "interceptions": 1
+                                }
+                            }
                         }
                     }
                 },
@@ -37,7 +166,50 @@
                         "assists": 26,
                         "minutes": 7917,
                         "minutes_per_goal": 113.1,
-                        "minutes_per_goal_contribution": 82.47
+                        "minutes_per_goal_contribution": 82.47,
+                        "details": {
+                            "scoring": {
+                                "goals_per_game": 0.71,
+                                "hat_tricks": 5
+                            },
+                            "appearances": {
+                                "games_started": {
+                                    "count": 88,
+                                    "total": 99,
+                                    "starting_percentage": 88.89
+                                },
+                                "captain": {
+                                    "count": 2,
+                                    "total": 99,
+                                    "captain_percentage": 2.02
+                                }
+                            },
+                            "penalties": {
+                                "scored": 9,
+                                "attempted": 11,
+                                "conversion_percentage": 81.82,
+                                "won": 1
+                            },
+                            "shooting": {
+                                "shots": 344,
+                                "shots_on_target": 182,
+                                "shots_on_target_percentage": 52.91
+                            },
+                            "discipline": {
+                                "yellow_cards": 7,
+                                "red_cards": 0
+                            },
+                            "general": {
+                                "fouls_committed": 43,
+                                "fouls_drawn": 116,
+                                "offsides": 85,
+                                "crosses": 129
+                            },
+                            "defending": {
+                                "tackles_won": 18,
+                                "interceptions": 17
+                            }
+                        }
                     },
                     "competitions": {
                         "UEFA Champions League": {
@@ -46,7 +218,50 @@
                             "assists": 25,
                             "minutes": 7882,
                             "minutes_per_goal": 112.6,
-                            "minutes_per_goal_contribution": 82.97
+                            "minutes_per_goal_contribution": 82.97,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.71,
+                                    "hat_tricks": 5
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 88,
+                                        "total": 98,
+                                        "starting_percentage": 89.8
+                                    },
+                                    "captain": {
+                                        "count": 2,
+                                        "total": 98,
+                                        "captain_percentage": 2.04
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 9,
+                                    "attempted": 11,
+                                    "conversion_percentage": 81.82,
+                                    "won": 1
+                                },
+                                "shooting": {
+                                    "shots": 343,
+                                    "shots_on_target": 182,
+                                    "shots_on_target_percentage": 53.06
+                                },
+                                "discipline": {
+                                    "yellow_cards": 7,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 43,
+                                    "fouls_drawn": 116,
+                                    "offsides": 85,
+                                    "crosses": 128
+                                },
+                                "defending": {
+                                    "tackles_won": 18,
+                                    "interceptions": 17
+                                }
+                            }
                         },
                         "UEFA Europa League": {
                             "apps": 1,
@@ -54,7 +269,50 @@
                             "assists": 1,
                             "minutes": 35,
                             "minutes_per_goal": null,
-                            "minutes_per_goal_contribution": 35.0
+                            "minutes_per_goal_contribution": 35.0,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.0,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 0,
+                                        "total": 1,
+                                        "starting_percentage": 0.0
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 1,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 0,
+                                    "attempted": 0,
+                                    "conversion_percentage": null,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 1,
+                                    "shots_on_target": 0,
+                                    "shots_on_target_percentage": 0.0
+                                },
+                                "discipline": {
+                                    "yellow_cards": 0,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 0,
+                                    "fouls_drawn": 0,
+                                    "offsides": 0,
+                                    "crosses": 1
+                                },
+                                "defending": {
+                                    "tackles_won": 0,
+                                    "interceptions": 0
+                                }
+                            }
                         }
                     }
                 },
@@ -65,7 +323,50 @@
                         "assists": 20,
                         "minutes": 3863,
                         "minutes_per_goal": 83.98,
-                        "minutes_per_goal_contribution": 58.53
+                        "minutes_per_goal_contribution": 58.53,
+                        "details": {
+                            "scoring": {
+                                "goals_per_game": 0.94,
+                                "hat_tricks": 5
+                            },
+                            "appearances": {
+                                "games_started": {
+                                    "count": 40,
+                                    "total": 49,
+                                    "starting_percentage": 81.63
+                                },
+                                "captain": {
+                                    "count": 3,
+                                    "total": 49,
+                                    "captain_percentage": 6.12
+                                }
+                            },
+                            "penalties": {
+                                "scored": 6,
+                                "attempted": 8,
+                                "conversion_percentage": 75.0,
+                                "won": 1
+                            },
+                            "shooting": {
+                                "shots": 124,
+                                "shots_on_target": 70,
+                                "shots_on_target_percentage": 56.45
+                            },
+                            "discipline": {
+                                "yellow_cards": 3,
+                                "red_cards": 2
+                            },
+                            "general": {
+                                "fouls_committed": 17,
+                                "fouls_drawn": 41,
+                                "offsides": 25,
+                                "crosses": 34
+                            },
+                            "defending": {
+                                "tackles_won": 4,
+                                "interceptions": 4
+                            }
+                        }
                     },
                     "competitions": {
                         "Copa del Rey": {
@@ -74,7 +375,50 @@
                             "assists": 0,
                             "minutes": 326,
                             "minutes_per_goal": 81.5,
-                            "minutes_per_goal_contribution": 81.5
+                            "minutes_per_goal_contribution": 81.5,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.8,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 2,
+                                        "total": 5,
+                                        "starting_percentage": 40.0
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 5,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 1,
+                                    "attempted": 1,
+                                    "conversion_percentage": 100.0,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 18,
+                                    "shots_on_target": 8,
+                                    "shots_on_target_percentage": 44.44
+                                },
+                                "discipline": {
+                                    "yellow_cards": 0,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 1,
+                                    "fouls_drawn": 3,
+                                    "offsides": 1,
+                                    "crosses": 1
+                                },
+                                "defending": {
+                                    "tackles_won": 0,
+                                    "interceptions": 0
+                                }
+                            }
                         },
                         "Coupe de France": {
                             "apps": 31,
@@ -82,7 +426,50 @@
                             "assists": 15,
                             "minutes": 2558,
                             "minutes_per_goal": 69.14,
-                            "minutes_per_goal_contribution": 49.19
+                            "minutes_per_goal_contribution": 49.19,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 1.19,
+                                    "hat_tricks": 4
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 27,
+                                        "total": 31,
+                                        "starting_percentage": 87.1
+                                    },
+                                    "captain": {
+                                        "count": 3,
+                                        "total": 31,
+                                        "captain_percentage": 9.68
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 5,
+                                    "attempted": 7,
+                                    "conversion_percentage": 71.43,
+                                    "won": 1
+                                },
+                                "shooting": {
+                                    "shots": 100,
+                                    "shots_on_target": 59,
+                                    "shots_on_target_percentage": 59.0
+                                },
+                                "discipline": {
+                                    "yellow_cards": 2,
+                                    "red_cards": 1
+                                },
+                                "general": {
+                                    "fouls_committed": 12,
+                                    "fouls_drawn": 36,
+                                    "offsides": 19,
+                                    "crosses": 32
+                                },
+                                "defending": {
+                                    "tackles_won": 3,
+                                    "interceptions": 4
+                                }
+                            }
                         },
                         "Coupe de la Ligue": {
                             "apps": 13,
@@ -90,7 +477,50 @@
                             "assists": 5,
                             "minutes": 979,
                             "minutes_per_goal": 195.8,
-                            "minutes_per_goal_contribution": 97.9
+                            "minutes_per_goal_contribution": 97.9,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.38,
+                                    "hat_tricks": 1
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 11,
+                                        "total": 13,
+                                        "starting_percentage": 84.62
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 13,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 0,
+                                    "attempted": 0,
+                                    "conversion_percentage": null,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 6,
+                                    "shots_on_target": 3,
+                                    "shots_on_target_percentage": 50.0
+                                },
+                                "discipline": {
+                                    "yellow_cards": 1,
+                                    "red_cards": 1
+                                },
+                                "general": {
+                                    "fouls_committed": 4,
+                                    "fouls_drawn": 2,
+                                    "offsides": 5,
+                                    "crosses": 1
+                                },
+                                "defending": {
+                                    "tackles_won": 1,
+                                    "interceptions": 0
+                                }
+                            }
                         }
                     }
                 },
@@ -101,7 +531,50 @@
                         "assists": 73,
                         "minutes": 23703,
                         "minutes_per_goal": 95.96,
-                        "minutes_per_goal_contribution": 74.07
+                        "minutes_per_goal_contribution": 74.07,
+                        "details": {
+                            "scoring": {
+                                "goals_per_game": 0.79,
+                                "hat_tricks": 11
+                            },
+                            "appearances": {
+                                "games_started": {
+                                    "count": 265,
+                                    "total": 311,
+                                    "starting_percentage": 85.21
+                                },
+                                "captain": {
+                                    "count": 15,
+                                    "total": 311,
+                                    "captain_percentage": 4.82
+                                }
+                            },
+                            "penalties": {
+                                "scored": 35,
+                                "attempted": 42,
+                                "conversion_percentage": 83.33,
+                                "won": 8
+                            },
+                            "shooting": {
+                                "shots": 1177,
+                                "shots_on_target": 600,
+                                "shots_on_target_percentage": 50.98
+                            },
+                            "discipline": {
+                                "yellow_cards": 42,
+                                "red_cards": 2
+                            },
+                            "general": {
+                                "fouls_committed": 183,
+                                "fouls_drawn": 375,
+                                "offsides": 293,
+                                "crosses": 405
+                            },
+                            "defending": {
+                                "tackles_won": 50,
+                                "interceptions": 33
+                            }
+                        }
                     },
                     "competitions": {
                         "La Liga": {
@@ -110,7 +583,50 @@
                             "assists": 8,
                             "minutes": 5506,
                             "minutes_per_goal": 98.32,
-                            "minutes_per_goal_contribution": 86.03
+                            "minutes_per_goal_contribution": 86.03,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.86,
+                                    "hat_tricks": 2
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 63,
+                                        "total": 65,
+                                        "starting_percentage": 96.92
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 65,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 15,
+                                    "attempted": 18,
+                                    "conversion_percentage": 83.33,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 307,
+                                    "shots_on_target": 148,
+                                    "shots_on_target_percentage": 48.21
+                                },
+                                "discipline": {
+                                    "yellow_cards": 7,
+                                    "red_cards": 1
+                                },
+                                "general": {
+                                    "fouls_committed": 38,
+                                    "fouls_drawn": 76,
+                                    "offsides": 83,
+                                    "crosses": 60
+                                },
+                                "defending": {
+                                    "tackles_won": 6,
+                                    "interceptions": 4
+                                }
+                            }
                         },
                         "Ligue 1": {
                             "apps": 246,
@@ -118,7 +634,50 @@
                             "assists": 65,
                             "minutes": 18197,
                             "minutes_per_goal": 95.27,
-                            "minutes_per_goal_contribution": 71.08
+                            "minutes_per_goal_contribution": 71.08,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.78,
+                                    "hat_tricks": 9
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 202,
+                                        "total": 246,
+                                        "starting_percentage": 82.11
+                                    },
+                                    "captain": {
+                                        "count": 15,
+                                        "total": 246,
+                                        "captain_percentage": 6.1
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 20,
+                                    "attempted": 24,
+                                    "conversion_percentage": 83.33,
+                                    "won": 8
+                                },
+                                "shooting": {
+                                    "shots": 870,
+                                    "shots_on_target": 452,
+                                    "shots_on_target_percentage": 51.95
+                                },
+                                "discipline": {
+                                    "yellow_cards": 35,
+                                    "red_cards": 1
+                                },
+                                "general": {
+                                    "fouls_committed": 145,
+                                    "fouls_drawn": 299,
+                                    "offsides": 210,
+                                    "crosses": 345
+                                },
+                                "defending": {
+                                    "tackles_won": 44,
+                                    "interceptions": 29
+                                }
+                            }
                         }
                     }
                 },
@@ -129,7 +688,50 @@
                         "assists": 0,
                         "minutes": 535,
                         "minutes_per_goal": 178.33,
-                        "minutes_per_goal_contribution": 178.33
+                        "minutes_per_goal_contribution": 178.33,
+                        "details": {
+                            "scoring": {
+                                "goals_per_game": 0.43,
+                                "hat_tricks": 0
+                            },
+                            "appearances": {
+                                "games_started": {
+                                    "count": 6,
+                                    "total": 7,
+                                    "starting_percentage": 85.71
+                                },
+                                "captain": {
+                                    "count": 0,
+                                    "total": 7,
+                                    "captain_percentage": 0.0
+                                }
+                            },
+                            "penalties": {
+                                "scored": 0,
+                                "attempted": 0,
+                                "conversion_percentage": null,
+                                "won": 0
+                            },
+                            "shooting": {
+                                "shots": 18,
+                                "shots_on_target": 9,
+                                "shots_on_target_percentage": 50.0
+                            },
+                            "discipline": {
+                                "yellow_cards": 2,
+                                "red_cards": 0
+                            },
+                            "general": {
+                                "fouls_committed": 1,
+                                "fouls_drawn": 11,
+                                "offsides": 7,
+                                "crosses": 9
+                            },
+                            "defending": {
+                                "tackles_won": 1,
+                                "interceptions": 3
+                            }
+                        }
                     },
                     "competitions": {
                         "Supercopa de España": {
@@ -138,7 +740,50 @@
                             "assists": 0,
                             "minutes": 195,
                             "minutes_per_goal": 195.0,
-                            "minutes_per_goal_contribution": 195.0
+                            "minutes_per_goal_contribution": 195.0,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.33,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 2,
+                                        "total": 3,
+                                        "starting_percentage": 66.67
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 3,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 0,
+                                    "attempted": 0,
+                                    "conversion_percentage": null,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 9,
+                                    "shots_on_target": 5,
+                                    "shots_on_target_percentage": 55.56
+                                },
+                                "discipline": {
+                                    "yellow_cards": 0,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 0,
+                                    "fouls_drawn": 5,
+                                    "offsides": 1,
+                                    "crosses": 3
+                                },
+                                "defending": {
+                                    "tackles_won": 0,
+                                    "interceptions": 1
+                                }
+                            }
                         },
                         "Trophée des Champions": {
                             "apps": 4,
@@ -146,7 +791,50 @@
                             "assists": 0,
                             "minutes": 340,
                             "minutes_per_goal": 170.0,
-                            "minutes_per_goal_contribution": 170.0
+                            "minutes_per_goal_contribution": 170.0,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.5,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 4,
+                                        "total": 4,
+                                        "starting_percentage": 100.0
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 4,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 0,
+                                    "attempted": 0,
+                                    "conversion_percentage": null,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 9,
+                                    "shots_on_target": 4,
+                                    "shots_on_target_percentage": 44.44
+                                },
+                                "discipline": {
+                                    "yellow_cards": 2,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 1,
+                                    "fouls_drawn": 6,
+                                    "offsides": 6,
+                                    "crosses": 6
+                                },
+                                "defending": {
+                                    "tackles_won": 1,
+                                    "interceptions": 2
+                                }
+                            }
                         }
                     }
                 },
@@ -157,7 +845,50 @@
                         "assists": 1,
                         "minutes": 144,
                         "minutes_per_goal": 72.0,
-                        "minutes_per_goal_contribution": 48.0
+                        "minutes_per_goal_contribution": 48.0,
+                        "details": {
+                            "scoring": {
+                                "goals_per_game": 1.0,
+                                "hat_tricks": 0
+                            },
+                            "appearances": {
+                                "games_started": {
+                                    "count": 2,
+                                    "total": 2,
+                                    "starting_percentage": 100.0
+                                },
+                                "captain": {
+                                    "count": 0,
+                                    "total": 2,
+                                    "captain_percentage": 0.0
+                                }
+                            },
+                            "penalties": {
+                                "scored": 0,
+                                "attempted": 0,
+                                "conversion_percentage": null,
+                                "won": 0
+                            },
+                            "shooting": {
+                                "shots": 5,
+                                "shots_on_target": 2,
+                                "shots_on_target_percentage": 40.0
+                            },
+                            "discipline": {
+                                "yellow_cards": 0,
+                                "red_cards": 0
+                            },
+                            "general": {
+                                "fouls_committed": 1,
+                                "fouls_drawn": 3,
+                                "offsides": 0,
+                                "crosses": 1
+                            },
+                            "defending": {
+                                "tackles_won": 0,
+                                "interceptions": 0
+                            }
+                        }
                     },
                     "competitions": {
                         "Intercontinental Cup": {
@@ -166,7 +897,50 @@
                             "assists": 1,
                             "minutes": 62,
                             "minutes_per_goal": 62.0,
-                            "minutes_per_goal_contribution": 31.0
+                            "minutes_per_goal_contribution": 31.0,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 1.0,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 1,
+                                        "total": 1,
+                                        "starting_percentage": 100.0
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 1,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 0,
+                                    "attempted": 0,
+                                    "conversion_percentage": null,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 2,
+                                    "shots_on_target": 1,
+                                    "shots_on_target_percentage": 50.0
+                                },
+                                "discipline": {
+                                    "yellow_cards": 0,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 1,
+                                    "fouls_drawn": 0,
+                                    "offsides": 0,
+                                    "crosses": 0
+                                },
+                                "defending": {
+                                    "tackles_won": 0,
+                                    "interceptions": 0
+                                }
+                            }
                         },
                         "Super Cup": {
                             "apps": 1,
@@ -174,7 +948,50 @@
                             "assists": 0,
                             "minutes": 82,
                             "minutes_per_goal": 82.0,
-                            "minutes_per_goal_contribution": 82.0
+                            "minutes_per_goal_contribution": 82.0,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 1.0,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 1,
+                                        "total": 1,
+                                        "starting_percentage": 100.0
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 1,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 0,
+                                    "attempted": 0,
+                                    "conversion_percentage": null,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 3,
+                                    "shots_on_target": 1,
+                                    "shots_on_target_percentage": 33.33
+                                },
+                                "discipline": {
+                                    "yellow_cards": 0,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 0,
+                                    "fouls_drawn": 3,
+                                    "offsides": 0,
+                                    "crosses": 1
+                                },
+                                "defending": {
+                                    "tackles_won": 0,
+                                    "interceptions": 0
+                                }
+                            }
                         }
                     }
                 }
@@ -187,7 +1004,50 @@
                 "assists": 38,
                 "minutes": 8190,
                 "minutes_per_goal": 124.09,
-                "minutes_per_goal_contribution": 78.75
+                "minutes_per_goal_contribution": 78.75,
+                "details": {
+                    "scoring": {
+                        "goals_per_game": 0.62,
+                        "hat_tricks": 3
+                    },
+                    "appearances": {
+                        "games_started": {
+                            "count": 91,
+                            "total": 106,
+                            "starting_percentage": 85.85
+                        },
+                        "captain": {
+                            "count": 36,
+                            "total": 106,
+                            "captain_percentage": 33.96
+                        }
+                    },
+                    "penalties": {
+                        "scored": 14,
+                        "attempted": 16,
+                        "conversion_percentage": 87.5,
+                        "won": 1
+                    },
+                    "shooting": {
+                        "shots": 276,
+                        "shots_on_target": 134,
+                        "shots_on_target_percentage": 48.55
+                    },
+                    "discipline": {
+                        "yellow_cards": 11,
+                        "red_cards": 0
+                    },
+                    "general": {
+                        "fouls_committed": 34,
+                        "fouls_drawn": 84,
+                        "offsides": 48,
+                        "crosses": 139
+                    },
+                    "defending": {
+                        "tackles_won": 13,
+                        "interceptions": 10
+                    }
+                }
             },
             "competition_tiers": {
                 "Friendly": {
@@ -197,7 +1057,50 @@
                         "assists": 12,
                         "minutes": 1709,
                         "minutes_per_goal": 155.36,
-                        "minutes_per_goal_contribution": 74.3
+                        "minutes_per_goal_contribution": 74.3,
+                        "details": {
+                            "scoring": {
+                                "goals_per_game": 0.44,
+                                "hat_tricks": 0
+                            },
+                            "appearances": {
+                                "games_started": {
+                                    "count": 21,
+                                    "total": 25,
+                                    "starting_percentage": 84.0
+                                },
+                                "captain": {
+                                    "count": 7,
+                                    "total": 25,
+                                    "captain_percentage": 28.0
+                                }
+                            },
+                            "penalties": {
+                                "scored": 3,
+                                "attempted": 3,
+                                "conversion_percentage": 100.0,
+                                "won": 0
+                            },
+                            "shooting": {
+                                "shots": 0,
+                                "shots_on_target": 0,
+                                "shots_on_target_percentage": null
+                            },
+                            "discipline": {
+                                "yellow_cards": 2,
+                                "red_cards": 0
+                            },
+                            "general": {
+                                "fouls_committed": 0,
+                                "fouls_drawn": 0,
+                                "offsides": 0,
+                                "crosses": 0
+                            },
+                            "defending": {
+                                "tackles_won": 0,
+                                "interceptions": 0
+                            }
+                        }
                     },
                     "competitions": {
                         "Friendlies": {
@@ -206,7 +1109,50 @@
                             "assists": 12,
                             "minutes": 1709,
                             "minutes_per_goal": 155.36,
-                            "minutes_per_goal_contribution": 74.3
+                            "minutes_per_goal_contribution": 74.3,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.44,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 21,
+                                        "total": 25,
+                                        "starting_percentage": 84.0
+                                    },
+                                    "captain": {
+                                        "count": 7,
+                                        "total": 25,
+                                        "captain_percentage": 28.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 3,
+                                    "attempted": 3,
+                                    "conversion_percentage": 100.0,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 0,
+                                    "shots_on_target": 0,
+                                    "shots_on_target_percentage": null
+                                },
+                                "discipline": {
+                                    "yellow_cards": 2,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 0,
+                                    "fouls_drawn": 0,
+                                    "offsides": 0,
+                                    "crosses": 0
+                                },
+                                "defending": {
+                                    "tackles_won": 0,
+                                    "interceptions": 0
+                                }
+                            }
                         }
                     }
                 },
@@ -217,7 +1163,50 @@
                         "assists": 13,
                         "minutes": 2138,
                         "minutes_per_goal": 92.96,
-                        "minutes_per_goal_contribution": 59.39
+                        "minutes_per_goal_contribution": 59.39,
+                        "details": {
+                            "scoring": {
+                                "goals_per_game": 0.79,
+                                "hat_tricks": 2
+                            },
+                            "appearances": {
+                                "games_started": {
+                                    "count": 23,
+                                    "total": 29,
+                                    "starting_percentage": 79.31
+                                },
+                                "captain": {
+                                    "count": 11,
+                                    "total": 29,
+                                    "captain_percentage": 37.93
+                                }
+                            },
+                            "penalties": {
+                                "scored": 5,
+                                "attempted": 6,
+                                "conversion_percentage": 83.33,
+                                "won": 0
+                            },
+                            "shooting": {
+                                "shots": 100,
+                                "shots_on_target": 47,
+                                "shots_on_target_percentage": 47.0
+                            },
+                            "discipline": {
+                                "yellow_cards": 3,
+                                "red_cards": 0
+                            },
+                            "general": {
+                                "fouls_committed": 12,
+                                "fouls_drawn": 30,
+                                "offsides": 22,
+                                "crosses": 53
+                            },
+                            "defending": {
+                                "tackles_won": 3,
+                                "interceptions": 7
+                            }
+                        }
                     },
                     "competitions": {
                         "UEFA Euro Qualifying": {
@@ -226,7 +1215,50 @@
                             "assists": 8,
                             "minutes": 1107,
                             "minutes_per_goal": 92.25,
-                            "minutes_per_goal_contribution": 55.35
+                            "minutes_per_goal_contribution": 55.35,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.92,
+                                    "hat_tricks": 1
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 12,
+                                        "total": 13,
+                                        "starting_percentage": 92.31
+                                    },
+                                    "captain": {
+                                        "count": 7,
+                                        "total": 13,
+                                        "captain_percentage": 53.85
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 3,
+                                    "attempted": 3,
+                                    "conversion_percentage": 100.0,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 52,
+                                    "shots_on_target": 24,
+                                    "shots_on_target_percentage": 46.15
+                                },
+                                "discipline": {
+                                    "yellow_cards": 2,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 9,
+                                    "fouls_drawn": 20,
+                                    "offsides": 15,
+                                    "crosses": 30
+                                },
+                                "defending": {
+                                    "tackles_won": 2,
+                                    "interceptions": 5
+                                }
+                            }
                         },
                         "World Cup Qualifying": {
                             "apps": 16,
@@ -234,7 +1266,50 @@
                             "assists": 5,
                             "minutes": 1031,
                             "minutes_per_goal": 93.73,
-                            "minutes_per_goal_contribution": 64.44
+                            "minutes_per_goal_contribution": 64.44,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.69,
+                                    "hat_tricks": 1
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 11,
+                                        "total": 16,
+                                        "starting_percentage": 68.75
+                                    },
+                                    "captain": {
+                                        "count": 4,
+                                        "total": 16,
+                                        "captain_percentage": 25.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 2,
+                                    "attempted": 3,
+                                    "conversion_percentage": 66.67,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 48,
+                                    "shots_on_target": 23,
+                                    "shots_on_target_percentage": 47.92
+                                },
+                                "discipline": {
+                                    "yellow_cards": 1,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 3,
+                                    "fouls_drawn": 10,
+                                    "offsides": 7,
+                                    "crosses": 23
+                                },
+                                "defending": {
+                                    "tackles_won": 1,
+                                    "interceptions": 2
+                                }
+                            }
                         }
                     }
                 },
@@ -245,7 +1320,50 @@
                         "assists": 13,
                         "minutes": 4343,
                         "minutes_per_goal": 135.72,
-                        "minutes_per_goal_contribution": 96.51
+                        "minutes_per_goal_contribution": 96.51,
+                        "details": {
+                            "scoring": {
+                                "goals_per_game": 0.62,
+                                "hat_tricks": 1
+                            },
+                            "appearances": {
+                                "games_started": {
+                                    "count": 47,
+                                    "total": 52,
+                                    "starting_percentage": 90.38
+                                },
+                                "captain": {
+                                    "count": 18,
+                                    "total": 52,
+                                    "captain_percentage": 34.62
+                                }
+                            },
+                            "penalties": {
+                                "scored": 6,
+                                "attempted": 7,
+                                "conversion_percentage": 85.71,
+                                "won": 1
+                            },
+                            "shooting": {
+                                "shots": 176,
+                                "shots_on_target": 87,
+                                "shots_on_target_percentage": 49.43
+                            },
+                            "discipline": {
+                                "yellow_cards": 6,
+                                "red_cards": 0
+                            },
+                            "general": {
+                                "fouls_committed": 22,
+                                "fouls_drawn": 54,
+                                "offsides": 26,
+                                "crosses": 86
+                            },
+                            "defending": {
+                                "tackles_won": 10,
+                                "interceptions": 3
+                            }
+                        }
                     },
                     "competitions": {
                         "UEFA Euro": {
@@ -254,7 +1372,50 @@
                             "assists": 2,
                             "minutes": 854,
                             "minutes_per_goal": 854.0,
-                            "minutes_per_goal_contribution": 284.67
+                            "minutes_per_goal_contribution": 284.67,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.11,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 9,
+                                        "total": 9,
+                                        "starting_percentage": 100.0
+                                    },
+                                    "captain": {
+                                        "count": 5,
+                                        "total": 9,
+                                        "captain_percentage": 55.56
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 1,
+                                    "attempted": 1,
+                                    "conversion_percentage": 100.0,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 38,
+                                    "shots_on_target": 12,
+                                    "shots_on_target_percentage": 31.58
+                                },
+                                "discipline": {
+                                    "yellow_cards": 1,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 2,
+                                    "fouls_drawn": 10,
+                                    "offsides": 5,
+                                    "crosses": 18
+                                },
+                                "defending": {
+                                    "tackles_won": 0,
+                                    "interceptions": 1
+                                }
+                            }
                         },
                         "UEFA Nations League": {
                             "apps": 21,
@@ -262,7 +1423,50 @@
                             "assists": 5,
                             "minutes": 1664,
                             "minutes_per_goal": 184.89,
-                            "minutes_per_goal_contribution": 118.86
+                            "minutes_per_goal_contribution": 118.86,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.43,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 18,
+                                        "total": 21,
+                                        "starting_percentage": 85.71
+                                    },
+                                    "captain": {
+                                        "count": 5,
+                                        "total": 21,
+                                        "captain_percentage": 23.81
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 2,
+                                    "attempted": 2,
+                                    "conversion_percentage": 100.0,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 58,
+                                    "shots_on_target": 31,
+                                    "shots_on_target_percentage": 53.45
+                                },
+                                "discipline": {
+                                    "yellow_cards": 2,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 6,
+                                    "fouls_drawn": 15,
+                                    "offsides": 7,
+                                    "crosses": 29
+                                },
+                                "defending": {
+                                    "tackles_won": 3,
+                                    "interceptions": 0
+                                }
+                            }
                         },
                         "World Cup": {
                             "apps": 22,
@@ -270,7 +1474,50 @@
                             "assists": 6,
                             "minutes": 1825,
                             "minutes_per_goal": 82.95,
-                            "minutes_per_goal_contribution": 65.18
+                            "minutes_per_goal_contribution": 65.18,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 1.0,
+                                    "hat_tricks": 1
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 20,
+                                        "total": 22,
+                                        "starting_percentage": 90.91
+                                    },
+                                    "captain": {
+                                        "count": 8,
+                                        "total": 22,
+                                        "captain_percentage": 36.36
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 3,
+                                    "attempted": 4,
+                                    "conversion_percentage": 75.0,
+                                    "won": 1
+                                },
+                                "shooting": {
+                                    "shots": 80,
+                                    "shots_on_target": 44,
+                                    "shots_on_target_percentage": 55.0
+                                },
+                                "discipline": {
+                                    "yellow_cards": 3,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 14,
+                                    "fouls_drawn": 29,
+                                    "offsides": 14,
+                                    "crosses": 39
+                                },
+                                "defending": {
+                                    "tackles_won": 7,
+                                    "interceptions": 2
+                                }
+                            }
                         }
                     }
                 }
@@ -285,7 +1532,50 @@
                 "assists": 60,
                 "minutes": 27901,
                 "minutes_per_goal": 93.94,
-                "minutes_per_goal_contribution": 78.15
+                "minutes_per_goal_contribution": 78.15,
+                "details": {
+                    "scoring": {
+                        "goals_per_game": 0.78,
+                        "hat_tricks": 22
+                    },
+                    "appearances": {
+                        "games_started": {
+                            "count": 310,
+                            "total": 380,
+                            "starting_percentage": 81.58
+                        },
+                        "captain": {
+                            "count": 2,
+                            "total": 380,
+                            "captain_percentage": 0.53
+                        }
+                    },
+                    "penalties": {
+                        "scored": 46,
+                        "attempted": 54,
+                        "conversion_percentage": 85.19,
+                        "won": 0
+                    },
+                    "shooting": {
+                        "shots": 1057,
+                        "shots_on_target": 559,
+                        "shots_on_target_percentage": 52.89
+                    },
+                    "discipline": {
+                        "yellow_cards": 29,
+                        "red_cards": 0
+                    },
+                    "general": {
+                        "fouls_committed": 245,
+                        "fouls_drawn": 207,
+                        "offsides": 79,
+                        "crosses": 69
+                    },
+                    "defending": {
+                        "tackles_won": 40,
+                        "interceptions": 40
+                    }
+                }
             },
             "competition_tiers": {
                 "Club World Cup": {
@@ -295,7 +1585,50 @@
                         "assists": 1,
                         "minutes": 256,
                         "minutes_per_goal": 85.33,
-                        "minutes_per_goal_contribution": 64.0
+                        "minutes_per_goal_contribution": 64.0,
+                        "details": {
+                            "scoring": {
+                                "goals_per_game": 0.75,
+                                "hat_tricks": 0
+                            },
+                            "appearances": {
+                                "games_started": {
+                                    "count": 2,
+                                    "total": 4,
+                                    "starting_percentage": 50.0
+                                },
+                                "captain": {
+                                    "count": 0,
+                                    "total": 4,
+                                    "captain_percentage": 0.0
+                                }
+                            },
+                            "penalties": {
+                                "scored": 1,
+                                "attempted": 1,
+                                "conversion_percentage": 100.0,
+                                "won": 0
+                            },
+                            "shooting": {
+                                "shots": 15,
+                                "shots_on_target": 9,
+                                "shots_on_target_percentage": 60.0
+                            },
+                            "discipline": {
+                                "yellow_cards": 0,
+                                "red_cards": 0
+                            },
+                            "general": {
+                                "fouls_committed": 3,
+                                "fouls_drawn": 1,
+                                "offsides": 0,
+                                "crosses": 1
+                            },
+                            "defending": {
+                                "tackles_won": 1,
+                                "interceptions": 1
+                            }
+                        }
                     },
                     "competitions": {
                         "Club World Cup": {
@@ -304,7 +1637,50 @@
                             "assists": 1,
                             "minutes": 256,
                             "minutes_per_goal": 85.33,
-                            "minutes_per_goal_contribution": 64.0
+                            "minutes_per_goal_contribution": 64.0,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.75,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 2,
+                                        "total": 4,
+                                        "starting_percentage": 50.0
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 4,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 1,
+                                    "attempted": 1,
+                                    "conversion_percentage": 100.0,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 15,
+                                    "shots_on_target": 9,
+                                    "shots_on_target_percentage": 60.0
+                                },
+                                "discipline": {
+                                    "yellow_cards": 0,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 3,
+                                    "fouls_drawn": 1,
+                                    "offsides": 0,
+                                    "crosses": 1
+                                },
+                                "defending": {
+                                    "tackles_won": 1,
+                                    "interceptions": 1
+                                }
+                            }
                         }
                     }
                 },
@@ -315,7 +1691,50 @@
                         "assists": 6,
                         "minutes": 5003,
                         "minutes_per_goal": 82.02,
-                        "minutes_per_goal_contribution": 74.67
+                        "minutes_per_goal_contribution": 74.67,
+                        "details": {
+                            "scoring": {
+                                "goals_per_game": 0.95,
+                                "hat_tricks": 2
+                            },
+                            "appearances": {
+                                "games_started": {
+                                    "count": 59,
+                                    "total": 64,
+                                    "starting_percentage": 92.19
+                                },
+                                "captain": {
+                                    "count": 1,
+                                    "total": 64,
+                                    "captain_percentage": 1.56
+                                }
+                            },
+                            "penalties": {
+                                "scored": 10,
+                                "attempted": 12,
+                                "conversion_percentage": 83.33,
+                                "won": 0
+                            },
+                            "shooting": {
+                                "shots": 217,
+                                "shots_on_target": 126,
+                                "shots_on_target_percentage": 58.06
+                            },
+                            "discipline": {
+                                "yellow_cards": 6,
+                                "red_cards": 0
+                            },
+                            "general": {
+                                "fouls_committed": 43,
+                                "fouls_drawn": 32,
+                                "offsides": 11,
+                                "crosses": 13
+                            },
+                            "defending": {
+                                "tackles_won": 9,
+                                "interceptions": 12
+                            }
+                        }
                     },
                     "competitions": {
                         "UEFA Champions League": {
@@ -324,7 +1743,50 @@
                             "assists": 5,
                             "minutes": 4596,
                             "minutes_per_goal": 80.63,
-                            "minutes_per_goal_contribution": 74.13
+                            "minutes_per_goal_contribution": 74.13,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.98,
+                                    "hat_tricks": 2
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 54,
+                                        "total": 58,
+                                        "starting_percentage": 93.1
+                                    },
+                                    "captain": {
+                                        "count": 1,
+                                        "total": 58,
+                                        "captain_percentage": 1.72
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 9,
+                                    "attempted": 11,
+                                    "conversion_percentage": 81.82,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 217,
+                                    "shots_on_target": 126,
+                                    "shots_on_target_percentage": 58.06
+                                },
+                                "discipline": {
+                                    "yellow_cards": 5,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 43,
+                                    "fouls_drawn": 32,
+                                    "offsides": 11,
+                                    "crosses": 13
+                                },
+                                "defending": {
+                                    "tackles_won": 9,
+                                    "interceptions": 12
+                                }
+                            }
                         },
                         "UEFA Europa League": {
                             "apps": 6,
@@ -332,7 +1794,50 @@
                             "assists": 1,
                             "minutes": 407,
                             "minutes_per_goal": 101.75,
-                            "minutes_per_goal_contribution": 81.4
+                            "minutes_per_goal_contribution": 81.4,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.67,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 5,
+                                        "total": 6,
+                                        "starting_percentage": 83.33
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 6,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 1,
+                                    "attempted": 1,
+                                    "conversion_percentage": 100.0,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 0,
+                                    "shots_on_target": 0,
+                                    "shots_on_target_percentage": null
+                                },
+                                "discipline": {
+                                    "yellow_cards": 1,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 0,
+                                    "fouls_drawn": 0,
+                                    "offsides": 0,
+                                    "crosses": 0
+                                },
+                                "defending": {
+                                    "tackles_won": 0,
+                                    "interceptions": 0
+                                }
+                            }
                         }
                     }
                 },
@@ -343,7 +1848,50 @@
                         "assists": 3,
                         "minutes": 2295,
                         "minutes_per_goal": 85.0,
-                        "minutes_per_goal_contribution": 76.5
+                        "minutes_per_goal_contribution": 76.5,
+                        "details": {
+                            "scoring": {
+                                "goals_per_game": 0.75,
+                                "hat_tricks": 5
+                            },
+                            "appearances": {
+                                "games_started": {
+                                    "count": 24,
+                                    "total": 36,
+                                    "starting_percentage": 66.67
+                                },
+                                "captain": {
+                                    "count": 0,
+                                    "total": 36,
+                                    "captain_percentage": 0.0
+                                }
+                            },
+                            "penalties": {
+                                "scored": 3,
+                                "attempted": 4,
+                                "conversion_percentage": 75.0,
+                                "won": 0
+                            },
+                            "shooting": {
+                                "shots": 78,
+                                "shots_on_target": 49,
+                                "shots_on_target_percentage": 62.82
+                            },
+                            "discipline": {
+                                "yellow_cards": 2,
+                                "red_cards": 0
+                            },
+                            "general": {
+                                "fouls_committed": 22,
+                                "fouls_drawn": 17,
+                                "offsides": 8,
+                                "crosses": 5
+                            },
+                            "defending": {
+                                "tackles_won": 3,
+                                "interceptions": 3
+                            }
+                        }
                     },
                     "competitions": {
                         "DFB-Pokal": {
@@ -352,7 +1900,50 @@
                             "assists": 1,
                             "minutes": 580,
                             "minutes_per_goal": 72.5,
-                            "minutes_per_goal_contribution": 64.44
+                            "minutes_per_goal_contribution": 64.44,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 1.14,
+                                    "hat_tricks": 1
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 6,
+                                        "total": 7,
+                                        "starting_percentage": 85.71
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 7,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 2,
+                                    "attempted": 2,
+                                    "conversion_percentage": 100.0,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 24,
+                                    "shots_on_target": 16,
+                                    "shots_on_target_percentage": 66.67
+                                },
+                                "discipline": {
+                                    "yellow_cards": 0,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 9,
+                                    "fouls_drawn": 7,
+                                    "offsides": 3,
+                                    "crosses": 1
+                                },
+                                "defending": {
+                                    "tackles_won": 1,
+                                    "interceptions": 2
+                                }
+                            }
                         },
                         "EFL Cup": {
                             "apps": 5,
@@ -360,7 +1951,50 @@
                             "assists": 0,
                             "minutes": 307,
                             "minutes_per_goal": 307.0,
-                            "minutes_per_goal_contribution": 307.0
+                            "minutes_per_goal_contribution": 307.0,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.2,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 3,
+                                        "total": 5,
+                                        "starting_percentage": 60.0
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 5,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 0,
+                                    "attempted": 0,
+                                    "conversion_percentage": null,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 7,
+                                    "shots_on_target": 3,
+                                    "shots_on_target_percentage": 42.86
+                                },
+                                "discipline": {
+                                    "yellow_cards": 0,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 4,
+                                    "fouls_drawn": 0,
+                                    "offsides": 1,
+                                    "crosses": 0
+                                },
+                                "defending": {
+                                    "tackles_won": 0,
+                                    "interceptions": 1
+                                }
+                            }
                         },
                         "FA Cup": {
                             "apps": 14,
@@ -368,7 +2002,50 @@
                             "assists": 2,
                             "minutes": 974,
                             "minutes_per_goal": 81.17,
-                            "minutes_per_goal_contribution": 69.57
+                            "minutes_per_goal_contribution": 69.57,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.86,
+                                    "hat_tricks": 3
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 12,
+                                        "total": 14,
+                                        "starting_percentage": 85.71
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 14,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 1,
+                                    "attempted": 2,
+                                    "conversion_percentage": 50.0,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 41,
+                                    "shots_on_target": 24,
+                                    "shots_on_target_percentage": 58.54
+                                },
+                                "discipline": {
+                                    "yellow_cards": 0,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 9,
+                                    "fouls_drawn": 10,
+                                    "offsides": 4,
+                                    "crosses": 4
+                                },
+                                "defending": {
+                                    "tackles_won": 2,
+                                    "interceptions": 0
+                                }
+                            }
                         },
                         "NM-Cup": {
                             "apps": 6,
@@ -376,7 +2053,50 @@
                             "assists": 0,
                             "minutes": 259,
                             "minutes_per_goal": 129.5,
-                            "minutes_per_goal_contribution": 129.5
+                            "minutes_per_goal_contribution": 129.5,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.33,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 2,
+                                        "total": 6,
+                                        "starting_percentage": 33.33
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 6,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 0,
+                                    "attempted": 0,
+                                    "conversion_percentage": null,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 2,
+                                    "shots_on_target": 2,
+                                    "shots_on_target_percentage": 100.0
+                                },
+                                "discipline": {
+                                    "yellow_cards": 2,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 0,
+                                    "fouls_drawn": 0,
+                                    "offsides": 0,
+                                    "crosses": 0
+                                },
+                                "defending": {
+                                    "tackles_won": 0,
+                                    "interceptions": 0
+                                }
+                            }
                         },
                         "ÖFB-Cup": {
                             "apps": 4,
@@ -384,7 +2104,50 @@
                             "assists": 0,
                             "minutes": 175,
                             "minutes_per_goal": 43.75,
-                            "minutes_per_goal_contribution": 43.75
+                            "minutes_per_goal_contribution": 43.75,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 1.0,
+                                    "hat_tricks": 1
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 1,
+                                        "total": 4,
+                                        "starting_percentage": 25.0
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 4,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 0,
+                                    "attempted": 0,
+                                    "conversion_percentage": null,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 4,
+                                    "shots_on_target": 4,
+                                    "shots_on_target_percentage": 100.0
+                                },
+                                "discipline": {
+                                    "yellow_cards": 0,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 0,
+                                    "fouls_drawn": 0,
+                                    "offsides": 0,
+                                    "crosses": 0
+                                },
+                                "defending": {
+                                    "tackles_won": 0,
+                                    "interceptions": 0
+                                }
+                            }
                         }
                     }
                 },
@@ -395,7 +2158,50 @@
                         "assists": 49,
                         "minutes": 19857,
                         "minutes_per_goal": 96.86,
-                        "minutes_per_goal_contribution": 78.18
+                        "minutes_per_goal_contribution": 78.18,
+                        "details": {
+                            "scoring": {
+                                "goals_per_game": 0.76,
+                                "hat_tricks": 15
+                            },
+                            "appearances": {
+                                "games_started": {
+                                    "count": 219,
+                                    "total": 270,
+                                    "starting_percentage": 81.11
+                                },
+                                "captain": {
+                                    "count": 1,
+                                    "total": 270,
+                                    "captain_percentage": 0.37
+                                }
+                            },
+                            "penalties": {
+                                "scored": 32,
+                                "attempted": 37,
+                                "conversion_percentage": 86.49,
+                                "won": 0
+                            },
+                            "shooting": {
+                                "shots": 739,
+                                "shots_on_target": 371,
+                                "shots_on_target_percentage": 50.2
+                            },
+                            "discipline": {
+                                "yellow_cards": 21,
+                                "red_cards": 0
+                            },
+                            "general": {
+                                "fouls_committed": 170,
+                                "fouls_drawn": 154,
+                                "offsides": 59,
+                                "crosses": 50
+                            },
+                            "defending": {
+                                "tackles_won": 27,
+                                "interceptions": 23
+                            }
+                        }
                     },
                     "competitions": {
                         "1. Divisjon": {
@@ -404,7 +2210,50 @@
                             "assists": 0,
                             "minutes": 423,
                             "minutes_per_goal": null,
-                            "minutes_per_goal_contribution": null
+                            "minutes_per_goal_contribution": null,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.0,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 1,
+                                        "total": 16,
+                                        "starting_percentage": 6.25
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 16,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 0,
+                                    "attempted": 0,
+                                    "conversion_percentage": null,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 0,
+                                    "shots_on_target": 0,
+                                    "shots_on_target_percentage": null
+                                },
+                                "discipline": {
+                                    "yellow_cards": 0,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 0,
+                                    "fouls_drawn": 0,
+                                    "offsides": 0,
+                                    "crosses": 0
+                                },
+                                "defending": {
+                                    "tackles_won": 0,
+                                    "interceptions": 0
+                                }
+                            }
                         },
                         "Bundesliga": {
                             "apps": 83,
@@ -412,7 +2261,50 @@
                             "assists": 20,
                             "minutes": 6444,
                             "minutes_per_goal": 81.57,
-                            "minutes_per_goal_contribution": 65.09
+                            "minutes_per_goal_contribution": 65.09,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.95,
+                                    "hat_tricks": 6
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 71,
+                                        "total": 83,
+                                        "starting_percentage": 85.54
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 83,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 9,
+                                    "attempted": 11,
+                                    "conversion_percentage": 81.82,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 260,
+                                    "shots_on_target": 133,
+                                    "shots_on_target_percentage": 51.15
+                                },
+                                "discipline": {
+                                    "yellow_cards": 8,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 73,
+                                    "fouls_drawn": 62,
+                                    "offsides": 36,
+                                    "crosses": 26
+                                },
+                                "defending": {
+                                    "tackles_won": 9,
+                                    "interceptions": 9
+                                }
+                            }
                         },
                         "Eliteserien": {
                             "apps": 39,
@@ -420,7 +2312,50 @@
                             "assists": 5,
                             "minutes": 1980,
                             "minutes_per_goal": 141.43,
-                            "minutes_per_goal_contribution": 104.21
+                            "minutes_per_goal_contribution": 104.21,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.36,
+                                    "hat_tricks": 1
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 20,
+                                        "total": 39,
+                                        "starting_percentage": 51.28
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 39,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 3,
+                                    "attempted": 3,
+                                    "conversion_percentage": 100.0,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 0,
+                                    "shots_on_target": 0,
+                                    "shots_on_target_percentage": null
+                                },
+                                "discipline": {
+                                    "yellow_cards": 3,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 0,
+                                    "fouls_drawn": 0,
+                                    "offsides": 0,
+                                    "crosses": 0
+                                },
+                                "defending": {
+                                    "tackles_won": 0,
+                                    "interceptions": 0
+                                }
+                            }
                         },
                         "Premier League": {
                             "apps": 132,
@@ -428,7 +2363,50 @@
                             "assists": 24,
                             "minutes": 11010,
                             "minutes_per_goal": 98.3,
-                            "minutes_per_goal_contribution": 80.96
+                            "minutes_per_goal_contribution": 80.96,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.85,
+                                    "hat_tricks": 8
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 127,
+                                        "total": 132,
+                                        "starting_percentage": 96.21
+                                    },
+                                    "captain": {
+                                        "count": 1,
+                                        "total": 132,
+                                        "captain_percentage": 0.76
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 20,
+                                    "attempted": 23,
+                                    "conversion_percentage": 86.96,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 479,
+                                    "shots_on_target": 238,
+                                    "shots_on_target_percentage": 49.69
+                                },
+                                "discipline": {
+                                    "yellow_cards": 10,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 97,
+                                    "fouls_drawn": 92,
+                                    "offsides": 23,
+                                    "crosses": 24
+                                },
+                                "defending": {
+                                    "tackles_won": 18,
+                                    "interceptions": 14
+                                }
+                            }
                         }
                     }
                 },
@@ -439,7 +2417,50 @@
                         "assists": 1,
                         "minutes": 400,
                         "minutes_per_goal": 400.0,
-                        "minutes_per_goal_contribution": 200.0
+                        "minutes_per_goal_contribution": 200.0,
+                        "details": {
+                            "scoring": {
+                                "goals_per_game": 0.2,
+                                "hat_tricks": 0
+                            },
+                            "appearances": {
+                                "games_started": {
+                                    "count": 5,
+                                    "total": 5,
+                                    "starting_percentage": 100.0
+                                },
+                                "captain": {
+                                    "count": 0,
+                                    "total": 5,
+                                    "captain_percentage": 0.0
+                                }
+                            },
+                            "penalties": {
+                                "scored": 0,
+                                "attempted": 0,
+                                "conversion_percentage": null,
+                                "won": 0
+                            },
+                            "shooting": {
+                                "shots": 7,
+                                "shots_on_target": 4,
+                                "shots_on_target_percentage": 57.14
+                            },
+                            "discipline": {
+                                "yellow_cards": 0,
+                                "red_cards": 0
+                            },
+                            "general": {
+                                "fouls_committed": 6,
+                                "fouls_drawn": 2,
+                                "offsides": 1,
+                                "crosses": 0
+                            },
+                            "defending": {
+                                "tackles_won": 0,
+                                "interceptions": 1
+                            }
+                        }
                     },
                     "competitions": {
                         "Community Shield": {
@@ -448,7 +2469,50 @@
                             "assists": 0,
                             "minutes": 243,
                             "minutes_per_goal": null,
-                            "minutes_per_goal_contribution": null
+                            "minutes_per_goal_contribution": null,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.0,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 3,
+                                        "total": 3,
+                                        "starting_percentage": 100.0
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 3,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 0,
+                                    "attempted": 0,
+                                    "conversion_percentage": null,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 3,
+                                    "shots_on_target": 1,
+                                    "shots_on_target_percentage": 33.33
+                                },
+                                "discipline": {
+                                    "yellow_cards": 0,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 3,
+                                    "fouls_drawn": 0,
+                                    "offsides": 0,
+                                    "crosses": 0
+                                },
+                                "defending": {
+                                    "tackles_won": 0,
+                                    "interceptions": 0
+                                }
+                            }
                         },
                         "DFL-Supercup": {
                             "apps": 2,
@@ -456,7 +2520,50 @@
                             "assists": 1,
                             "minutes": 157,
                             "minutes_per_goal": 157.0,
-                            "minutes_per_goal_contribution": 78.5
+                            "minutes_per_goal_contribution": 78.5,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.5,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 2,
+                                        "total": 2,
+                                        "starting_percentage": 100.0
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 2,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 0,
+                                    "attempted": 0,
+                                    "conversion_percentage": null,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 4,
+                                    "shots_on_target": 3,
+                                    "shots_on_target_percentage": 75.0
+                                },
+                                "discipline": {
+                                    "yellow_cards": 0,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 3,
+                                    "fouls_drawn": 2,
+                                    "offsides": 1,
+                                    "crosses": 0
+                                },
+                                "defending": {
+                                    "tackles_won": 0,
+                                    "interceptions": 1
+                                }
+                            }
                         }
                     }
                 },
@@ -467,7 +2574,50 @@
                         "assists": 0,
                         "minutes": 90,
                         "minutes_per_goal": null,
-                        "minutes_per_goal_contribution": null
+                        "minutes_per_goal_contribution": null,
+                        "details": {
+                            "scoring": {
+                                "goals_per_game": 0.0,
+                                "hat_tricks": 0
+                            },
+                            "appearances": {
+                                "games_started": {
+                                    "count": 1,
+                                    "total": 1,
+                                    "starting_percentage": 100.0
+                                },
+                                "captain": {
+                                    "count": 0,
+                                    "total": 1,
+                                    "captain_percentage": 0.0
+                                }
+                            },
+                            "penalties": {
+                                "scored": 0,
+                                "attempted": 0,
+                                "conversion_percentage": null,
+                                "won": 0
+                            },
+                            "shooting": {
+                                "shots": 1,
+                                "shots_on_target": 0,
+                                "shots_on_target_percentage": 0.0
+                            },
+                            "discipline": {
+                                "yellow_cards": 0,
+                                "red_cards": 0
+                            },
+                            "general": {
+                                "fouls_committed": 1,
+                                "fouls_drawn": 1,
+                                "offsides": 0,
+                                "crosses": 0
+                            },
+                            "defending": {
+                                "tackles_won": 0,
+                                "interceptions": 0
+                            }
+                        }
                     },
                     "competitions": {
                         "Super Cup": {
@@ -476,7 +2626,50 @@
                             "assists": 0,
                             "minutes": 90,
                             "minutes_per_goal": null,
-                            "minutes_per_goal_contribution": null
+                            "minutes_per_goal_contribution": null,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.0,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 1,
+                                        "total": 1,
+                                        "starting_percentage": 100.0
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 1,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 0,
+                                    "attempted": 0,
+                                    "conversion_percentage": null,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 1,
+                                    "shots_on_target": 0,
+                                    "shots_on_target_percentage": 0.0
+                                },
+                                "discipline": {
+                                    "yellow_cards": 0,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 1,
+                                    "fouls_drawn": 1,
+                                    "offsides": 0,
+                                    "crosses": 0
+                                },
+                                "defending": {
+                                    "tackles_won": 0,
+                                    "interceptions": 0
+                                }
+                            }
                         }
                     }
                 }
@@ -489,7 +2682,50 @@
                 "assists": 8,
                 "minutes": 4498,
                 "minutes_per_goal": 72.55,
-                "minutes_per_goal_contribution": 64.26
+                "minutes_per_goal_contribution": 64.26,
+                "details": {
+                    "scoring": {
+                        "goals_per_game": 1.13,
+                        "hat_tricks": 6
+                    },
+                    "appearances": {
+                        "games_started": {
+                            "count": 53,
+                            "total": 55,
+                            "starting_percentage": 96.36
+                        },
+                        "captain": {
+                            "count": 8,
+                            "total": 55,
+                            "captain_percentage": 14.55
+                        }
+                    },
+                    "penalties": {
+                        "scored": 6,
+                        "attempted": 8,
+                        "conversion_percentage": 75.0,
+                        "won": 0
+                    },
+                    "shooting": {
+                        "shots": 178,
+                        "shots_on_target": 103,
+                        "shots_on_target_percentage": 57.87
+                    },
+                    "discipline": {
+                        "yellow_cards": 2,
+                        "red_cards": 0
+                    },
+                    "general": {
+                        "fouls_committed": 34,
+                        "fouls_drawn": 19,
+                        "offsides": 7,
+                        "crosses": 20
+                    },
+                    "defending": {
+                        "tackles_won": 5,
+                        "interceptions": 3
+                    }
+                }
             },
             "competition_tiers": {
                 "Friendly": {
@@ -499,7 +2735,50 @@
                         "assists": 1,
                         "minutes": 841,
                         "minutes_per_goal": 93.44,
-                        "minutes_per_goal_contribution": 84.1
+                        "minutes_per_goal_contribution": 84.1,
+                        "details": {
+                            "scoring": {
+                                "goals_per_game": 0.75,
+                                "hat_tricks": 1
+                            },
+                            "appearances": {
+                                "games_started": {
+                                    "count": 11,
+                                    "total": 12,
+                                    "starting_percentage": 91.67
+                                },
+                                "captain": {
+                                    "count": 1,
+                                    "total": 12,
+                                    "captain_percentage": 8.33
+                                }
+                            },
+                            "penalties": {
+                                "scored": 1,
+                                "attempted": 2,
+                                "conversion_percentage": 50.0,
+                                "won": 0
+                            },
+                            "shooting": {
+                                "shots": 0,
+                                "shots_on_target": 0,
+                                "shots_on_target_percentage": null
+                            },
+                            "discipline": {
+                                "yellow_cards": 0,
+                                "red_cards": 0
+                            },
+                            "general": {
+                                "fouls_committed": 0,
+                                "fouls_drawn": 0,
+                                "offsides": 0,
+                                "crosses": 0
+                            },
+                            "defending": {
+                                "tackles_won": 0,
+                                "interceptions": 0
+                            }
+                        }
                     },
                     "competitions": {
                         "Friendlies": {
@@ -508,7 +2787,50 @@
                             "assists": 1,
                             "minutes": 841,
                             "minutes_per_goal": 93.44,
-                            "minutes_per_goal_contribution": 84.1
+                            "minutes_per_goal_contribution": 84.1,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.75,
+                                    "hat_tricks": 1
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 11,
+                                        "total": 12,
+                                        "starting_percentage": 91.67
+                                    },
+                                    "captain": {
+                                        "count": 1,
+                                        "total": 12,
+                                        "captain_percentage": 8.33
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 1,
+                                    "attempted": 2,
+                                    "conversion_percentage": 50.0,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 0,
+                                    "shots_on_target": 0,
+                                    "shots_on_target_percentage": null
+                                },
+                                "discipline": {
+                                    "yellow_cards": 0,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 0,
+                                    "fouls_drawn": 0,
+                                    "offsides": 0,
+                                    "crosses": 0
+                                },
+                                "defending": {
+                                    "tackles_won": 0,
+                                    "interceptions": 0
+                                }
+                            }
                         }
                     }
                 },
@@ -519,7 +2841,50 @@
                         "assists": 4,
                         "minutes": 1819,
                         "minutes_per_goal": 67.37,
-                        "minutes_per_goal_contribution": 58.68
+                        "minutes_per_goal_contribution": 58.68,
+                        "details": {
+                            "scoring": {
+                                "goals_per_game": 1.23,
+                                "hat_tricks": 3
+                            },
+                            "appearances": {
+                                "games_started": {
+                                    "count": 21,
+                                    "total": 22,
+                                    "starting_percentage": 95.45
+                                },
+                                "captain": {
+                                    "count": 3,
+                                    "total": 22,
+                                    "captain_percentage": 13.64
+                                }
+                            },
+                            "penalties": {
+                                "scored": 3,
+                                "attempted": 4,
+                                "conversion_percentage": 75.0,
+                                "won": 0
+                            },
+                            "shooting": {
+                                "shots": 93,
+                                "shots_on_target": 53,
+                                "shots_on_target_percentage": 56.99
+                            },
+                            "discipline": {
+                                "yellow_cards": 1,
+                                "red_cards": 0
+                            },
+                            "general": {
+                                "fouls_committed": 17,
+                                "fouls_drawn": 10,
+                                "offsides": 7,
+                                "crosses": 12
+                            },
+                            "defending": {
+                                "tackles_won": 3,
+                                "interceptions": 0
+                            }
+                        }
                     },
                     "competitions": {
                         "UEFA Euro Qualifying": {
@@ -528,7 +2893,50 @@
                             "assists": 1,
                             "minutes": 626,
                             "minutes_per_goal": 104.33,
-                            "minutes_per_goal_contribution": 89.43
+                            "minutes_per_goal_contribution": 89.43,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.75,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 7,
+                                        "total": 8,
+                                        "starting_percentage": 87.5
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 8,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 2,
+                                    "attempted": 2,
+                                    "conversion_percentage": 100.0,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 18,
+                                    "shots_on_target": 10,
+                                    "shots_on_target_percentage": 55.56
+                                },
+                                "discipline": {
+                                    "yellow_cards": 0,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 7,
+                                    "fouls_drawn": 5,
+                                    "offsides": 2,
+                                    "crosses": 7
+                                },
+                                "defending": {
+                                    "tackles_won": 1,
+                                    "interceptions": 0
+                                }
+                            }
                         },
                         "World Cup Qualifying": {
                             "apps": 14,
@@ -536,7 +2944,50 @@
                             "assists": 3,
                             "minutes": 1193,
                             "minutes_per_goal": 56.81,
-                            "minutes_per_goal_contribution": 49.71
+                            "minutes_per_goal_contribution": 49.71,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 1.5,
+                                    "hat_tricks": 3
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 14,
+                                        "total": 14,
+                                        "starting_percentage": 100.0
+                                    },
+                                    "captain": {
+                                        "count": 3,
+                                        "total": 14,
+                                        "captain_percentage": 21.43
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 1,
+                                    "attempted": 2,
+                                    "conversion_percentage": 50.0,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 75,
+                                    "shots_on_target": 43,
+                                    "shots_on_target_percentage": 57.33
+                                },
+                                "discipline": {
+                                    "yellow_cards": 1,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 10,
+                                    "fouls_drawn": 5,
+                                    "offsides": 5,
+                                    "crosses": 5
+                                },
+                                "defending": {
+                                    "tackles_won": 2,
+                                    "interceptions": 0
+                                }
+                            }
                         }
                     }
                 },
@@ -547,7 +2998,50 @@
                         "assists": 3,
                         "minutes": 1838,
                         "minutes_per_goal": 70.69,
-                        "minutes_per_goal_contribution": 63.38
+                        "minutes_per_goal_contribution": 63.38,
+                        "details": {
+                            "scoring": {
+                                "goals_per_game": 1.24,
+                                "hat_tricks": 2
+                            },
+                            "appearances": {
+                                "games_started": {
+                                    "count": 21,
+                                    "total": 21,
+                                    "starting_percentage": 100.0
+                                },
+                                "captain": {
+                                    "count": 4,
+                                    "total": 21,
+                                    "captain_percentage": 19.05
+                                }
+                            },
+                            "penalties": {
+                                "scored": 2,
+                                "attempted": 2,
+                                "conversion_percentage": 100.0,
+                                "won": 0
+                            },
+                            "shooting": {
+                                "shots": 85,
+                                "shots_on_target": 50,
+                                "shots_on_target_percentage": 58.82
+                            },
+                            "discipline": {
+                                "yellow_cards": 1,
+                                "red_cards": 0
+                            },
+                            "general": {
+                                "fouls_committed": 17,
+                                "fouls_drawn": 9,
+                                "offsides": 0,
+                                "crosses": 8
+                            },
+                            "defending": {
+                                "tackles_won": 2,
+                                "interceptions": 3
+                            }
+                        }
                     },
                     "competitions": {
                         "UEFA Nations League": {
@@ -556,7 +3050,50 @@
                             "assists": 3,
                             "minutes": 1373,
                             "minutes_per_goal": 72.26,
-                            "minutes_per_goal_contribution": 62.41
+                            "minutes_per_goal_contribution": 62.41,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 1.19,
+                                    "hat_tricks": 2
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 16,
+                                        "total": 16,
+                                        "starting_percentage": 100.0
+                                    },
+                                    "captain": {
+                                        "count": 4,
+                                        "total": 16,
+                                        "captain_percentage": 25.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 2,
+                                    "attempted": 2,
+                                    "conversion_percentage": 100.0,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 65,
+                                    "shots_on_target": 37,
+                                    "shots_on_target_percentage": 56.92
+                                },
+                                "discipline": {
+                                    "yellow_cards": 1,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 12,
+                                    "fouls_drawn": 6,
+                                    "offsides": 0,
+                                    "crosses": 7
+                                },
+                                "defending": {
+                                    "tackles_won": 2,
+                                    "interceptions": 2
+                                }
+                            }
                         },
                         "World Cup": {
                             "apps": 5,
@@ -564,7 +3101,50 @@
                             "assists": 0,
                             "minutes": 465,
                             "minutes_per_goal": 66.43,
-                            "minutes_per_goal_contribution": 66.43
+                            "minutes_per_goal_contribution": 66.43,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 1.4,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 5,
+                                        "total": 5,
+                                        "starting_percentage": 100.0
+                                    },
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 5,
+                                        "captain_percentage": 0.0
+                                    }
+                                },
+                                "penalties": {
+                                    "scored": 0,
+                                    "attempted": 0,
+                                    "conversion_percentage": null,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 20,
+                                    "shots_on_target": 13,
+                                    "shots_on_target_percentage": 65.0
+                                },
+                                "discipline": {
+                                    "yellow_cards": 0,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 5,
+                                    "fouls_drawn": 3,
+                                    "offsides": 0,
+                                    "crosses": 1
+                                },
+                                "defending": {
+                                    "tackles_won": 0,
+                                    "interceptions": 1
+                                }
+                            }
                         }
                     }
                 }
