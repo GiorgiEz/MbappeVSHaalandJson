@@ -16,14 +16,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 4,
-                            "total": 14,
-                            "starting_percentage": 28.57
+                            "total": 14
                         },
+                        "starting_percentage": 28.57,
                         "captain": {
                             "count": 0,
-                            "total": 14,
-                            "captain_percentage": 0.0
-                        }
+                            "total": 14
+                        },
+                        "captain_percentage": 0.0
                     },
                     "penalties": {
                         "scored": 0,
@@ -69,14 +69,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 0,
-                                    "total": 1,
-                                    "starting_percentage": 0.0
+                                    "total": 1
                                 },
+                                "starting_percentage": 0.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 1,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 1
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -121,14 +121,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 0,
-                                        "total": 1,
-                                        "starting_percentage": 0.0
+                                        "total": 1
                                     },
+                                    "starting_percentage": 0.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 1,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -175,14 +175,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 2,
-                                    "total": 2,
-                                    "starting_percentage": 100.0
+                                    "total": 2
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 2,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 2
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -227,14 +227,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 1,
-                                        "starting_percentage": 100.0
+                                        "total": 1
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 1,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -278,14 +278,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 1,
-                                        "starting_percentage": 100.0
+                                        "total": 1
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 1,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -332,14 +332,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 2,
-                                    "total": 11,
-                                    "starting_percentage": 18.18
+                                    "total": 11
                                 },
+                                "starting_percentage": 18.18,
                                 "captain": {
                                     "count": 0,
-                                    "total": 11,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 11
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -384,14 +384,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 2,
-                                        "total": 11,
-                                        "starting_percentage": 18.18
+                                        "total": 11
                                     },
+                                    "starting_percentage": 18.18,
                                     "captain": {
                                         "count": 0,
-                                        "total": 11,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 11
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -440,14 +440,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 30,
-                            "total": 45,
-                            "starting_percentage": 66.67
+                            "total": 45
                         },
+                        "starting_percentage": 66.67,
                         "captain": {
                             "count": 0,
-                            "total": 45,
-                            "captain_percentage": 0.0
-                        }
+                            "total": 45
+                        },
+                        "captain_percentage": 0.0
                     },
                     "penalties": {
                         "scored": 0,
@@ -493,14 +493,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 6,
-                                    "total": 9,
-                                    "starting_percentage": 66.67
+                                    "total": 9
                                 },
+                                "starting_percentage": 66.67,
                                 "captain": {
                                     "count": 0,
-                                    "total": 9,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 9
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -545,14 +545,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 6,
-                                        "total": 9,
-                                        "starting_percentage": 66.67
+                                        "total": 9
                                     },
+                                    "starting_percentage": 66.67,
                                     "captain": {
                                         "count": 0,
-                                        "total": 9,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 9
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -599,14 +599,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 6,
-                                    "total": 6,
-                                    "starting_percentage": 100.0
+                                    "total": 6
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 6,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 6
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -651,14 +651,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 3,
-                                        "total": 3,
-                                        "starting_percentage": 100.0
+                                        "total": 3
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 3,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 3
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -702,14 +702,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 3,
-                                        "total": 3,
-                                        "starting_percentage": 100.0
+                                        "total": 3
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 3,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 3
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -756,14 +756,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 17,
-                                    "total": 29,
-                                    "starting_percentage": 58.62
+                                    "total": 29
                                 },
+                                "starting_percentage": 58.62,
                                 "captain": {
                                     "count": 0,
-                                    "total": 29,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 29
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -808,14 +808,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 17,
-                                        "total": 29,
-                                        "starting_percentage": 58.62
+                                        "total": 29
                                     },
+                                    "starting_percentage": 58.62,
                                     "captain": {
                                         "count": 0,
-                                        "total": 29,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 29
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -862,14 +862,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 1,
-                                    "total": 1,
-                                    "starting_percentage": 100.0
+                                    "total": 1
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 1,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 1
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -914,14 +914,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 1,
-                                        "starting_percentage": 100.0
+                                        "total": 1
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 1,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -970,14 +970,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 41,
-                            "total": 45,
-                            "starting_percentage": 91.11
+                            "total": 45
                         },
+                        "starting_percentage": 91.11,
                         "captain": {
                             "count": 0,
-                            "total": 45,
-                            "captain_percentage": 0.0
-                        }
+                            "total": 45
+                        },
+                        "captain_percentage": 0.0
                     },
                     "penalties": {
                         "scored": 0,
@@ -1023,14 +1023,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 8,
-                                    "total": 8,
-                                    "starting_percentage": 100.0
+                                    "total": 8
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 8,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 8
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -1075,14 +1075,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 8,
-                                        "total": 8,
-                                        "starting_percentage": 100.0
+                                        "total": 8
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 8,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 8
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -1129,14 +1129,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 8,
-                                    "total": 9,
-                                    "starting_percentage": 88.89
+                                    "total": 9
                                 },
+                                "starting_percentage": 88.89,
                                 "captain": {
                                     "count": 0,
-                                    "total": 9,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 9
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -1181,14 +1181,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 5,
-                                        "total": 5,
-                                        "starting_percentage": 100.0
+                                        "total": 5
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 5,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 5
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -1232,14 +1232,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 3,
-                                        "total": 4,
-                                        "starting_percentage": 75.0
+                                        "total": 4
                                     },
+                                    "starting_percentage": 75.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 4,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 4
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -1286,14 +1286,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 25,
-                                    "total": 28,
-                                    "starting_percentage": 89.29
+                                    "total": 28
                                 },
+                                "starting_percentage": 89.29,
                                 "captain": {
                                     "count": 0,
-                                    "total": 28,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 28
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -1338,14 +1338,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 25,
-                                        "total": 28,
-                                        "starting_percentage": 89.29
+                                        "total": 28
                                     },
+                                    "starting_percentage": 89.29,
                                     "captain": {
                                         "count": 0,
-                                        "total": 28,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 28
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -1394,14 +1394,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 36,
-                            "total": 43,
-                            "starting_percentage": 83.72
+                            "total": 43
                         },
+                        "starting_percentage": 83.72,
                         "captain": {
                             "count": 0,
-                            "total": 43,
-                            "captain_percentage": 0.0
-                        }
+                            "total": 43
+                        },
+                        "captain_percentage": 0.0
                     },
                     "penalties": {
                         "scored": 3,
@@ -1447,14 +1447,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 8,
-                                    "total": 8,
-                                    "starting_percentage": 100.0
+                                    "total": 8
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 8,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 8
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -1499,14 +1499,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 8,
-                                        "total": 8,
-                                        "starting_percentage": 100.0
+                                        "total": 8
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 8,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 8
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -1553,14 +1553,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 4,
-                                    "total": 6,
-                                    "starting_percentage": 66.67
+                                    "total": 6
                                 },
+                                "starting_percentage": 66.67,
                                 "captain": {
                                     "count": 0,
-                                    "total": 6,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 6
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 2,
@@ -1605,14 +1605,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 3,
-                                        "total": 4,
-                                        "starting_percentage": 75.0
+                                        "total": 4
                                     },
+                                    "starting_percentage": 75.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 4,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 4
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 2,
@@ -1656,14 +1656,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 2,
-                                        "starting_percentage": 50.0
+                                        "total": 2
                                     },
+                                    "starting_percentage": 50.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 2,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 2
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -1710,14 +1710,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 24,
-                                    "total": 29,
-                                    "starting_percentage": 82.76
+                                    "total": 29
                                 },
+                                "starting_percentage": 82.76,
                                 "captain": {
                                     "count": 0,
-                                    "total": 29,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 29
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 1,
@@ -1762,14 +1762,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 24,
-                                        "total": 29,
-                                        "starting_percentage": 82.76
+                                        "total": 29
                                     },
+                                    "starting_percentage": 82.76,
                                     "captain": {
                                         "count": 0,
-                                        "total": 29,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 29
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 1,
@@ -1818,14 +1818,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 28,
-                            "total": 34,
-                            "starting_percentage": 82.35
+                            "total": 34
                         },
+                        "starting_percentage": 82.35,
                         "captain": {
                             "count": 0,
-                            "total": 34,
-                            "captain_percentage": 0.0
-                        }
+                            "total": 34
+                        },
+                        "captain_percentage": 0.0
                     },
                     "penalties": {
                         "scored": 0,
@@ -1871,14 +1871,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 4,
-                                    "total": 7,
-                                    "starting_percentage": 57.14
+                                    "total": 7
                                 },
+                                "starting_percentage": 57.14,
                                 "captain": {
                                     "count": 0,
-                                    "total": 7,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 7
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -1923,14 +1923,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 4,
-                                        "total": 7,
-                                        "starting_percentage": 57.14
+                                        "total": 7
                                     },
+                                    "starting_percentage": 57.14,
                                     "captain": {
                                         "count": 0,
-                                        "total": 7,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 7
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -1977,14 +1977,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 6,
-                                    "total": 6,
-                                    "starting_percentage": 100.0
+                                    "total": 6
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 6,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 6
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -2029,14 +2029,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 3,
-                                        "total": 3,
-                                        "starting_percentage": 100.0
+                                        "total": 3
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 3,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 3
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -2080,14 +2080,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 3,
-                                        "total": 3,
-                                        "starting_percentage": 100.0
+                                        "total": 3
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 3,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 3
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -2134,14 +2134,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 17,
-                                    "total": 20,
-                                    "starting_percentage": 85.0
+                                    "total": 20
                                 },
+                                "starting_percentage": 85.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 20,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 20
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -2186,14 +2186,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 17,
-                                        "total": 20,
-                                        "starting_percentage": 85.0
+                                        "total": 20
                                     },
+                                    "starting_percentage": 85.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 20,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 20
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -2240,14 +2240,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 1,
-                                    "total": 1,
-                                    "starting_percentage": 100.0
+                                    "total": 1
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 1,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 1
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -2292,14 +2292,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 1,
-                                        "starting_percentage": 100.0
+                                        "total": 1
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 1,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -2348,14 +2348,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 43,
-                            "total": 50,
-                            "starting_percentage": 86.0
+                            "total": 50
                         },
+                        "starting_percentage": 86.0,
                         "captain": {
                             "count": 0,
-                            "total": 50,
-                            "captain_percentage": 0.0
-                        }
+                            "total": 50
+                        },
+                        "captain_percentage": 0.0
                     },
                     "penalties": {
                         "scored": 9,
@@ -2401,14 +2401,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 12,
-                                    "total": 13,
-                                    "starting_percentage": 92.31
+                                    "total": 13
                                 },
+                                "starting_percentage": 92.31,
                                 "captain": {
                                     "count": 0,
-                                    "total": 13,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 13
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 2,
@@ -2453,14 +2453,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 12,
-                                        "total": 13,
-                                        "starting_percentage": 92.31
+                                        "total": 13
                                     },
+                                    "starting_percentage": 92.31,
                                     "captain": {
                                         "count": 0,
-                                        "total": 13,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 13
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 2,
@@ -2507,14 +2507,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 3,
-                                    "total": 5,
-                                    "starting_percentage": 60.0
+                                    "total": 5
                                 },
+                                "starting_percentage": 60.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 5,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 5
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 1,
@@ -2559,14 +2559,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 3,
-                                        "total": 5,
-                                        "starting_percentage": 60.0
+                                        "total": 5
                                     },
+                                    "starting_percentage": 60.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 5,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 5
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 1,
@@ -2613,14 +2613,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 27,
-                                    "total": 31,
-                                    "starting_percentage": 87.1
+                                    "total": 31
                                 },
+                                "starting_percentage": 87.1,
                                 "captain": {
                                     "count": 0,
-                                    "total": 31,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 31
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 6,
@@ -2665,14 +2665,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 27,
-                                        "total": 31,
-                                        "starting_percentage": 87.1
+                                        "total": 31
                                     },
+                                    "starting_percentage": 87.1,
                                     "captain": {
                                         "count": 0,
-                                        "total": 31,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 31
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 6,
@@ -2719,14 +2719,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 1,
-                                    "total": 1,
-                                    "starting_percentage": 100.0
+                                    "total": 1
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 1,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 1
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -2771,14 +2771,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 1,
-                                        "starting_percentage": 100.0
+                                        "total": 1
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 1,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -2827,14 +2827,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 44,
-                            "total": 46,
-                            "starting_percentage": 95.65
+                            "total": 46
                         },
+                        "starting_percentage": 95.65,
                         "captain": {
                             "count": 0,
-                            "total": 46,
-                            "captain_percentage": 0.0
-                        }
+                            "total": 46
+                        },
+                        "captain_percentage": 0.0
                     },
                     "penalties": {
                         "scored": 5,
@@ -2880,14 +2880,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 8,
-                                    "total": 8,
-                                    "starting_percentage": 100.0
+                                    "total": 8
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 8,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 8
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -2932,14 +2932,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 8,
-                                        "total": 8,
-                                        "starting_percentage": 100.0
+                                        "total": 8
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 8,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 8
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -2986,14 +2986,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 2,
-                                    "total": 3,
-                                    "starting_percentage": 66.67
+                                    "total": 3
                                 },
+                                "starting_percentage": 66.67,
                                 "captain": {
                                     "count": 0,
-                                    "total": 3,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 3
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 1,
@@ -3038,14 +3038,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 2,
-                                        "total": 3,
-                                        "starting_percentage": 66.67
+                                        "total": 3
                                     },
+                                    "starting_percentage": 66.67,
                                     "captain": {
                                         "count": 0,
-                                        "total": 3,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 3
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 1,
@@ -3092,14 +3092,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 34,
-                                    "total": 35,
-                                    "starting_percentage": 97.14
+                                    "total": 35
                                 },
+                                "starting_percentage": 97.14,
                                 "captain": {
                                     "count": 0,
-                                    "total": 35,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 35
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 4,
@@ -3144,14 +3144,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 34,
-                                        "total": 35,
-                                        "starting_percentage": 97.14
+                                        "total": 35
                                     },
+                                    "starting_percentage": 97.14,
                                     "captain": {
                                         "count": 0,
-                                        "total": 35,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 35
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 4,
@@ -3200,14 +3200,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 40,
-                            "total": 43,
-                            "starting_percentage": 93.02
+                            "total": 43
                         },
+                        "starting_percentage": 93.02,
                         "captain": {
                             "count": 5,
-                            "total": 43,
-                            "captain_percentage": 11.63
-                        }
+                            "total": 43
+                        },
+                        "captain_percentage": 11.63
                     },
                     "penalties": {
                         "scored": 4,
@@ -3253,14 +3253,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 7,
-                                    "total": 8,
-                                    "starting_percentage": 87.5
+                                    "total": 8
                                 },
+                                "starting_percentage": 87.5,
                                 "captain": {
                                     "count": 0,
-                                    "total": 8,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 8
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 1,
@@ -3305,14 +3305,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 7,
-                                        "total": 8,
-                                        "starting_percentage": 87.5
+                                        "total": 8
                                     },
+                                    "starting_percentage": 87.5,
                                     "captain": {
                                         "count": 0,
-                                        "total": 8,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 8
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 1,
@@ -3359,14 +3359,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 1,
-                                    "total": 1,
-                                    "starting_percentage": 100.0
+                                    "total": 1
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 1,
-                                    "total": 1,
-                                    "captain_percentage": 100.0
-                                }
+                                    "total": 1
+                                },
+                                "captain_percentage": 100.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -3411,14 +3411,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 1,
-                                        "starting_percentage": 100.0
+                                        "total": 1
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 1,
-                                        "total": 1,
-                                        "captain_percentage": 100.0
-                                    }
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 100.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -3465,14 +3465,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 32,
-                                    "total": 34,
-                                    "starting_percentage": 94.12
+                                    "total": 34
                                 },
+                                "starting_percentage": 94.12,
                                 "captain": {
                                     "count": 4,
-                                    "total": 34,
-                                    "captain_percentage": 11.76
-                                }
+                                    "total": 34
+                                },
+                                "captain_percentage": 11.76
                             },
                             "penalties": {
                                 "scored": 3,
@@ -3517,14 +3517,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 32,
-                                        "total": 34,
-                                        "starting_percentage": 94.12
+                                        "total": 34
                                     },
+                                    "starting_percentage": 94.12,
                                     "captain": {
                                         "count": 4,
-                                        "total": 34,
-                                        "captain_percentage": 11.76
-                                    }
+                                        "total": 34
+                                    },
+                                    "captain_percentage": 11.76
                                 },
                                 "penalties": {
                                     "scored": 3,
@@ -3573,14 +3573,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 43,
-                            "total": 48,
-                            "starting_percentage": 89.58
+                            "total": 48
                         },
+                        "starting_percentage": 89.58,
                         "captain": {
                             "count": 15,
-                            "total": 48,
-                            "captain_percentage": 31.25
-                        }
+                            "total": 48
+                        },
+                        "captain_percentage": 31.25
                     },
                     "penalties": {
                         "scored": 10,
@@ -3626,14 +3626,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 12,
-                                    "total": 12,
-                                    "starting_percentage": 100.0
+                                    "total": 12
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 2,
-                                    "total": 12,
-                                    "captain_percentage": 16.67
-                                }
+                                    "total": 12
+                                },
+                                "captain_percentage": 16.67
                             },
                             "penalties": {
                                 "scored": 3,
@@ -3678,14 +3678,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 12,
-                                        "total": 12,
-                                        "starting_percentage": 100.0
+                                        "total": 12
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 2,
-                                        "total": 12,
-                                        "captain_percentage": 16.67
-                                    }
+                                        "total": 12
+                                    },
+                                    "captain_percentage": 16.67
                                 },
                                 "penalties": {
                                     "scored": 3,
@@ -3732,14 +3732,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 6,
-                                    "total": 6,
-                                    "starting_percentage": 100.0
+                                    "total": 6
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 2,
-                                    "total": 6,
-                                    "captain_percentage": 33.33
-                                }
+                                    "total": 6
+                                },
+                                "captain_percentage": 33.33
                             },
                             "penalties": {
                                 "scored": 1,
@@ -3784,14 +3784,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 6,
-                                        "total": 6,
-                                        "starting_percentage": 100.0
+                                        "total": 6
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 2,
-                                        "total": 6,
-                                        "captain_percentage": 33.33
-                                    }
+                                        "total": 6
+                                    },
+                                    "captain_percentage": 33.33
                                 },
                                 "penalties": {
                                     "scored": 1,
@@ -3838,14 +3838,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 24,
-                                    "total": 29,
-                                    "starting_percentage": 82.76
+                                    "total": 29
                                 },
+                                "starting_percentage": 82.76,
                                 "captain": {
                                     "count": 11,
-                                    "total": 29,
-                                    "captain_percentage": 37.93
-                                }
+                                    "total": 29
+                                },
+                                "captain_percentage": 37.93
                             },
                             "penalties": {
                                 "scored": 6,
@@ -3890,14 +3890,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 24,
-                                        "total": 29,
-                                        "starting_percentage": 82.76
+                                        "total": 29
                                     },
+                                    "starting_percentage": 82.76,
                                     "captain": {
                                         "count": 11,
-                                        "total": 29,
-                                        "captain_percentage": 37.93
-                                    }
+                                        "total": 29
+                                    },
+                                    "captain_percentage": 37.93
                                 },
                                 "penalties": {
                                     "scored": 6,
@@ -3944,14 +3944,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 1,
-                                    "total": 1,
-                                    "starting_percentage": 100.0
+                                    "total": 1
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 1,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 1
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -3996,14 +3996,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 1,
-                                        "starting_percentage": 100.0
+                                        "total": 1
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 1,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -4052,14 +4052,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 53,
-                            "total": 59,
-                            "starting_percentage": 89.83
+                            "total": 59
                         },
+                        "starting_percentage": 89.83,
                         "captain": {
                             "count": 0,
-                            "total": 59,
-                            "captain_percentage": 0.0
-                        }
+                            "total": 59
+                        },
+                        "captain_percentage": 0.0
                     },
                     "penalties": {
                         "scored": 7,
@@ -4105,14 +4105,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 1,
-                                    "total": 3,
-                                    "starting_percentage": 33.33
+                                    "total": 3
                                 },
+                                "starting_percentage": 33.33,
                                 "captain": {
                                     "count": 0,
-                                    "total": 3,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 3
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -4157,14 +4157,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 3,
-                                        "starting_percentage": 33.33
+                                        "total": 3
                                     },
+                                    "starting_percentage": 33.33,
                                     "captain": {
                                         "count": 0,
-                                        "total": 3,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 3
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -4211,14 +4211,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 13,
-                                    "total": 14,
-                                    "starting_percentage": 92.86
+                                    "total": 14
                                 },
+                                "starting_percentage": 92.86,
                                 "captain": {
                                     "count": 0,
-                                    "total": 14,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 14
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -4263,14 +4263,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 13,
-                                        "total": 14,
-                                        "starting_percentage": 92.86
+                                        "total": 14
                                     },
+                                    "starting_percentage": 92.86,
                                     "captain": {
                                         "count": 0,
-                                        "total": 14,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 14
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -4317,14 +4317,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 1,
-                                    "total": 4,
-                                    "starting_percentage": 25.0
+                                    "total": 4
                                 },
+                                "starting_percentage": 25.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 4,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 4
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -4369,14 +4369,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 4,
-                                        "starting_percentage": 25.0
+                                        "total": 4
                                     },
+                                    "starting_percentage": 25.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 4,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 4
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -4423,14 +4423,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 34,
-                                    "total": 34,
-                                    "starting_percentage": 100.0
+                                    "total": 34
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 34,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 34
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 7,
@@ -4475,14 +4475,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 34,
-                                        "total": 34,
-                                        "starting_percentage": 100.0
+                                        "total": 34
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 34,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 34
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 7,
@@ -4529,14 +4529,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 2,
-                                    "total": 2,
-                                    "starting_percentage": 100.0
+                                    "total": 2
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 2,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 2
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -4581,14 +4581,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 2,
-                                        "total": 2,
-                                        "starting_percentage": 100.0
+                                        "total": 2
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 2,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 2
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -4635,14 +4635,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 2,
-                                    "total": 2,
-                                    "starting_percentage": 100.0
+                                    "total": 2
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 2,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 2
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -4687,14 +4687,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 1,
-                                        "starting_percentage": 100.0
+                                        "total": 1
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 1,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -4738,14 +4738,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 1,
-                                        "starting_percentage": 100.0
+                                        "total": 1
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 1,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -4794,14 +4794,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 40,
-                            "total": 44,
-                            "starting_percentage": 90.91
+                            "total": 44
                         },
+                        "starting_percentage": 90.91,
                         "captain": {
                             "count": 0,
-                            "total": 44,
-                            "captain_percentage": 0.0
-                        }
+                            "total": 44
+                        },
+                        "captain_percentage": 0.0
                     },
                     "penalties": {
                         "scored": 12,
@@ -4847,14 +4847,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 10,
-                                    "total": 11,
-                                    "starting_percentage": 90.91
+                                    "total": 11
                                 },
+                                "starting_percentage": 90.91,
                                 "captain": {
                                     "count": 0,
-                                    "total": 11,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 11
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 3,
@@ -4899,14 +4899,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 10,
-                                        "total": 11,
-                                        "starting_percentage": 90.91
+                                        "total": 11
                                     },
+                                    "starting_percentage": 90.91,
                                     "captain": {
                                         "count": 0,
-                                        "total": 11,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 11
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 3,
@@ -4953,14 +4953,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 1,
-                                    "total": 1,
-                                    "starting_percentage": 100.0
+                                    "total": 1
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 1,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 1
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 1,
@@ -5005,14 +5005,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 1,
-                                        "starting_percentage": 100.0
+                                        "total": 1
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 1,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 1,
@@ -5059,14 +5059,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 29,
-                                    "total": 31,
-                                    "starting_percentage": 93.55
+                                    "total": 31
                                 },
+                                "starting_percentage": 93.55,
                                 "captain": {
                                     "count": 0,
-                                    "total": 31,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 31
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 8,
@@ -5111,14 +5111,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 29,
-                                        "total": 31,
-                                        "starting_percentage": 93.55
+                                        "total": 31
                                     },
+                                    "starting_percentage": 93.55,
                                     "captain": {
                                         "count": 0,
-                                        "total": 31,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 31
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 8,
@@ -5165,14 +5165,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 0,
-                                    "total": 1,
-                                    "starting_percentage": 0.0
+                                    "total": 1
                                 },
+                                "starting_percentage": 0.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 1,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 1
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -5217,14 +5217,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 0,
-                                        "total": 1,
-                                        "starting_percentage": 0.0
+                                        "total": 1
                                     },
+                                    "starting_percentage": 0.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 1,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -5275,14 +5275,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 1,
-                            "total": 10,
-                            "starting_percentage": 10.0
+                            "total": 10
                         },
+                        "starting_percentage": 10.0,
                         "captain": {
                             "count": 0,
-                            "total": 10,
-                            "captain_percentage": 0.0
-                        }
+                            "total": 10
+                        },
+                        "captain_percentage": 0.0
                     },
                     "penalties": {
                         "scored": 0,
@@ -5328,14 +5328,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 1,
-                                    "total": 10,
-                                    "starting_percentage": 10.0
+                                    "total": 10
                                 },
+                                "starting_percentage": 10.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 10,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 10
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -5380,14 +5380,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 10,
-                                        "starting_percentage": 10.0
+                                        "total": 10
                                     },
+                                    "starting_percentage": 10.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 10,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 10
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -5436,14 +5436,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 2,
-                            "total": 13,
-                            "starting_percentage": 15.38
+                            "total": 13
                         },
+                        "starting_percentage": 15.38,
                         "captain": {
                             "count": 0,
-                            "total": 13,
-                            "captain_percentage": 0.0
-                        }
+                            "total": 13
+                        },
+                        "captain_percentage": 0.0
                     },
                     "penalties": {
                         "scored": 0,
@@ -5489,14 +5489,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 2,
-                                    "total": 3,
-                                    "starting_percentage": 66.67
+                                    "total": 3
                                 },
+                                "starting_percentage": 66.67,
                                 "captain": {
                                     "count": 0,
-                                    "total": 3,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 3
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -5541,14 +5541,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 2,
-                                        "total": 3,
-                                        "starting_percentage": 66.67
+                                        "total": 3
                                     },
+                                    "starting_percentage": 66.67,
                                     "captain": {
                                         "count": 0,
-                                        "total": 3,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 3
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -5595,14 +5595,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 0,
-                                    "total": 10,
-                                    "starting_percentage": 0.0
+                                    "total": 10
                                 },
+                                "starting_percentage": 0.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 10,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 10
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -5647,14 +5647,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 0,
-                                        "total": 6,
-                                        "starting_percentage": 0.0
+                                        "total": 6
                                     },
+                                    "starting_percentage": 0.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 6,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 6
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -5698,14 +5698,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 0,
-                                        "total": 4,
-                                        "starting_percentage": 0.0
+                                        "total": 4
                                     },
+                                    "starting_percentage": 0.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 4,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 4
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -5754,14 +5754,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 13,
-                            "total": 29,
-                            "starting_percentage": 44.83
+                            "total": 29
                         },
+                        "starting_percentage": 44.83,
                         "captain": {
                             "count": 0,
-                            "total": 29,
-                            "captain_percentage": 0.0
-                        }
+                            "total": 29
+                        },
+                        "captain_percentage": 0.0
                     },
                     "penalties": {
                         "scored": 3,
@@ -5807,14 +5807,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 2,
-                                    "total": 2,
-                                    "starting_percentage": 100.0
+                                    "total": 2
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 2,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 2
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 1,
@@ -5859,14 +5859,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 2,
-                                        "total": 2,
-                                        "starting_percentage": 100.0
+                                        "total": 2
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 2,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 2
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 1,
@@ -5913,14 +5913,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 0,
-                                    "total": 3,
-                                    "starting_percentage": 0.0
+                                    "total": 3
                                 },
+                                "starting_percentage": 0.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 3,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 3
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -5965,14 +5965,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 0,
-                                        "total": 3,
-                                        "starting_percentage": 0.0
+                                        "total": 3
                                     },
+                                    "starting_percentage": 0.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 3,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 3
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -6019,14 +6019,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 11,
-                                    "total": 24,
-                                    "starting_percentage": 45.83
+                                    "total": 24
                                 },
+                                "starting_percentage": 45.83,
                                 "captain": {
                                     "count": 0,
-                                    "total": 24,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 24
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 2,
@@ -6071,14 +6071,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 11,
-                                        "total": 24,
-                                        "starting_percentage": 45.83
+                                        "total": 24
                                     },
+                                    "starting_percentage": 45.83,
                                     "captain": {
                                         "count": 0,
-                                        "total": 24,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 24
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 2,
@@ -6127,14 +6127,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 15,
-                            "total": 21,
-                            "starting_percentage": 71.43
+                            "total": 21
                         },
+                        "starting_percentage": 71.43,
                         "captain": {
                             "count": 0,
-                            "total": 21,
-                            "captain_percentage": 0.0
-                        }
+                            "total": 21
+                        },
+                        "captain_percentage": 0.0
                     },
                     "penalties": {
                         "scored": 1,
@@ -6180,14 +6180,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 3,
-                                    "total": 4,
-                                    "starting_percentage": 75.0
+                                    "total": 4
                                 },
+                                "starting_percentage": 75.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 4,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 4
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -6232,14 +6232,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 3,
-                                        "total": 4,
-                                        "starting_percentage": 75.0
+                                        "total": 4
                                     },
+                                    "starting_percentage": 75.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 4,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 4
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -6286,14 +6286,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 1,
-                                    "total": 3,
-                                    "starting_percentage": 33.33
+                                    "total": 3
                                 },
+                                "starting_percentage": 33.33,
                                 "captain": {
                                     "count": 0,
-                                    "total": 3,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 3
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -6338,14 +6338,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 3,
-                                        "starting_percentage": 33.33
+                                        "total": 3
                                     },
+                                    "starting_percentage": 33.33,
                                     "captain": {
                                         "count": 0,
-                                        "total": 3,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 3
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -6392,14 +6392,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 11,
-                                    "total": 14,
-                                    "starting_percentage": 78.57
+                                    "total": 14
                                 },
+                                "starting_percentage": 78.57,
                                 "captain": {
                                     "count": 0,
-                                    "total": 14,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 14
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 1,
@@ -6444,14 +6444,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 2,
-                                        "total": 3,
-                                        "starting_percentage": 66.67
+                                        "total": 3
                                     },
+                                    "starting_percentage": 66.67,
                                     "captain": {
                                         "count": 0,
-                                        "total": 3,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 3
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -6495,14 +6495,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 9,
-                                        "total": 11,
-                                        "starting_percentage": 81.82
+                                        "total": 11
                                     },
+                                    "starting_percentage": 81.82,
                                     "captain": {
                                         "count": 0,
-                                        "total": 11,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 11
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 1,
@@ -6551,14 +6551,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 27,
-                            "total": 38,
-                            "starting_percentage": 71.05
+                            "total": 38
                         },
+                        "starting_percentage": 71.05,
                         "captain": {
                             "count": 0,
-                            "total": 38,
-                            "captain_percentage": 0.0
-                        }
+                            "total": 38
+                        },
+                        "captain_percentage": 0.0
                     },
                     "penalties": {
                         "scored": 3,
@@ -6604,14 +6604,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 6,
-                                    "total": 8,
-                                    "starting_percentage": 75.0
+                                    "total": 8
                                 },
+                                "starting_percentage": 75.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 8,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 8
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 2,
@@ -6656,14 +6656,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 6,
-                                        "total": 8,
-                                        "starting_percentage": 75.0
+                                        "total": 8
                                     },
+                                    "starting_percentage": 75.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 8,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 8
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 2,
@@ -6710,14 +6710,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 0,
-                                    "total": 2,
-                                    "starting_percentage": 0.0
+                                    "total": 2
                                 },
+                                "starting_percentage": 0.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 2,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 2
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -6762,14 +6762,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 0,
-                                        "total": 1,
-                                        "starting_percentage": 0.0
+                                        "total": 1
                                     },
+                                    "starting_percentage": 0.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 1,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -6813,14 +6813,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 0,
-                                        "total": 1,
-                                        "starting_percentage": 0.0
+                                        "total": 1
                                     },
+                                    "starting_percentage": 0.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 1,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -6867,14 +6867,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 21,
-                                    "total": 28,
-                                    "starting_percentage": 75.0
+                                    "total": 28
                                 },
+                                "starting_percentage": 75.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 28,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 28
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 1,
@@ -6919,14 +6919,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 21,
-                                        "total": 28,
-                                        "starting_percentage": 75.0
+                                        "total": 28
                                     },
+                                    "starting_percentage": 75.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 28,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 28
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 1,
@@ -6975,14 +6975,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 40,
-                            "total": 41,
-                            "starting_percentage": 97.56
+                            "total": 41
                         },
+                        "starting_percentage": 97.56,
                         "captain": {
                             "count": 0,
-                            "total": 41,
-                            "captain_percentage": 0.0
-                        }
+                            "total": 41
+                        },
+                        "captain_percentage": 0.0
                     },
                     "penalties": {
                         "scored": 3,
@@ -7028,14 +7028,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 8,
-                                    "total": 8,
-                                    "starting_percentage": 100.0
+                                    "total": 8
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 8,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 8
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 1,
@@ -7080,14 +7080,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 8,
-                                        "total": 8,
-                                        "starting_percentage": 100.0
+                                        "total": 8
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 8,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 8
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 1,
@@ -7134,14 +7134,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 4,
-                                    "total": 4,
-                                    "starting_percentage": 100.0
+                                    "total": 4
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 4,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 4
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -7186,14 +7186,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 4,
-                                        "total": 4,
-                                        "starting_percentage": 100.0
+                                        "total": 4
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 4,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 4
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -7240,14 +7240,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 27,
-                                    "total": 28,
-                                    "starting_percentage": 96.43
+                                    "total": 28
                                 },
+                                "starting_percentage": 96.43,
                                 "captain": {
                                     "count": 0,
-                                    "total": 28,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 28
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 2,
@@ -7292,14 +7292,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 27,
-                                        "total": 28,
-                                        "starting_percentage": 96.43
+                                        "total": 28
                                     },
+                                    "starting_percentage": 96.43,
                                     "captain": {
                                         "count": 0,
-                                        "total": 28,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 28
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 2,
@@ -7346,14 +7346,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 1,
-                                    "total": 1,
-                                    "starting_percentage": 100.0
+                                    "total": 1
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 1,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 1
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -7398,14 +7398,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 1,
-                                        "starting_percentage": 100.0
+                                        "total": 1
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 1,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -7454,14 +7454,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 27,
-                            "total": 31,
-                            "starting_percentage": 87.1
+                            "total": 31
                         },
+                        "starting_percentage": 87.1,
                         "captain": {
                             "count": 0,
-                            "total": 31,
-                            "captain_percentage": 0.0
-                        }
+                            "total": 31
+                        },
+                        "captain_percentage": 0.0
                     },
                     "penalties": {
                         "scored": 8,
@@ -7507,14 +7507,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 2,
-                                    "total": 3,
-                                    "starting_percentage": 66.67
+                                    "total": 3
                                 },
+                                "starting_percentage": 66.67,
                                 "captain": {
                                     "count": 0,
-                                    "total": 3,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 3
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -7559,14 +7559,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 2,
-                                        "total": 3,
-                                        "starting_percentage": 66.67
+                                        "total": 3
                                     },
+                                    "starting_percentage": 66.67,
                                     "captain": {
                                         "count": 0,
-                                        "total": 3,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 3
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -7613,14 +7613,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 2,
-                                    "total": 2,
-                                    "starting_percentage": 100.0
+                                    "total": 2
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 2,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 2
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 2,
@@ -7665,14 +7665,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 2,
-                                        "total": 2,
-                                        "starting_percentage": 100.0
+                                        "total": 2
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 2,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 2
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 2,
@@ -7719,14 +7719,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 21,
-                                    "total": 24,
-                                    "starting_percentage": 87.5
+                                    "total": 24
                                 },
+                                "starting_percentage": 87.5,
                                 "captain": {
                                     "count": 0,
-                                    "total": 24,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 24
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 6,
@@ -7771,14 +7771,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 21,
-                                        "total": 24,
-                                        "starting_percentage": 87.5
+                                        "total": 24
                                     },
+                                    "starting_percentage": 87.5,
                                     "captain": {
                                         "count": 0,
-                                        "total": 24,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 24
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 6,
@@ -7825,14 +7825,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 2,
-                                    "total": 2,
-                                    "starting_percentage": 100.0
+                                    "total": 2
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 2,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 2
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -7877,14 +7877,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 1,
-                                        "starting_percentage": 100.0
+                                        "total": 1
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 1,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -7928,14 +7928,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 1,
-                                        "starting_percentage": 100.0
+                                        "total": 1
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 1,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -7984,14 +7984,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 49,
-                            "total": 52,
-                            "starting_percentage": 94.23
+                            "total": 52
                         },
+                        "starting_percentage": 94.23,
                         "captain": {
                             "count": 0,
-                            "total": 52,
-                            "captain_percentage": 0.0
-                        }
+                            "total": 52
+                        },
+                        "captain_percentage": 0.0
                     },
                     "penalties": {
                         "scored": 8,
@@ -8037,14 +8037,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 11,
-                                    "total": 11,
-                                    "starting_percentage": 100.0
+                                    "total": 11
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 11,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 11
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 1,
@@ -8089,14 +8089,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 11,
-                                        "total": 11,
-                                        "starting_percentage": 100.0
+                                        "total": 11
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 11,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 11
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 1,
@@ -8143,14 +8143,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 5,
-                                    "total": 6,
-                                    "starting_percentage": 83.33
+                                    "total": 6
                                 },
+                                "starting_percentage": 83.33,
                                 "captain": {
                                     "count": 0,
-                                    "total": 6,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 6
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -8195,14 +8195,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 2,
-                                        "starting_percentage": 50.0
+                                        "total": 2
                                     },
+                                    "starting_percentage": 50.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 2,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 2
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -8246,14 +8246,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 4,
-                                        "total": 4,
-                                        "starting_percentage": 100.0
+                                        "total": 4
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 4,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 4
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -8300,14 +8300,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 33,
-                                    "total": 35,
-                                    "starting_percentage": 94.29
+                                    "total": 35
                                 },
+                                "starting_percentage": 94.29,
                                 "captain": {
                                     "count": 0,
-                                    "total": 35,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 35
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 7,
@@ -8352,14 +8352,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 33,
-                                        "total": 35,
-                                        "starting_percentage": 94.29
+                                        "total": 35
                                     },
+                                    "starting_percentage": 94.29,
                                     "captain": {
                                         "count": 0,
-                                        "total": 35,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 35
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 7,
@@ -8408,14 +8408,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 43,
-                            "total": 45,
-                            "starting_percentage": 95.56
+                            "total": 45
                         },
+                        "starting_percentage": 95.56,
                         "captain": {
                             "count": 0,
-                            "total": 45,
-                            "captain_percentage": 0.0
-                        }
+                            "total": 45
+                        },
+                        "captain_percentage": 0.0
                     },
                     "penalties": {
                         "scored": 9,
@@ -8461,14 +8461,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 9,
-                                    "total": 9,
-                                    "starting_percentage": 100.0
+                                    "total": 9
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 9,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 9
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 2,
@@ -8513,14 +8513,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 9,
-                                        "total": 9,
-                                        "starting_percentage": 100.0
+                                        "total": 9
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 9,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 9
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 2,
@@ -8567,14 +8567,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 3,
-                                    "total": 3,
-                                    "starting_percentage": 100.0
+                                    "total": 3
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 3,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 3
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -8619,14 +8619,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 3,
-                                        "total": 3,
-                                        "starting_percentage": 100.0
+                                        "total": 3
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 3,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 3
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -8673,14 +8673,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 29,
-                                    "total": 31,
-                                    "starting_percentage": 93.55
+                                    "total": 31
                                 },
+                                "starting_percentage": 93.55,
                                 "captain": {
                                     "count": 0,
-                                    "total": 31,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 31
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 7,
@@ -8725,14 +8725,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 29,
-                                        "total": 31,
-                                        "starting_percentage": 93.55
+                                        "total": 31
                                     },
+                                    "starting_percentage": 93.55,
                                     "captain": {
                                         "count": 0,
-                                        "total": 31,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 31
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 7,
@@ -8779,14 +8779,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 1,
-                                    "total": 1,
-                                    "starting_percentage": 100.0
+                                    "total": 1
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 1,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 1
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -8831,14 +8831,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 1,
-                                        "starting_percentage": 100.0
+                                        "total": 1
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 1,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -8885,14 +8885,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 1,
-                                    "total": 1,
-                                    "starting_percentage": 100.0
+                                    "total": 1
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 1,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 1
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -8937,14 +8937,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 1,
-                                        "starting_percentage": 100.0
+                                        "total": 1
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 1,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -8993,14 +8993,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 45,
-                            "total": 48,
-                            "starting_percentage": 93.75
+                            "total": 48
                         },
+                        "starting_percentage": 93.75,
                         "captain": {
                             "count": 1,
-                            "total": 48,
-                            "captain_percentage": 2.08
-                        }
+                            "total": 48
+                        },
+                        "captain_percentage": 2.08
                     },
                     "penalties": {
                         "scored": 6,
@@ -9046,14 +9046,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 2,
-                                    "total": 4,
-                                    "starting_percentage": 50.0
+                                    "total": 4
                                 },
+                                "starting_percentage": 50.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 4,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 4
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 1,
@@ -9098,14 +9098,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 2,
-                                        "total": 4,
-                                        "starting_percentage": 50.0
+                                        "total": 4
                                     },
+                                    "starting_percentage": 50.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 4,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 4
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 1,
@@ -9152,14 +9152,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 9,
-                                    "total": 9,
-                                    "starting_percentage": 100.0
+                                    "total": 9
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 9,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 9
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 2,
@@ -9204,14 +9204,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 9,
-                                        "total": 9,
-                                        "starting_percentage": 100.0
+                                        "total": 9
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 9,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 9
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 2,
@@ -9258,14 +9258,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 2,
-                                    "total": 3,
-                                    "starting_percentage": 66.67
+                                    "total": 3
                                 },
+                                "starting_percentage": 66.67,
                                 "captain": {
                                     "count": 0,
-                                    "total": 3,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 3
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -9310,14 +9310,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 2,
-                                        "total": 3,
-                                        "starting_percentage": 66.67
+                                        "total": 3
                                     },
+                                    "starting_percentage": 66.67,
                                     "captain": {
                                         "count": 0,
-                                        "total": 3,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 3
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -9364,14 +9364,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 31,
-                                    "total": 31,
-                                    "starting_percentage": 100.0
+                                    "total": 31
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 1,
-                                    "total": 31,
-                                    "captain_percentage": 3.23
-                                }
+                                    "total": 31
+                                },
+                                "captain_percentage": 3.23
                             },
                             "penalties": {
                                 "scored": 3,
@@ -9416,14 +9416,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 31,
-                                        "total": 31,
-                                        "starting_percentage": 100.0
+                                        "total": 31
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 1,
-                                        "total": 31,
-                                        "captain_percentage": 3.23
-                                    }
+                                        "total": 31
+                                    },
+                                    "captain_percentage": 3.23
                                 },
                                 "penalties": {
                                     "scored": 3,
@@ -9470,14 +9470,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 1,
-                                    "total": 1,
-                                    "starting_percentage": 100.0
+                                    "total": 1
                                 },
+                                "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 1,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 1
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 0,
@@ -9522,14 +9522,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 1,
-                                        "total": 1,
-                                        "starting_percentage": 100.0
+                                        "total": 1
                                     },
+                                    "starting_percentage": 100.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 1,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -9578,14 +9578,14 @@
                     "appearances": {
                         "games_started": {
                             "count": 48,
-                            "total": 52,
-                            "starting_percentage": 92.31
+                            "total": 52
                         },
+                        "starting_percentage": 92.31,
                         "captain": {
                             "count": 1,
-                            "total": 52,
-                            "captain_percentage": 1.92
-                        }
+                            "total": 52
+                        },
+                        "captain_percentage": 1.92
                     },
                     "penalties": {
                         "scored": 5,
@@ -9631,14 +9631,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 9,
-                                    "total": 10,
-                                    "starting_percentage": 90.0
+                                    "total": 10
                                 },
+                                "starting_percentage": 90.0,
                                 "captain": {
                                     "count": 1,
-                                    "total": 10,
-                                    "captain_percentage": 10.0
-                                }
+                                    "total": 10
+                                },
+                                "captain_percentage": 10.0
                             },
                             "penalties": {
                                 "scored": 1,
@@ -9683,14 +9683,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 9,
-                                        "total": 10,
-                                        "starting_percentage": 90.0
+                                        "total": 10
                                     },
+                                    "starting_percentage": 90.0,
                                     "captain": {
                                         "count": 1,
-                                        "total": 10,
-                                        "captain_percentage": 10.0
-                                    }
+                                        "total": 10
+                                    },
+                                    "captain_percentage": 10.0
                                 },
                                 "penalties": {
                                     "scored": 1,
@@ -9737,14 +9737,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 5,
-                                    "total": 7,
-                                    "starting_percentage": 71.43
+                                    "total": 7
                                 },
+                                "starting_percentage": 71.43,
                                 "captain": {
                                     "count": 0,
-                                    "total": 7,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 7
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 1,
@@ -9789,14 +9789,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 2,
-                                        "total": 3,
-                                        "starting_percentage": 66.67
+                                        "total": 3
                                     },
+                                    "starting_percentage": 66.67,
                                     "captain": {
                                         "count": 0,
-                                        "total": 3,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 3
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 0,
@@ -9840,14 +9840,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 3,
-                                        "total": 4,
-                                        "starting_percentage": 75.0
+                                        "total": 4
                                     },
+                                    "starting_percentage": 75.0,
                                     "captain": {
                                         "count": 0,
-                                        "total": 4,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 4
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 1,
@@ -9894,14 +9894,14 @@
                             "appearances": {
                                 "games_started": {
                                     "count": 34,
-                                    "total": 35,
-                                    "starting_percentage": 97.14
+                                    "total": 35
                                 },
+                                "starting_percentage": 97.14,
                                 "captain": {
                                     "count": 0,
-                                    "total": 35,
-                                    "captain_percentage": 0.0
-                                }
+                                    "total": 35
+                                },
+                                "captain_percentage": 0.0
                             },
                             "penalties": {
                                 "scored": 3,
@@ -9946,14 +9946,14 @@
                                 "appearances": {
                                     "games_started": {
                                         "count": 34,
-                                        "total": 35,
-                                        "starting_percentage": 97.14
+                                        "total": 35
                                     },
+                                    "starting_percentage": 97.14,
                                     "captain": {
                                         "count": 0,
-                                        "total": 35,
-                                        "captain_percentage": 0.0
-                                    }
+                                        "total": 35
+                                    },
+                                    "captain_percentage": 0.0
                                 },
                                 "penalties": {
                                     "scored": 3,
