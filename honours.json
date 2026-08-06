@@ -180,6 +180,10 @@
           {
             "category": "Player of the Year",
             "count": 13
+          },
+          {
+            "category": "Ballon D'or",
+            "count": 0
           }
         ]
       },
@@ -532,6 +536,10 @@
           {
             "category": "Player of the Year",
             "count": 12
+          },
+          {
+            "category": "Ballon D'or",
+            "count": 1
           }
         ]
       },
