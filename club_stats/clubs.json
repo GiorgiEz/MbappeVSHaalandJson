@@ -2497,26 +2497,26 @@
         },
         "Manchester City": {
             "overall": {
-                "apps": 198,
+                "apps": 199,
                 "goals": 162,
                 "assists": 29,
-                "minutes": 16017,
-                "minutes_per_goal": 98.87,
-                "minutes_per_goal_contribution": 83.86,
+                "minutes": 16069,
+                "minutes_per_goal": 99.19,
+                "minutes_per_goal_contribution": 84.13,
                 "details": {
                     "scoring": {
-                        "goals_per_game": 0.82,
+                        "goals_per_game": 0.81,
                         "hat_tricks": 12
                     },
                     "appearances": {
                         "games_started": {
-                            "count": 186,
-                            "total": 198
+                            "count": 187,
+                            "total": 199
                         },
-                        "starting_percentage": 93.94,
+                        "starting_percentage": 93.97,
                         "captain": {
                             "count": 2,
-                            "total": 198
+                            "total": 199
                         },
                         "captain_percentage": 1.01
                     },
@@ -2527,8 +2527,8 @@
                         "won": 0
                     },
                     "shooting": {
-                        "shots": 704,
-                        "shots_on_target": 364,
+                        "shots": 706,
+                        "shots_on_target": 365,
                         "shots_on_target_percentage": 51.7
                     },
                     "discipline": {
@@ -2538,7 +2538,7 @@
                     "general": {
                         "fouls_committed": 143,
                         "fouls_drawn": 125,
-                        "offsides": 36,
+                        "offsides": 37,
                         "crosses": 32
                     },
                     "defending": {
@@ -3025,10 +3025,10 @@
                 },
                 "Domestic Super Cup": {
                     "overall": {
-                        "apps": 3,
+                        "apps": 4,
                         "goals": 0,
                         "assists": 0,
-                        "minutes": 243,
+                        "minutes": 295,
                         "minutes_per_goal": null,
                         "minutes_per_goal_contribution": null,
                         "details": {
@@ -3038,13 +3038,13 @@
                             },
                             "appearances": {
                                 "games_started": {
-                                    "count": 3,
-                                    "total": 3
+                                    "count": 4,
+                                    "total": 4
                                 },
                                 "starting_percentage": 100.0,
                                 "captain": {
                                     "count": 0,
-                                    "total": 3
+                                    "total": 4
                                 },
                                 "captain_percentage": 0.0
                             },
@@ -3055,9 +3055,9 @@
                                 "won": 0
                             },
                             "shooting": {
-                                "shots": 3,
-                                "shots_on_target": 1,
-                                "shots_on_target_percentage": 33.33
+                                "shots": 5,
+                                "shots_on_target": 2,
+                                "shots_on_target_percentage": 40.0
                             },
                             "discipline": {
                                 "yellow_cards": 0,
@@ -3066,7 +3066,7 @@
                             "general": {
                                 "fouls_committed": 3,
                                 "fouls_drawn": 0,
-                                "offsides": 0,
+                                "offsides": 1,
                                 "crosses": 0
                             },
                             "defending": {
@@ -3119,6 +3119,57 @@
                                     "fouls_committed": 3,
                                     "fouls_drawn": 0,
                                     "offsides": 0,
+                                    "crosses": 0
+                                },
+                                "defending": {
+                                    "tackles_won": 0,
+                                    "interceptions": 0
+                                }
+                            }
+                        },
+                        "FA Community Shield": {
+                            "apps": 1,
+                            "goals": 0,
+                            "assists": 0,
+                            "minutes": 52,
+                            "minutes_per_goal": null,
+                            "minutes_per_goal_contribution": null,
+                            "details": {
+                                "scoring": {
+                                    "goals_per_game": 0.0,
+                                    "hat_tricks": 0
+                                },
+                                "appearances": {
+                                    "games_started": {
+                                        "count": 1,
+                                        "total": 1
+                                    },
+                                    "starting_percentage": 100.0,
+                                    "captain": {
+                                        "count": 0,
+                                        "total": 1
+                                    },
+                                    "captain_percentage": 0.0
+                                },
+                                "penalties": {
+                                    "scored": 0,
+                                    "attempted": 0,
+                                    "conversion_percentage": null,
+                                    "won": 0
+                                },
+                                "shooting": {
+                                    "shots": 2,
+                                    "shots_on_target": 1,
+                                    "shots_on_target_percentage": 50.0
+                                },
+                                "discipline": {
+                                    "yellow_cards": 0,
+                                    "red_cards": 0
+                                },
+                                "general": {
+                                    "fouls_committed": 0,
+                                    "fouls_drawn": 0,
+                                    "offsides": 1,
                                     "crosses": 0
                                 },
                                 "defending": {
