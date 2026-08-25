@@ -314,6 +314,12 @@
                 "assists": 0
             },
             {
+                "opponent": "Espanyol",
+                "apps": 4,
+                "goals": 2,
+                "assists": 1
+            },
+            {
                 "opponent": "Girona",
                 "apps": 4,
                 "goals": 2,
@@ -327,12 +333,6 @@
             },
             {
                 "opponent": "Atalanta",
-                "apps": 3,
-                "goals": 2,
-                "assists": 1
-            },
-            {
-                "opponent": "Espanyol",
                 "apps": 3,
                 "goals": 2,
                 "assists": 1
@@ -987,7 +987,7 @@
             },
             {
                 "opponent": "Bournemouth",
-                "apps": 9,
+                "apps": 10,
                 "goals": 5,
                 "assists": 1
             },
