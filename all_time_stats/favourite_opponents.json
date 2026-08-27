@@ -68,6 +68,12 @@
                 "assists": 4
             },
             {
+                "opponent": "Real Sociedad",
+                "apps": 7,
+                "goals": 10,
+                "assists": 1
+            },
+            {
                 "opponent": "Saint-Étienne",
                 "apps": 13,
                 "goals": 9,
@@ -100,12 +106,6 @@
             {
                 "opponent": "Manchester City",
                 "apps": 8,
-                "goals": 7,
-                "assists": 1
-            },
-            {
-                "opponent": "Real Sociedad",
-                "apps": 6,
                 "goals": 7,
                 "assists": 1
             },

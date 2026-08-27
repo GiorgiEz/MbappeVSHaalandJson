@@ -1,28 +1,28 @@
 {
     "Kylian Mbappe": {
         "career": {
-            "apps": 578,
-            "goals": 435,
+            "apps": 579,
+            "goals": 438,
             "assists": 158,
-            "minutes": 44579,
-            "minutes_per_goal": 102.48,
-            "minutes_per_goal_contribution": 75.18,
+            "minutes": 44669,
+            "minutes_per_goal": 101.98,
+            "minutes_per_goal_contribution": 74.95,
             "details": {
                 "scoring": {
-                    "goals_per_game": 0.75,
-                    "hat_tricks": 24
+                    "goals_per_game": 0.76,
+                    "hat_tricks": 25
                 },
                 "appearances": {
                     "games_started": {
-                        "count": 494,
-                        "total": 578
+                        "count": 495,
+                        "total": 579
                     },
-                    "starting_percentage": 85.47,
+                    "starting_percentage": 85.49,
                     "captain": {
                         "count": 56,
-                        "total": 578
+                        "total": 579
                     },
-                    "captain_percentage": 9.69
+                    "captain_percentage": 9.67
                 },
                 "penalties": {
                     "scored": 64,
@@ -31,49 +31,49 @@
                     "won": 11
                 },
                 "shooting": {
-                    "shots": 1960,
-                    "shots_on_target": 1003,
-                    "shots_on_target_percentage": 51.17
+                    "shots": 1968,
+                    "shots_on_target": 1010,
+                    "shots_on_target_percentage": 51.32
                 },
                 "discipline": {
                     "yellow_cards": 66,
                     "red_cards": 4
                 },
                 "general": {
-                    "fouls_committed": 280,
+                    "fouls_committed": 282,
                     "fouls_drawn": 632,
                     "offsides": 458,
                     "crosses": 720
                 },
                 "defending": {
                     "tackles_won": 86,
-                    "interceptions": 68
+                    "interceptions": 69
                 }
             }
         },
         "club": {
-            "apps": 472,
-            "goals": 369,
+            "apps": 473,
+            "goals": 372,
             "assists": 120,
-            "minutes": 36389,
-            "minutes_per_goal": 98.62,
-            "minutes_per_goal_contribution": 74.42,
+            "minutes": 36479,
+            "minutes_per_goal": 98.06,
+            "minutes_per_goal_contribution": 74.14,
             "details": {
                 "scoring": {
-                    "goals_per_game": 0.78,
-                    "hat_tricks": 21
+                    "goals_per_game": 0.79,
+                    "hat_tricks": 22
                 },
                 "appearances": {
                     "games_started": {
-                        "count": 403,
-                        "total": 472
+                        "count": 404,
+                        "total": 473
                     },
-                    "starting_percentage": 85.38,
+                    "starting_percentage": 85.41,
                     "captain": {
                         "count": 20,
-                        "total": 472
+                        "total": 473
                     },
-                    "captain_percentage": 4.24
+                    "captain_percentage": 4.23
                 },
                 "penalties": {
                     "scored": 50,
@@ -82,23 +82,23 @@
                     "won": 10
                 },
                 "shooting": {
-                    "shots": 1684,
-                    "shots_on_target": 869,
-                    "shots_on_target_percentage": 51.6
+                    "shots": 1692,
+                    "shots_on_target": 876,
+                    "shots_on_target_percentage": 51.77
                 },
                 "discipline": {
                     "yellow_cards": 55,
                     "red_cards": 4
                 },
                 "general": {
-                    "fouls_committed": 246,
+                    "fouls_committed": 248,
                     "fouls_drawn": 548,
                     "offsides": 410,
                     "crosses": 581
                 },
                 "defending": {
                     "tackles_won": 73,
-                    "interceptions": 58
+                    "interceptions": 59
                 }
             }
         },
