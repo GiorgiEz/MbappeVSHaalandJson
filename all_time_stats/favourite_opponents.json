@@ -908,6 +908,12 @@
                 "assists": 1
             },
             {
+                "opponent": "Crystal Palace",
+                "apps": 7,
+                "goals": 10,
+                "assists": 0
+            },
+            {
                 "opponent": "Wolves",
                 "apps": 7,
                 "goals": 10,
@@ -930,12 +936,6 @@
                 "apps": 8,
                 "goals": 8,
                 "assists": 3
-            },
-            {
-                "opponent": "Crystal Palace",
-                "apps": 6,
-                "goals": 8,
-                "assists": 0
             },
             {
                 "opponent": "Burnley",
