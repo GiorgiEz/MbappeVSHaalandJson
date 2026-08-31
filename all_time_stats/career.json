@@ -156,12 +156,12 @@
     },
     "Erling Haaland": {
         "career": {
-            "apps": 438,
-            "goals": 361,
+            "apps": 439,
+            "goals": 362,
             "assists": 68,
-            "minutes": 32631,
+            "minutes": 32721,
             "minutes_per_goal": 90.39,
-            "minutes_per_goal_contribution": 76.06,
+            "minutes_per_goal_contribution": 76.1,
             "details": {
                 "scoring": {
                     "goals_per_game": 0.82,
@@ -169,13 +169,13 @@
                 },
                 "appearances": {
                     "games_started": {
-                        "count": 366,
-                        "total": 438
+                        "count": 367,
+                        "total": 439
                     },
-                    "starting_percentage": 83.56,
+                    "starting_percentage": 83.6,
                     "captain": {
                         "count": 10,
-                        "total": 438
+                        "total": 439
                     },
                     "captain_percentage": 2.28
                 },
@@ -186,18 +186,18 @@
                     "won": 0
                 },
                 "shooting": {
-                    "shots": 1247,
-                    "shots_on_target": 668,
-                    "shots_on_target_percentage": 53.57
+                    "shots": 1253,
+                    "shots_on_target": 672,
+                    "shots_on_target_percentage": 53.63
                 },
                 "discipline": {
                     "yellow_cards": 31,
                     "red_cards": 0
                 },
                 "general": {
-                    "fouls_committed": 279,
-                    "fouls_drawn": 227,
-                    "offsides": 87,
+                    "fouls_committed": 280,
+                    "fouls_drawn": 228,
+                    "offsides": 88,
                     "crosses": 89
                 },
                 "defending": {
@@ -207,12 +207,12 @@
             }
         },
         "club": {
-            "apps": 383,
-            "goals": 299,
+            "apps": 384,
+            "goals": 300,
             "assists": 60,
-            "minutes": 28133,
-            "minutes_per_goal": 94.09,
-            "minutes_per_goal_contribution": 78.36,
+            "minutes": 28223,
+            "minutes_per_goal": 94.08,
+            "minutes_per_goal_contribution": 78.4,
             "details": {
                 "scoring": {
                     "goals_per_game": 0.78,
@@ -220,13 +220,13 @@
                 },
                 "appearances": {
                     "games_started": {
-                        "count": 313,
-                        "total": 383
+                        "count": 314,
+                        "total": 384
                     },
-                    "starting_percentage": 81.72,
+                    "starting_percentage": 81.77,
                     "captain": {
                         "count": 2,
-                        "total": 383
+                        "total": 384
                     },
                     "captain_percentage": 0.52
                 },
@@ -237,18 +237,18 @@
                     "won": 0
                 },
                 "shooting": {
-                    "shots": 1069,
-                    "shots_on_target": 565,
-                    "shots_on_target_percentage": 52.85
+                    "shots": 1075,
+                    "shots_on_target": 569,
+                    "shots_on_target_percentage": 52.93
                 },
                 "discipline": {
                     "yellow_cards": 29,
                     "red_cards": 0
                 },
                 "general": {
-                    "fouls_committed": 245,
-                    "fouls_drawn": 208,
-                    "offsides": 80,
+                    "fouls_committed": 246,
+                    "fouls_drawn": 209,
+                    "offsides": 81,
                     "crosses": 69
                 },
                 "defending": {
