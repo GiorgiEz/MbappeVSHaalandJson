@@ -332,6 +332,12 @@
                 "assists": 0
             },
             {
+                "opponent": "Real Betis",
+                "apps": 4,
+                "goals": 2,
+                "assists": 0
+            },
+            {
                 "opponent": "Atalanta",
                 "apps": 3,
                 "goals": 2,
@@ -339,12 +345,6 @@
             },
             {
                 "opponent": "Rayo Vallecano",
-                "apps": 3,
-                "goals": 2,
-                "assists": 0
-            },
-            {
-                "opponent": "Real Betis",
                 "apps": 3,
                 "goals": 2,
                 "assists": 0
@@ -477,6 +477,12 @@
             },
             {
                 "opponent": "GSI Pontivy",
+                "apps": 1,
+                "goals": 1,
+                "assists": 0
+            },
+            {
+                "opponent": "Inter",
                 "apps": 1,
                 "goals": 1,
                 "assists": 0
@@ -1256,6 +1262,12 @@
                 "assists": 0
             },
             {
+                "opponent": "Porto",
+                "apps": 1,
+                "goals": 2,
+                "assists": 0
+            },
+            {
                 "opponent": "Sparta Prague",
                 "apps": 1,
                 "goals": 2,
@@ -1353,6 +1365,12 @@
             },
             {
                 "opponent": "Al-Hilal",
+                "apps": 1,
+                "goals": 1,
+                "assists": 0
+            },
+            {
+                "opponent": "Coventry City",
                 "apps": 1,
                 "goals": 1,
                 "assists": 0
