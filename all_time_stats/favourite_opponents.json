@@ -206,6 +206,12 @@
                 "assists": 0
             },
             {
+                "opponent": "Rayo Vallecano",
+                "apps": 4,
+                "goals": 4,
+                "assists": 1
+            },
+            {
                 "opponent": "Ajaccio",
                 "apps": 2,
                 "goals": 4,
@@ -342,12 +348,6 @@
                 "apps": 3,
                 "goals": 2,
                 "assists": 1
-            },
-            {
-                "opponent": "Rayo Vallecano",
-                "apps": 3,
-                "goals": 2,
-                "assists": 0
             },
             {
                 "opponent": "Başakşehir",
@@ -932,16 +932,16 @@
                 "assists": 0
             },
             {
+                "opponent": "Manchester Utd",
+                "apps": 11,
+                "goals": 9,
+                "assists": 3
+            },
+            {
                 "opponent": "Liverpool",
                 "apps": 11,
                 "goals": 8,
                 "assists": 1
-            },
-            {
-                "opponent": "Manchester Utd",
-                "apps": 10,
-                "goals": 8,
-                "assists": 3
             },
             {
                 "opponent": "Fulham",
